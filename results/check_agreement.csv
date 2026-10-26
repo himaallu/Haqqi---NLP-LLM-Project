@@ -1,0 +1,11 @@
+﻿mode,measure,group,n,agreement_pct,kappa,human_filled,llm_filled
+suggestions_visible,problem_type,all,60,100.0,1.0,,
+suggestions_visible,problem_type,ar,30,100.0,1.0,,
+suggestions_visible,problem_type,en,30,100.0,1.0,,
+suggestions_visible,asker,all,60,100.0,1.0,,
+suggestions_visible,asker,ar,30,100.0,1.0,,
+suggestions_visible,asker,en,30,100.0,1.0,,
+suggestions_visible,fact:amount,all,60,100.0,,9.0,9.0
+suggestions_visible,fact:date_mentioned,all,60,100.0,,8.0,8.0
+suggestions_visible,fact:duration,all,60,100.0,,13.0,13.0
+suggestions_visible,fact:employer,all,60,100.0,,0.0,0.0

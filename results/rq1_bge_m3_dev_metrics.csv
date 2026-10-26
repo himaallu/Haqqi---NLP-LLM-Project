@@ -1,0 +1,4 @@
+﻿model,mode,group,n,macro_f1,accuracy
+bge_m3,dev,all,91,0.824,0.813
+bge_m3,dev,ar,48,0.787,0.771
+bge_m3,dev,en,43,0.876,0.86

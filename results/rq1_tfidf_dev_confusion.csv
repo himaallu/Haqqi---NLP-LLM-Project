@@ -1,0 +1,8 @@
+,unpaid_wages,passport_withheld,gratuity,unfair_termination,recruitment_fees,court_enforcement,other
+unpaid_wages,5,0,0,1,0,1,3
+passport_withheld,0,0,0,0,0,0,2
+gratuity,1,0,4,0,0,0,0
+unfair_termination,1,0,0,4,0,0,4
+recruitment_fees,0,0,0,0,0,0,4
+court_enforcement,0,0,0,0,0,11,4
+other,2,0,0,1,0,4,39

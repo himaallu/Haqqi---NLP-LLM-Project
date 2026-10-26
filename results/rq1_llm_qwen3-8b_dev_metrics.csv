@@ -1,0 +1,4 @@
+﻿model,mode,group,n,macro_f1,accuracy
+llm_qwen3-8b,dev,all,91,0.641,0.714
+llm_qwen3-8b,dev,ar,48,0.504,0.646
+llm_qwen3-8b,dev,en,43,0.766,0.791

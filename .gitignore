@@ -1,0 +1,16 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# secrets: never commit keys or tokens
+.env
+*.key
+
+# temporary files written by the scripts
+*.tmp
+
+# the Google Drive upload is built from data/ and results/ (already in the repo)
+haqqi_drive_data.zip

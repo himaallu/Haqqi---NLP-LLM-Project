@@ -1,0 +1,5 @@
+method,fact,gold,predicted,correct,precision,recall
+rules,amount,13,12,10,0.833,0.769
+rules,date_mentioned,6,7,3,0.429,0.5
+rules,duration,14,19,10,0.526,0.714
+rules,employer,0,0,0,,

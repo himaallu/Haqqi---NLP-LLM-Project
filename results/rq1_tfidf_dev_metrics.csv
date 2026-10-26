@@ -1,0 +1,4 @@
+﻿model,mode,group,n,macro_f1,accuracy
+tfidf,dev,all,91,0.489,0.692
+tfidf,dev,ar,48,0.525,0.708
+tfidf,dev,en,43,0.303,0.674

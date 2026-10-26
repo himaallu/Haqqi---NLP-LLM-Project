@@ -1,0 +1,453 @@
+﻿question_id,llm_problem_type,llm_asker,llm_amount,llm_date_mentioned,llm_duration,llm_employer,llm_notes,model,served_by,error,prelabelled_at
+48986,court_enforcement,worker,,عام 2019,,,judgment enforcement; events pre2022,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+52882,other,employer,,,,,notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+53158,other,unclear,,,,,annual leave / absence deduction,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+64234,other,worker,,,11 سنة,,labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+46843,other,worker,,,,,refusing to sign contract; events pre2022,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+52312,unpaid_wages,worker,,,,,salary deductions; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+57204,court_enforcement,worker,,20-09-2022,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+67288,unpaid_wages,worker,,,شهر,,no work permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+50554,other,unclear,,,,,annual leave flight ticket,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+55125,court_enforcement,worker,,13/04/2022,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+54325,court_enforcement,worker,30315 درهم,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+61371,other,worker,,,,,security clearance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+47348,court_enforcement,unclear,,,,,company liability in court,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+64615,unpaid_wages,unclear,,,,,resignation over late salary,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+65065,other,worker,,,,,resignation / notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+47378,gratuity,worker,,,سنتان,,end-of-service dues denied; absconding report,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+61385,other,worker,,,٣ أشهر,,work visa not issued,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+55660,court_enforcement,worker,,,,,court procedure / expert fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+75608,court_enforcement,employer,٤٠ ألف درهم,٥/٩/٢٠٢٣,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+35562,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+50178,court_enforcement,worker,,,,,compensation amount after judgment; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+52824,unfair_termination,worker,,,سنة و8 أشهر,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+58180,other,unclear,,,,,employer claim against former worker,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+70656,court_enforcement,unclear,٤٠ ألف,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+49677,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:35:50+00:00
+52438,unpaid_wages,worker,,,٨ أشهر,,last salary after resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+77268,other,worker,,,سنة ونصف,,resignation / visa transfer,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+65141,other,employer,,,,,resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+51636,unfair_termination,worker,,نهاية شهر ٢/٢٠٢٢,,,restructuring; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+64614,other,employer,,,,,absconding; domestic worker,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+47426,other,worker,4 آلاف درهم,27/12/2021,4 سنوات,,annual leave pay; also: gratuity; work injury; events pre2022,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+48825,court_enforcement,worker,٥٤٠٠٠ درهم,شهر ٨/٢٠٢١,,,judgment enforcement; events pre2022,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+60398,unfair_termination,worker,,,,,non-renewal with short notice,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+49574,gratuity,unclear,,,,,payment method (WPS / cash),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+77223,other,worker,,,حوالي 11 شهرًا,,resignation / labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+80911,unpaid_wages,worker,,,,,freelancer; free zone complaint,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+62619,other,worker,,,,,visa blocked by pending case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+50326,court_enforcement,unclear,,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+61801,unfair_termination,worker,,,,,non-renewal without notice,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+58176,unfair_termination,unclear,,,,,moral damages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+47346,court_enforcement,unclear,,,,,company liability in court,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+51091,other,worker,,,,,resignation during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+49951,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+58848,passport_withheld,worker,,,,,training certificate withheld; asked by brother; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+50300,other,worker,,,,,job offer as contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+86511,other,worker,24 ألف درهم,,,,salary seized for bounced cheque,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+68366,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+47095,court_enforcement,worker,١٤٦ ألف درهم,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+57961,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+58607,court_enforcement,unclear,,,,,court evidence / return ticket; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+52275,unpaid_wages,worker,,,,,unpaid for six months; signing termination papers,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+53789,gratuity,worker,,,,,resigned from abroad,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+51472,other,worker,,,,,compensation for late dues,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+48849,other,worker,,,,,deportation / absconding report; domestic worker,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+58213,other,worker,,,,,call recording / privacy,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:36:35+00:00
+51246,other,employer,,,,,commission in offer vs contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+62087,other,worker,,,,,annual leave pay,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+47330,other,unclear,,,,,remote work / applicable law,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+52655,unfair_termination,unclear,,,,,termination clause in fixed-term contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+72137,gratuity,worker,2500 درهم,,ثلاث سنوات ونصف,,actual vs contract salary,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+58307,other,worker,,,سنتين,,annual leave / weekly rest,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+62176,unpaid_wages,worker,,,,,late salary in instalments; wants to change job,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+50296,unfair_termination,worker,,شهر ١٢,,,forged signature on cancellation; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+49186,other,worker,,,,,family visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:17+00:00
+66935,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+70611,unpaid_wages,worker,٢٥٠٠ درهم,,,,deduction from final settlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+47339,other,worker,,,,,working on visit visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+47555,court_enforcement,unclear,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+72313,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+46502,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+48914,other,worker,,,شهرين,,liability for company funds; asked by husband,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+51748,court_enforcement,unclear,70.000 درهم,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+60385,court_enforcement,worker,,,,,court procedure; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+65207,other,unclear,,,,,fictitious contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+47113,unfair_termination,worker,,,,,outsourcing company,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+63502,unpaid_wages,worker,84000 درهم,شهر 7/2022,,,"salary cut, allowances unpaid; resignation; settlement waiver",claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+69211,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+65925,other,worker,,,,,forged cheque by employer,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+54481,court_enforcement,worker,50 ألف,,,,court procedure / appeal; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+53857,other,worker,,,سبعة أشهر,,labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+72476,gratuity,worker,,,28 سنة,,government job,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+53121,other,worker,,,,,case withdrawal / labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+62505,passport_withheld,worker,2500 درهم,07/2022,,,no work after offer; also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+56598,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+77485,other,worker,5 آلاف درهم,,,,training cost repayment,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+61916,unpaid_wages,worker,,,أكثر من 15 عامًا,,bankrupt company; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+65634,other,worker,,,,,tenancy after layoff (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+52366,recruitment_fees,employer,,,,,visa costs on resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+55956,recruitment_fees,worker,2000 درهم,,,,visa cancellation fines; asked by husband,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+53348,other,worker,,,,,sick leave during notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:18+00:00
+64063,other,unclear,,,,,embezzlement claim after resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+69208,unpaid_wages,worker,,,شهرين,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+55923,other,employer,,,,,partner exit from company (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+61274,other,worker,,,,,job offer vs contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+51049,other,worker,,,,,security clearance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+75351,other,unclear,,,,,annual leave balance at end of service,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+56432,unpaid_wages,worker,,,,,unpaid overtime; also: recruitment_fees; also: passport_withheld,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+57268,unpaid_wages,worker,,,,,"unpaid overtime, bullying; also: unfair_termination; also: passport_withheld",claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+73351,other,unclear,,,,,court documents attestation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+51652,unpaid_wages,worker,,,٩ سنوات,,11 late salaries; commission; change of owner,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+50302,other,worker,,,,,notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+71605,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+45867,unpaid_wages,worker,,,٨ سنوات,,unpaid commission,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+54295,other,unclear,,,,,notice period; leaving after insults,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+49557,court_enforcement,employer,,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+46259,unpaid_wages,worker,,,,,forced to sign termination; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+49577,court_enforcement,worker,,01-06-2021,,,judgment enforcement; events pre2022,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+69176,recruitment_fees,worker,,,,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+67276,other,worker,100 ألف درهم,,,,security cheque demanded,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+63719,other,worker,,,,,absconding report / return to UAE; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+72160,other,worker,,,ثلاث سنوات ونصف,,annual leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+61010,other,worker,,,,,notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+63680,other,worker,,,,,visa cancellation after case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+62199,court_enforcement,worker,20 ألف درهم,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+88875,other,employer,,,,,absconding / absence,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+49482,court_enforcement,worker,,,14 عامًا,,judgment enforcement; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+56511,other,worker,,,,,bounced cheques from former employer,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+59001,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+69447,unfair_termination,worker,,,,,no health insurance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+47799,other,worker,,,سنتين وأحد عشر شهرًا,,experience certificate,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+64794,passport_withheld,worker,,,,,also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+54102,other,worker,,,,,absconding report,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+68968,other,unclear,,,,,visa transfer; company partner,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+23792,unfair_termination,worker,,,٦ سنوات وثلاثة أشهر,,dismissed during annual leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+21952,recruitment_fees,worker,6000 درهم,,,,visa fees demanded; absconding report,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:37:57+00:00
+17563,gratuity,worker,,,ثمان سنوات,,dues conditional on visa cancellation; signing receipt,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+20663,unpaid_wages,worker,,,,,salary 4 months late,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+44710,other,unclear,,,,,notice period / leave balance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+24467,other,unclear,,,,,housing after termination (COVID),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+32447,gratuity,worker,ثمانون ألف درهم,,,,government service merge / pension,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+42633,unpaid_wages,worker,,,,,salary below contract; ID not issued,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+3731,other,worker,,,,,notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+19899,other,worker,,16-12-2019,,,visa during pending case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+40189,other,worker,,,,,job offers after refusing contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+20017,gratuity,unclear,,,,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+29081,recruitment_fees,worker,,,,,third party asks money for visa; possible scam,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+11228,unfair_termination,worker,,,,,dismissed after probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+40589,other,worker,,,,,absconding report; asked by son; also: passport_withheld; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+41331,unpaid_wages,worker,,,,,wages during suspension after acquittal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+21165,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+3653,court_enforcement,worker,,21/2/2018,,,judgment enforcement; work injury,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+39958,other,unclear,,,,,accumulated annual leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+37736,other,unclear,,,,,contract with non-existent company,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+16984,court_enforcement,worker,,,,,court procedure / notification,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+12483,recruitment_fees,worker,,,ثلاثة أشهر,,visa cost on resignation in probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+45471,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+12491,gratuity,worker,,,خمس سنوات,,fears dues will not be paid,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+6807,unfair_termination,unclear,,,,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+22475,gratuity,employer,,,حوالي 10 سنوات,,paying gratuity while keeping worker,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+32530,court_enforcement,worker,,,4 أعوام,,judgment enforcement; settlement pressure,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+34721,recruitment_fees,employer,,,,,worker left in probation; visa expenses,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+22891,unfair_termination,worker,,,٦ سنوات,,COVID layoff during annual leave; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+10596,unfair_termination,worker,,شهر يوليو,,,forced visa cancellation; dues not paid,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+12590,unfair_termination,worker,,17 يونيو,,,terminated by phone call,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+22168,gratuity,worker,,,سنة و9 أشهر,,resignation; GCC national,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+7530,unfair_termination,worker,,7 نوفمبر,,,economic reasons; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+19649,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+30214,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+44426,unpaid_wages,worker,,,,,"vague: money owed, no contract",claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+39437,unpaid_wages,worker,,,عام ونصف,,50% salary deduction; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+12873,unfair_termination,unclear,,,,,conditions for ending unlimited contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+34598,unpaid_wages,worker,,,,,wages during criminal case suspension,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+18130,other,unclear,,,,,contract conversion,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+22460,unfair_termination,worker,,,,,dismissed before probation end,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+29887,unpaid_wages,worker,,,,,"freelancer, no contract",claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:38:46+00:00
+40481,court_enforcement,worker,,,,,court procedure / expert fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+20274,gratuity,worker,,,ثلاث سنوات,,signed settlement unpaid; housing rent deduction; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+27710,unpaid_wages,worker,,,,,unpaid commission; pressure to resign,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+45933,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+12448,other,worker,,,,,job offer verification / possible scam,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+20949,recruitment_fees,worker,,,,,payment demanded on resignation in probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+30077,court_enforcement,unclear,١٩١٦٠ درهم,,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+19863,unfair_termination,worker,,12/1/2020,,,non-renewal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+45175,unpaid_wages,worker,,,,,unpaid commission,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+20245,other,worker,,,شهر ونصف,,resignation / visa / labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+40771,court_enforcement,worker,,,,,court fees; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+7364,gratuity,worker,,,,,bank deducting gratuity for loan,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+23503,other,unclear,,,,,contract renewal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+11229,unfair_termination,worker,,,,,dismissed after probation; same text as 11228,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+31258,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+34025,unfair_termination,worker,,,,,notice period not respected,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+21905,unpaid_wages,worker,8 آلاف درهم,,,,6 months unpaid; wage cut; also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+23117,unfair_termination,worker,,12/03/2020,,,also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+21037,other,worker,,,,,visa transfer (bought residence),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+12913,other,worker,,,,,left UAE without cancellation; asked by friend,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+5266,other,unclear,,,,,free zone applicable law,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+21015,other,unclear,,,,,labour ban after mutual termination in probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+38801,other,worker,,,,,bank loan / return to UAE,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+12184,other,employer,,,٤ سنوات,,employee confidentiality,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+22352,unfair_termination,worker,,16 مارس 2020,,,also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+34173,other,worker,12000 درهم,,,,bank loan travel ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+42212,court_enforcement,unclear,,,,,withdrawing enforcement case / settlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+43869,gratuity,worker,,,,,visa cancellation before dues,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+12284,court_enforcement,worker,,,,,judgment enforcement; PII,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+12607,other,worker,,,,,absconding report / return to UAE,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+40129,unfair_termination,worker,,,,,terminated without notice,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+11003,other,worker,,,,,resignation during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+15438,court_enforcement,worker,,,,,court procedure / partial waiver,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+21883,other,worker,,,,,residence not processed; asked by friend,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+33573,other,unclear,,,,,company law (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+41772,gratuity,worker,,,٧ سنوات,,group of companies; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+11641,other,unclear,,,,,pension registration,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+37341,other,worker,,,ثلاث سنوات تقريبًا,,proving employment without contract; also: unfair_termination; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+44286,other,worker,,,,,resignation during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+44432,gratuity,worker,,,,,signed resignation before dues,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+23544,unpaid_wages,employer,,,,,COVID lockdown,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+23206,other,unclear,,,,,contract renewal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+45221,unfair_termination,worker,,,,,amending claim; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+22688,unpaid_wages,worker,٣٠٠٠ درهم,,,,10 salaries unpaid; monthly deduction,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+43622,gratuity,worker,,مارس 2021,,,left due to COVID border closure,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:39:41+00:00
+27481,unfair_termination,worker,,,١١ شهرًا,,signed termination letter,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+7232,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+35974,unfair_termination,worker,,شهر أبريل من العام 2020,خمس سنوات,,COVID dismissal; wants reinstatement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+45489,court_enforcement,worker,,٢١/٠٩/٢٠٢١,,,judgment enforcement; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+39710,recruitment_fees,worker,,,,,employer demands residence costs; labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+22100,unpaid_wages,worker,,,,,pressured to resign and waive rights,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+26465,unpaid_wages,worker,700.000 درهم,,5 سنوات,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+39442,other,worker,,,,,blank trust receipts used against worker,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+23006,other,unclear,,,,,suspended without pay during criminal case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+39085,recruitment_fees,worker,,,,,online job offer asking fees; possible scam,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+44267,court_enforcement,worker,,,,,judgment enforcement; text is the site summary and includes the answer,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:35+00:00
+24594,other,worker,,26/05/2020,,,labour ban after settlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+34153,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+20780,other,employer,,,,,notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+45765,court_enforcement,worker,,,,,judgment enforcement / insurance policy,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+2650,court_enforcement,worker,78000 ألف درهم,,8 أشهر,,court procedure / reopening hearing,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+27816,other,employer,,,٣ سنوات ونصف,,pay claimed for work during leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+43717,other,unclear,,,,,annual leave pay on resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+21805,other,worker,,شهر ٢ سنة ٢٠٢٠,,,absconding report; PII,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+20268,other,worker,,,,,resignation during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+45074,court_enforcement,worker,,١٩/١٠/٢٠٢١,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+10797,unfair_termination,worker,,٢٦/٣/٢٠١٩,,,terminated in probation after complaint; harassment,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+23338,unpaid_wages,worker,,,40 يومًا,,half salary paid; overstaying,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+17701,unfair_termination,worker,14.000 درهم,15/09/2019,عام و6 أشهر,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+10808,passport_withheld,worker,,,,,during labour case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+18817,unpaid_wages,worker,1800 درهم,,,,salary split; medical costs; also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+42138,court_enforcement,worker,,,,,judgment enforcement; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+40797,unpaid_wages,worker,,,٧ سنوات,,unpaid commission,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+38944,unpaid_wages,worker,,,شهرين,,no contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+45191,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+34056,unfair_termination,worker,,,5 أعوام,,wants reinstatement; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+38812,court_enforcement,worker,,23/03/2021,,,court procedure / appeal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+37336,unpaid_wages,worker,,,,,over 6 months late; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+8728,unpaid_wages,worker,,,,,free zone; group complaint,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+17630,recruitment_fees,worker,,,,,agencies asking visa fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+2679,court_enforcement,worker,,,,,court procedure / evidence; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+33264,other,employer,,,,,employee housing rent,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+43118,other,worker,,,شهر واحد,,resignation during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+12775,other,worker,,,شهرين,,resignation during probation / labour ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+39735,other,worker,,,,,accused of email access; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+23327,unfair_termination,unclear,,,,,compensation after notice,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+42107,other,worker,٤٠٠٠٠٠,,,,bank loan judgment / visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+82195,other,unclear,,,,,final settlement timing after resignation in probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+83936,other,worker,7000 AED,,,,absconding status by visit visa agent; asked by friend,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+88431,recruitment_fees,worker,,,,,visa costs on resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+93754,other,worker,,,,,visa transfer with non-payment certificate; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+90261,other,worker,,,,,criminal case (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+93979,other,worker,,,,,ILOE unemployment insurance claim,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+81372,other,worker,,,,,leaving job / repatriation; asked by sister; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+94807,other,employer,AED 7000,,,,salary advance recovery,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:40:36+00:00
+91621,other,worker,,,,,changing job with criminal case; asked by friend,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+89910,other,worker,,"November 2, 2024",2-year,,non-renewal; skipped handover; absconding risk; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+90666,unfair_termination,worker,,,three months,,false reason given,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+88092,other,worker,,,,,visa not cancelled / transit; owner left,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+99208,unfair_termination,worker,,,,,job cancelled after signing contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+90349,other,worker,,,,,notice period extension; long hours,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+82670,recruitment_fees,worker,9 thousand dirhams,,,,visa and licence costs; lifetime ban; also: passport_withheld,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+89326,gratuity,worker,,,1 year and 27 days,,also: leave salary,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81480,other,unclear,,,,,salary reduction by contract amendment; PII,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+82887,other,worker,,,over 15 years,,notice period / handover,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81847,other,worker,,,,,non-compete during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+102073,court_enforcement,worker,,,,,court procedure / company cannot be served,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+93665,other,worker,,,,,unregistered complaint and new visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+88680,other,employer,,15 September 2024,,,absence after leave / Article 44,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+85323,court_enforcement,worker,"49,000",,,,judgment enforcement; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+91243,other,unclear,,,,,Emirati pension / Nafis,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+94956,other,worker,AED 156k,,,,employer claims business loss from employee,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+91080,other,worker,,,,,visa cancellation mismatch MOHRE / immigration,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+84520,unfair_termination,worker,,,,,failed probation; holiday pay,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+86528,other,worker,,,,,visa cancellation in free zone; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+91096,gratuity,unclear,,,1 year,,UAE national,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+95787,other,worker,,,,,maternity leave pay; asked by husband,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81430,unfair_termination,worker,,,,,fired while on sick leave; training fee; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+83952,passport_withheld,worker,5000 AED,March 2024,,,also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+86793,passport_withheld,worker,,,,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+90984,other,worker,,,,,bank loan / account freeze,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81436,other,worker,,,,,working for another company of same owner,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81190,other,worker,,"Jan 29, 2024",,,visa processing time,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+89720,other,employer,,,,,absconding / visa cancellation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+83567,other,worker,,,over a year,,annual leave on rotational contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+91654,other,worker,,,,,visa renewal during criminal case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+102006,other,worker,,,,,switching visa type,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+94196,other,unclear,,,,,sick leave / overtime,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+89321,other,worker,,,one year,,annual leave pay on resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+98602,other,worker,"AED 10,000",,359 days,,training cost repayment,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+94265,court_enforcement,worker,,21-Mar-25,,,judgment enforcement; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+84712,other,unclear,,,,,free zone complaint authority,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+95613,other,worker,,,,,working hours / rest; domestic worker,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+92722,other,unclear,,,1 year and 6 months,,sick leave entitlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+100997,other,worker,,,,,maternity leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+88754,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81152,other,worker,,,,,visa cancellation during labour case; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+82142,other,worker,,,,,travel ban by former employer,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+90262,court_enforcement,unclear,,,,,court procedure / case lookup,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+92978,other,worker,,,,,police clearance after conviction,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+81742,court_enforcement,worker,AED 12900,27 Dec 2023,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+87530,passport_withheld,worker,,,,,,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+80919,other,unclear,,,,,annual leave balance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+93209,other,worker,,,,,visa medical test,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+90361,other,worker,,,,,remote work permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:41:27+00:00
+96679,other,unclear,,20th May 2025,,,notice period / non-renewal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+94132,other,unclear,,,,,benefit revoked,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+96699,other,unclear,,,,,annual leave calculation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+82364,other,worker,,,,,ban after failed medical test,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+91092,other,employer,,,,,hiring Emirati part-time student,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+92799,other,worker,,,more than one year and 2 months,,visa cancellation after termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+84892,other,worker,,,,,bank case and new visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+90212,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+90792,other,worker,5000 AED,,6 months,,training cost repayment,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+92912,unfair_termination,worker,,,,,redundancy; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+90914,other,unclear,,,,,partner visa; expired licence,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+84589,gratuity,worker,,27.06.2024,,,unpaid leave days,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+82733,other,unclear,,,,,lawyer negligence (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+88932,unpaid_wages,worker,,,2-year,,salary withheld on resignation; also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+81345,recruitment_fees,worker,,,1 year,,"forced resignation; visa, ticket, training costs",claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+84313,unpaid_wages,worker,,,,,notice pay on termination with garden leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+89563,other,worker,,,,,visa cancellation / NOC; asked by friend,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+82823,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+81047,other,worker,,,10 months,,annual leave / ticket,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+94678,other,worker,,,,,entry documents,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+85672,unpaid_wages,worker,,July 24,,,salary withheld until exit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+103166,other,worker,,,,,job offer verification / possible scam,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+93857,recruitment_fees,worker,,,,,visa status change cost; asked by friend,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+88401,other,employer,,,,,employee leaves during probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+91338,other,employer,,,,,health insurance for part-time,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+81922,recruitment_fees,worker,,,4 months,,visa costs on termination in probation; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+95437,other,worker,,,,,non-compete in offer letter,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+83847,other,worker,55k,,,,rental case and visa change; asked by husband,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+101630,gratuity,worker,,,,,notice waived; also: leave pay,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+82890,recruitment_fees,worker,,,7 months,,visa costs on resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+99192,other,worker,,,,,visa rejection / security block,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+86234,other,worker,,"June 6, 2024",,,ILOE claim,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+90870,other,worker,,,,,visa with travel ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+85028,unpaid_wages,worker,,,,,salary delayed,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+84183,recruitment_fees,unclear,,,,,visa costs on resignation in probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+88429,unfair_termination,worker,,,almost 6 months,,probation failed; notice dispute,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+81544,other,worker,,,,,visa cancellation during case; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+96063,other,worker,,,,,visa change; company blocked,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+100373,other,worker,,,five years,,visa rejection,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+88871,other,worker,,,,,visa after job loss,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+96058,other,worker,5000 dirhams,,more than 1 year and 3 months,,early exit penalty,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+101785,other,worker,,,,,non-compete without clause,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+94194,other,worker,,,,,forged signature on contract / notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+96055,other,worker,,,,,leave after resignation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+93318,unpaid_wages,worker,700 AED,,,,salary deduction for fine,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+92376,other,worker,,,a little over a year,,no health insurance / sick leave; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+90502,other,employer,,,,,payment app dispute (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+83987,unpaid_wages,worker,AED 1 million,,,,unpaid commission; insolvency risk,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+94758,other,unclear,,,,,absconding report countersuit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+93302,other,worker,,,,,return ticket entitlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:42:19+00:00
+87195,other,unclear,,,,,shareholder salary on family visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+90883,other,worker,,,,,visa cancellation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+93840,other,unclear,,,,,free zone visa remote work,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+92871,other,worker,,,,,wrong salary in contract / notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+81514,other,unclear,,,,,privacy / personal accounts,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+81464,other,worker,,Feb 29,,,annual leave pay in final settlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+93669,other,worker,,,,,clearance certificate after DUI; asked by brother,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+95435,other,worker,,,11 months,,annual leave entitlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+96589,other,worker,,,,,non-compete,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85106,unfair_termination,worker,,,7 years and 10 months,,redundancy,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+101978,other,worker,,,,,stopping work; contract expired; licence blocked; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+93020,other,worker,,,,,visa cancellation / Emirates ID,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85541,other,unclear,,,,,sick leave counting,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+88017,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+90908,unpaid_wages,worker,,October 30,,,experience letter not given,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85262,gratuity,worker,,20th June 2024,,,resignation after probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+98655,other,worker,,,,,accommodation during job switch,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85704,other,unclear,,,,,working without work permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+80936,court_enforcement,worker,,,,,judgment enforcement; compensation for time unemployed,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85437,passport_withheld,worker,,,,,outpass,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+91737,gratuity,worker,,,11 years,,asked by brother; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+88054,other,unclear,,,,,air ticket entitlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+92545,other,worker,,,,,bank privacy breach (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+94938,other,unclear,,,,,medical ban (TB),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+84374,gratuity,worker,,,,,air ticket refused; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+94097,other,worker,,,,,visa with civil case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+81013,other,worker,"1,000 dirhams",,,,embezzlement accusation / suspension,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85864,other,unclear,,,,,visa cancellation timing,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+84974,other,unclear,,,,,fake online reviews,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+87777,other,worker,4000 AED,,,,salary in offer vs contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+90097,recruitment_fees,worker,"10,000 AED",,,,forced resignation; salary cut; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+91862,other,unclear,,,,,annual leave entitlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+85148,unfair_termination,worker,,,,,redundancy then job reposted,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+81608,other,worker,,,,,early exit from limited contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+88802,other,worker,"5,000 dirhams",,9 months,,early exit penalty,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+91272,other,employer,,,,,health insurance for Emirati employee,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+81223,recruitment_fees,worker,5k,December 2023,,,visa costs on resignation in probation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+84834,other,worker,,,,,identity misused for work permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+82361,court_enforcement,worker,10500,,,,judgment enforcement; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+102555,other,worker,,,,,freelance permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+81291,other,worker,,,,,probation extension after sick leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+91664,other,unclear,,,,,absconding report,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+86550,other,worker,,,,,medical fitness (HIV),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+88856,other,unclear,,,,,maternity leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+83298,unpaid_wages,worker,,March 20,,,resignation in probation; asked to sign dues received; also: recruitment_fees,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+82387,unfair_termination,employer,,,,,how to terminate without arbitrary claim,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+84674,other,worker,400 AED,,,,labour card fine,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+101724,other,worker,,,,,leaving on entry permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+92800,court_enforcement,unclear,,,,,court procedure,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+94089,other,worker,,,,,resignation / visa transfer,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:07+00:00
+91212,other,employer,,,,,Emiratisation quota,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+82392,other,worker,,,,,agency will not cancel visa,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93309,recruitment_fees,worker,,,,,visa cost deducted from salary,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+100552,court_enforcement,worker,,,,,enforcing MOHRE decision; also: unpaid_wages; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+88381,other,worker,,2020,,,re-entry without visa cancellation; company bankrupt; events pre2022,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+81346,other,unclear,,,,,working hours,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+91783,unfair_termination,worker,,January 24th,,,cost-cutting; old vs new law compensation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+91450,other,employer,"AED 50,000",,,,employee worked elsewhere; employer fined,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+82568,other,unclear,,,,,early exit from limited contract; benefits,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+88026,other,unclear,,,,,parental leave,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93580,unfair_termination,worker,,,,,visa never processed,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+82362,other,worker,,,,,new visa after closed criminal case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+87851,unfair_termination,worker,,,,,fired for poor performance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+89790,other,unclear,,,,,absconding after visa cancellation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+96204,other,worker,,,,,lawyer overcharging (not employment),claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+102088,other,worker,"AED 10,000",,,,non-compete and training repayment clauses; asked by husband,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+81905,other,employer,,,,,health insurance after visa cancellation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+86509,unpaid_wages,worker,,,one month,,offer vs contract salary; also: unfair_termination,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+80958,unfair_termination,worker,,,4.5 years,,company losses; asked by wife; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+90711,other,worker,,,,,benefits during notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+92908,other,worker,,,2-year,,resignation after visa renewal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+90825,other,worker,,,,,embezzlement case / travel ban,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93298,other,worker,,,,,leave before contract ends,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93690,court_enforcement,worker,,,,,court procedure / amending claim,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+101631,unfair_termination,worker,,,nearly 5 years,,performance; also: gratuity,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93196,other,employer,,,,,hiring freelancers / work permits,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+84473,other,unclear,,,,,employee bond,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+87045,other,worker,,,one month,,leaving job without contract,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+89731,gratuity,worker,,,,,transfer between group companies,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+90823,other,worker,,January 2024,,,visa not cancelled after leaving,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+81924,other,unclear,,,,,notice period pay,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+81481,other,unclear,,,,,salary reduction by contract amendment; near-duplicate of 81480; PII,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+104531,other,unclear,,,,,sick leave during notice period,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+90522,other,worker,,,,,training cost claim blocking visa cancellation,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93936,other,employer,,,,,freelancer permit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+92673,unpaid_wages,worker,,,,,salary always late; no work given; no insurance,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+91067,court_enforcement,worker,,,,,judgment enforcement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+93416,unpaid_wages,worker,,,almost 1.5 years,,notice deduction from final settlement,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+98352,court_enforcement,worker,"AED 6,000","July 4, 2025",,,judgment enforcement; training cost case won; also: unpaid_wages,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+82411,court_enforcement,worker,,June 22nd,,,court procedure / time limit,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+85994,unpaid_wages,worker,,March 2024,more than 8 years,,no salary since March; resignation after renewal,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00
+91201,gratuity,worker,,,23-month,,absconding case,claude-opus-5-5 (Claude Code session),claude-opus-5-5 (Claude Code session),,2026-10-23T10:43:50+00:00

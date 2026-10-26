@@ -1,0 +1,15 @@
+check,method,lang,n,value
+problem type accuracy,TF-IDF + LR,all,17,0.412
+problem type accuracy,TF-IDF + LR,ar,4,0.75
+problem type accuracy,TF-IDF + LR,en,13,0.308
+problem type accuracy,BGE-M3 + LR,all,17,0.882
+problem type accuracy,BGE-M3 + LR,ar,4,0.75
+problem type accuracy,BGE-M3 + LR,en,13,0.923
+key articles recall_at_3,one_hop,ar,4,0.333
+key articles recall_at_3,one_hop,en,12,0.569
+key articles recall_at_3,two_hop,ar,4,0.833
+key articles recall_at_3,two_hop,en,12,0.861
+key articles hit_at_3,one_hop,ar,4,0.5
+key articles hit_at_3,one_hop,en,12,0.75
+key articles hit_at_3,two_hop,ar,4,1.0
+key articles hit_at_3,two_hop,en,12,1.0

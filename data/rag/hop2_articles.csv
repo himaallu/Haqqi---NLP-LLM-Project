@@ -1,0 +1,1965 @@
+﻿query_id,query_lang,problem_type,hops,rank,article,score,matched
+100373,en,other,two_hop,1,13,26.782,air ticket; emirates id; passport
+100373,en,other,two_hop,2,49,11.746,ban; noc
+100373,en,other,two_hop,3,8,9.778,job offer; عرض عمل
+100552,en,court_enforcement,one_hop,1,22,3.809,unpaid salary
+100552,en,court_enforcement,one_hop,2,51,2.816,gratuity
+100552,en,court_enforcement,two_hop,1,54,34.012,court case; labor case; labor court; labour case; شكوى عمالية; قضية عمالية
+100552,en,court_enforcement,two_hop,2,22,31.442,not paid; pending salary; unpaid salary; wage protection; wps; رواتب متأخرة
+100552,en,court_enforcement,two_hop,3,51,25.183,end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+100997,en,other,one_hop,1,30,9.92,maternity leave; pregnant
+100997,en,other,two_hop,1,30,40.48,gave birth; maternity leave; pregnancy; pregnant
+100997,en,other,two_hop,2,31,40.442,illness; medical certificate; medical leave; sick; sick leave
+100997,en,other,two_hop,3,42,30.354,mutual agreement; resign; resignation
+101630,en,gratuity,one_hop,1,29,3.221,annual leave
+101630,en,gratuity,one_hop,2,51,2.816,gratuity
+101630,en,gratuity,one_hop,3,42,2.646,resignation
+101630,en,gratuity,two_hop,1,51,75.152,21 days; end-of-service; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+101630,en,gratuity,two_hop,2,54,16.28,court case; labor court; labour court
+101630,en,gratuity,two_hop,3,42,15.524,non-renewal; resign; resignation; الاستقالة
+101631,en,unfair_termination,one_hop,1,51,14.676,end of service; end-of-service; eos; gratuity
+101631,en,unfair_termination,one_hop,2,33,4.725,unpaid leave
+101631,en,unfair_termination,two_hop,1,51,48.935,21 days; end of service; end-of-service; eos; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+101631,en,unfair_termination,two_hop,2,43,43.741,notice period; إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+101631,en,unfair_termination,two_hop,3,29,38.741,annual leave; leave balance; leave salary; unused leave; vacation; بدل الإجازة
+101724,en,other,two_hop,1,13,42.194,accommodation; air ticket; emirates id; passport; return ticket
+101724,en,other,two_hop,2,7,9.92,freelance; temporary work
+101724,en,other,two_hop,3,42,8.757,bankruptcy; resignation
+101785,en,other,one_hop,1,10,9.45,competitor; non-compete
+101785,en,other,one_hop,2,43,7.68,garden leave; notice period
+101785,en,other,two_hop,1,42,33.076,mutual agreement; resign; resignation; استقالة; الاستقالة
+101785,en,other,two_hop,2,10,30.591,competitor; non-compete; non-competition
+101785,en,other,two_hop,3,8,22.315,job offer; mohre contract; offer letter; عرض عمل; عقد غير محدد المدة
+101978,en,other,one_hop,1,25,9.333,deduction; salary deduction
+101978,en,other,one_hop,2,42,6.111,contract expired
+101978,en,other,one_hop,3,39,5.013,warning letter
+101978,en,other,two_hop,1,54,27.756,complaint to mohre; court case; labor complaint; labor court; tasheel
+101978,en,other,two_hop,2,13,21.869,emirates id; passport
+101978,en,other,two_hop,3,42,15.905,contract expired; non-renewal; resignation
+102006,en,other,one_hop,1,3,3.339,free zone
+102006,en,other,two_hop,1,13,38.502,accommodation; emirates id; passport
+102006,en,other,two_hop,2,42,17.889,bankruptcy; contract expired; resign; resignation
+102006,en,other,two_hop,3,54,13.77,labour case; labour court; tasheel
+102073,en,court_enforcement,one_hop,1,54,8.534,labor case; labour case
+102073,en,court_enforcement,two_hop,1,54,35.133,labor case; labor court; labour case; labour court
+102073,en,court_enforcement,two_hop,2,22,16.44,not paid; pending salary; unpaid salary
+102073,en,court_enforcement,two_hop,3,29,11.637,annual leave; leave balance; unused leave
+102088,en,other,one_hop,1,10,4.032,non-compete
+102088,en,other,one_hop,2,8,3.278,job offer
+102088,en,other,two_hop,1,10,31.572,competitor; non-compete; non-competition
+102088,en,other,two_hop,2,13,20.648,air ticket; emirates id; passport
+102088,en,other,two_hop,3,42,20.09,contract expired; resign; resignation
+102555,en,other,one_hop,1,7,4.502,freelance
+102555,en,other,one_hop,2,49,3.809,noc
+102555,en,other,two_hop,1,7,28.845,freelance; remote work; temporary work
+102555,en,other,two_hop,2,49,26.521,ban; no objection; noc
+102555,en,other,two_hop,3,54,22.592,court case; file a case; labour case; labour court; tasheel
+103166,en,other,one_hop,1,22,4.32,not paid
+103166,en,other,one_hop,2,8,3.278,job offer
+103166,en,other,two_hop,1,54,28.115,complaint to mohre; file a case; labour case; labour court; tasheel
+103166,en,other,two_hop,2,8,23.958,job offer; offer letter; عرض العمل; عرض عمل
+103166,en,other,two_hop,3,13,21.746,emirates id; official documents; passport
+104531,en,other,one_hop,1,31,12.517,medical certificate; sick; sick leave
+104531,en,other,one_hop,2,43,2.261,notice period
+104531,en,other,two_hop,1,31,41.738,medical certificate; sick; sick leave
+104531,en,other,two_hop,2,42,27.773,mutual agreement; resign; resignation; الاستقالة
+104531,en,other,two_hop,3,53,18.393,14 days; dues; entitlements; final settlement
+10596,ar,unfair_termination,one_hop,1,47,3.914,فصل تعسفي
+10596,ar,unfair_termination,one_hop,2,53,2.779,مستحقاتي
+10596,ar,unfair_termination,two_hop,1,47,58.317,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+10596,ar,unfair_termination,two_hop,2,43,39.978,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+10596,ar,unfair_termination,two_hop,3,51,35.357,مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+10797,ar,unfair_termination,one_hop,1,39,6.111,إنذار أول
+10797,ar,unfair_termination,one_hop,2,9,3.809,فترة التجربة
+10797,ar,unfair_termination,two_hop,1,51,22.665,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+10797,ar,unfair_termination,two_hop,2,47,21.714,الفصل التعسفي; تعويض عن الفصل
+10797,ar,unfair_termination,two_hop,3,43,19.642,إشعار; بدل الإنذار; شهر الإنذار; فترة الإنذار
+10808,ar,passport_withheld,one_hop,1,13,4.166,جواز السفر
+10808,ar,passport_withheld,one_hop,2,54,2.556,قضية عمالية
+10808,ar,passport_withheld,two_hop,1,13,43.781,emirates id; passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+10808,ar,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+10808,ar,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+11003,ar,other,one_hop,1,9,3.809,فترة الاختبار
+11003,ar,other,two_hop,1,9,42.409,probation; probation period; فترة الاختبار; فترة التجربة
+11003,ar,other,two_hop,2,43,24.953,notice period; إشعار; بدل الإنذار; فترة الإشعار; فترة الإنذار
+11003,ar,other,two_hop,3,42,21.877,resign; resignation; إنهاء العقد; استقالة; الاستقالة
+11228,ar,unfair_termination,one_hop,1,9,3.809,فترة الاختبار
+11228,ar,unfair_termination,one_hop,2,47,2.615,الفصل التعسفي
+11228,ar,unfair_termination,two_hop,1,47,40.408,الفصل التعسفي; تعويض عن الفصل; فصل تعسفي
+11228,ar,unfair_termination,two_hop,2,43,28.048,إشعار; بدل الإنذار; فترة الإشعار; فترة الإنذار
+11228,ar,unfair_termination,two_hop,3,51,17.94,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+11229,ar,unfair_termination,one_hop,1,9,3.809,فترة الاختبار
+11229,ar,unfair_termination,two_hop,1,9,31.493,probation; probation period; probationary period; فترة الاختبار; فترة التجربة
+11229,ar,unfair_termination,two_hop,2,43,16.642,notice period; إشعار; بدل الإنذار; فترة الإنذار
+11229,ar,unfair_termination,two_hop,3,47,16.484,الفصل التعسفي; تعويض عن الفصل
+11641,ar,other,one_hop,1,3,4.502,منطقة حرة
+11641,ar,other,two_hop,1,3,27.905,free zone; which law applies; المناطق الحرة; منطقة حرة
+11641,ar,other,two_hop,2,42,21.152,company closed; non-renewal; استقالة; الاستقالة
+11641,ar,other,two_hop,3,49,8.129,no objection; noc
+12184,ar,other,two_hop,1,54,23.697,دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+12184,ar,other,two_hop,2,17,19.658,12 hours; 8 hours; hours per day; working hours
+12184,ar,other,two_hop,3,14,16.948,forced labor; forced to work; تهديد
+12284,ar,court_enforcement,two_hop,1,54,13.117,شكوى عمالية; قضية عمالية
+12284,ar,court_enforcement,two_hop,2,53,12.279,المستحقات; مستحقاتي
+12284,ar,court_enforcement,two_hop,3,69,9.45,التظلم
+12448,ar,other,one_hop,1,8,3.221,عرض عمل
+12448,ar,other,two_hop,1,8,30.138,job offer; عرض العمل; عرض عمل
+12448,ar,other,two_hop,2,13,17.258,accommodation; passport; return ticket; الهوية
+12448,ar,other,two_hop,3,5,8.757,minor; حدث
+12483,ar,recruitment_fees,one_hop,1,6,5.418,تكاليف التأشيرة
+12483,ar,recruitment_fees,one_hop,2,3,4.502,منطقة حرة
+12483,ar,recruitment_fees,one_hop,3,8,4.032,عقد غير محدد المدة
+12483,ar,recruitment_fees,two_hop,1,6,76.192,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة
+12483,ar,recruitment_fees,two_hop,2,9,42.725,probation; probation period; probationary period; فترة الاختبار
+12483,ar,recruitment_fees,two_hop,3,42,33.92,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+12491,ar,gratuity,one_hop,1,53,5.02,المستحقات; مستحقاتي
+12491,ar,gratuity,one_hop,2,50,3.547,هروب
+12491,ar,gratuity,two_hop,1,53,47.815,التسوية النهائية; المستحقات; مستحقاتي
+12491,ar,gratuity,two_hop,2,51,34.259,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+12491,ar,gratuity,two_hop,3,54,25.124,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+12590,ar,unfair_termination,one_hop,1,53,5.418,حقوقي المالية
+12590,ar,unfair_termination,two_hop,1,29,32.348,annual leave; leave salary; vacation; إجازة سنوية; الإجازة السنوية; بدل الإجازة
+12590,ar,unfair_termination,two_hop,2,47,25.811,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+12590,ar,unfair_termination,two_hop,3,43,25.617,notice period; إشعار; بدل الإنذار; شهر الإنذار; فترة الإنذار
+12607,ar,other,one_hop,1,50,7.355,بلاغ هروب; هروب
+12607,ar,other,one_hop,2,54,4.502,تسهيل
+12607,ar,other,two_hop,1,50,49.551,بلاغ هروب; تعميم هروب; هروب
+12607,ar,other,two_hop,2,54,24.088,تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+12607,ar,other,two_hop,3,49,15.157,ban; حرمان; نقل الكفالة
+12775,ar,other,one_hop,1,8,4.032,عقد غير محدد المدة
+12775,ar,other,one_hop,2,9,3.809,فترة التجربة
+12775,ar,other,one_hop,3,49,3.547,حرمان
+12775,ar,other,two_hop,1,42,29.874,mutual agreement; resign; resignation; استقالة; الاستقالة
+12775,ar,other,two_hop,2,9,26.662,فترة الاختبار; فترة التجربة
+12775,ar,other,two_hop,3,49,23.844,حرمان; شهادة عدم ممانعة
+12873,ar,unfair_termination,one_hop,1,42,4.166,إنهاء العقد
+12873,ar,unfair_termination,two_hop,1,47,39.058,arbitrary dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+12873,ar,unfair_termination,two_hop,2,8,23.908,job offer; offer letter; تجديد العقد; عقد محدد المدة
+12873,ar,unfair_termination,two_hop,3,42,20.962,إنهاء العقد; الاستقالة; انتهاء العقد; عدم تجديد العقد
+12913,ar,other,one_hop,1,50,3.547,هروب
+12913,ar,other,one_hop,2,45,3.278,ترك العمل
+12913,ar,other,two_hop,1,50,40.769,absconding; الانقطاع عن العمل; بلاغ هروب; تعميم هروب; هروب
+12913,ar,other,two_hop,2,54,13.577,توافق; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+12913,ar,other,two_hop,3,45,13.113,ترك العمل
+15438,ar,court_enforcement,one_hop,1,65,4.725,تنازل
+15438,ar,court_enforcement,one_hop,2,54,2.556,قضية عمالية
+15438,ar,court_enforcement,one_hop,3,53,2.24,المستحقات
+15438,ar,court_enforcement,two_hop,1,54,34.229,المحكمة العمالية; دعوى عمالية; شكوى عمالية; قضية عمالية
+15438,ar,court_enforcement,two_hop,2,51,18.228,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+15438,ar,court_enforcement,two_hop,3,53,12.279,المستحقات; مستحقاتي
+16984,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+16984,ar,court_enforcement,two_hop,1,54,36.968,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+16984,ar,court_enforcement,two_hop,2,53,7.26,المستحقات; مستحقاتي
+16984,ar,court_enforcement,two_hop,3,47,2.615,الفصل التعسفي
+17563,ar,gratuity,one_hop,1,53,5.02,المستحقات; مستحقاتي
+17563,ar,gratuity,two_hop,1,53,47.815,التسوية النهائية; المستحقات; مستحقاتي
+17563,ar,gratuity,two_hop,2,51,29.246,مكافأة نهاية الخدمة; نهاية الخدمة
+17563,ar,gratuity,two_hop,3,54,25.124,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+17630,ar,recruitment_fees,two_hop,1,6,42.068,pay for the visa; recruitment fees; visa cost; visa costs; visa fees; تكاليف التأشيرة; رسوم الإقامة
+17630,ar,recruitment_fees,two_hop,2,8,39.069,contract renewal; job offer; limited contract; mohre contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+17630,ar,recruitment_fees,two_hop,3,9,16.689,probation; probationary period; فترة الاختبار
+17701,ar,unfair_termination,one_hop,1,8,4.032,عقد محدد المدة
+17701,ar,unfair_termination,one_hop,2,47,2.615,الفصل التعسفي
+17701,ar,unfair_termination,two_hop,1,47,54.22,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+17701,ar,unfair_termination,two_hop,2,43,33.053,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+17701,ar,unfair_termination,two_hop,3,42,22.417,إنهاء العقد; انتهاء العقد; عدم تجديد العقد
+18130,ar,other,one_hop,1,8,8.064,عقد غير محدد المدة; عقد محدد المدة
+18130,ar,other,one_hop,2,14,4.725,تهديد
+18130,ar,other,two_hop,1,8,45.253,تجديد العقد; عرض العمل; عقد غير محدد المدة; عقد محدد المدة
+18130,ar,other,two_hop,2,43,20.335,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+18130,ar,other,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+18817,ar,unpaid_wages,two_hop,1,53,21.779,المستحقات; مستحقاتي
+18817,ar,unpaid_wages,two_hop,2,51,20.756,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+18817,ar,unpaid_wages,two_hop,3,22,20.001,الأجر; رواتب متأخرة
+19649,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+19649,ar,court_enforcement,two_hop,1,54,23.291,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+19649,ar,court_enforcement,two_hop,2,53,9.899,المستحقات; حقوقي المالية
+19649,ar,court_enforcement,two_hop,3,69,9.45,التظلم
+19863,ar,unfair_termination,one_hop,1,42,5.418,عدم تجديد العقد
+19863,ar,unfair_termination,one_hop,2,8,4.725,تجديد العقد
+19863,ar,unfair_termination,one_hop,3,47,2.615,الفصل التعسفي
+19863,ar,unfair_termination,two_hop,1,47,59.856,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+19863,ar,unfair_termination,two_hop,2,43,43.787,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+19863,ar,unfair_termination,two_hop,3,51,32.829,مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+19899,ar,other,one_hop,1,49,3.547,حرمان
+19899,ar,other,one_hop,2,8,3.221,عرض عمل
+19899,ar,other,one_hop,3,54,2.556,قضية عمالية
+19899,ar,other,two_hop,1,54,39.141,labor case; المحكمة العمالية; تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+19899,ar,other,two_hop,2,53,18.605,dues; entitlements; المستحقات; خلال 14 يوما; مستحقاتي
+19899,ar,other,two_hop,3,49,16.751,حرمان; شهادة عدم ممانعة
+20017,ar,gratuity,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+20017,ar,gratuity,two_hop,1,51,62.555,21 days; end-of-service; gratuity; المكافأة; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+20017,ar,gratuity,two_hop,2,53,30.516,التسوية النهائية; المستحقات; مستحقاتي
+20017,ar,gratuity,two_hop,3,25,12.631,اقتطاع; خصم
+20245,ar,other,one_hop,1,8,6.768,عرض العمل; عرض عمل
+20245,ar,other,one_hop,2,13,5.013,الهوية
+20245,ar,other,one_hop,3,42,2.71,الاستقالة
+20245,ar,other,two_hop,1,8,27.288,job offer; عرض العمل; عرض عمل; عقد غير محدد المدة
+20245,ar,other,two_hop,2,42,20.421,resign; resignation; استقالة; الاستقالة
+20245,ar,other,two_hop,3,49,13.205,حرمان; شهادة عدم ممانعة
+20268,ar,other,one_hop,1,9,3.809,فترة التجربة
+20268,ar,other,one_hop,2,45,3.278,ترك العمل
+20268,ar,other,two_hop,1,54,27.763,تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+20268,ar,other,two_hop,2,9,26.662,فترة الاختبار; فترة التجربة
+20268,ar,other,two_hop,3,42,26.133,إنهاء العقد; استقالة; الاستقالة; انتهاء العقد
+20274,ar,gratuity,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+20274,ar,gratuity,one_hop,2,53,5.02,المستحقات; مستحقاتي
+20274,ar,gratuity,one_hop,3,25,5.013,اقتطاع
+20274,ar,gratuity,two_hop,1,51,39.315,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+20274,ar,gratuity,two_hop,2,53,37.377,المستحقات; مستحقاتي
+20274,ar,gratuity,two_hop,3,54,25.124,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+20663,ar,unpaid_wages,two_hop,1,22,55.157,delayed salary; salary delay; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+20663,ar,unpaid_wages,two_hop,2,51,23.572,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+20663,ar,unpaid_wages,two_hop,3,47,23.196,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+20780,ar,other,one_hop,1,43,7.522,شهر الإنذار; فترة الإنذار
+20780,ar,other,one_hop,2,42,2.71,الاستقالة
+20780,ar,other,two_hop,1,43,46.616,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+20780,ar,other,two_hop,2,54,28.184,تسهيل; توافق; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+20780,ar,other,two_hop,3,42,18.921,إنهاء العقد; استقالة; الاستقالة
+20949,ar,recruitment_fees,one_hop,1,9,3.809,فترة الاختبار
+20949,ar,recruitment_fees,one_hop,2,42,2.71,الاستقالة
+20949,ar,recruitment_fees,two_hop,1,6,78.9,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة; رسوم الإقامة
+20949,ar,recruitment_fees,two_hop,2,9,41.663,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+20949,ar,recruitment_fees,two_hop,3,42,30.9,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+21015,ar,other,one_hop,1,9,7.618,فترة الاختبار; فترة التجربة
+21015,ar,other,one_hop,2,49,3.547,حرمان
+21015,ar,other,two_hop,1,8,45.387,mohre contract; تجديد العقد; عرض العمل; عقد غير محدد المدة; عقد محدد المدة
+21015,ar,other,two_hop,2,9,32.631,probation; probation period; فترة الاختبار; فترة التجربة
+21015,ar,other,two_hop,3,42,23.081,resign; resignation; إنهاء العقد; استقالة; الاستقالة
+21037,ar,other,one_hop,1,8,3.221,عرض عمل
+21037,ar,other,two_hop,1,8,19.766,job offer; عرض العمل; عرض عمل
+21037,ar,other,two_hop,2,51,11.968,end-of-service; final settlement; gratuity
+21037,ar,other,two_hop,3,13,11.247,emirates id; passport; الهوية
+21165,ar,court_enforcement,two_hop,1,22,18.811,unpaid salary; wage protection; wps; رواتب متأخرة
+21165,ar,court_enforcement,two_hop,2,53,14.216,dues; entitlements; final settlement; المستحقات; مستحقاتي
+21165,ar,court_enforcement,two_hop,3,54,11.988,المحكمة العمالية; قضية عمالية
+21805,ar,other,one_hop,1,50,7.355,بلاغ هروب; هروب
+21805,ar,other,one_hop,2,49,5.418,نقل الكفالة
+21805,ar,other,one_hop,3,42,2.71,الاستقالة
+21805,ar,other,two_hop,1,50,63.608,absconding; absconding report; بلاغ هروب; تعميم هروب; هروب
+21805,ar,other,two_hop,2,54,31.61,labor case; labor court; تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+21805,ar,other,two_hop,3,9,17.396,probation; probation period; فترة الاختبار; فترة التجربة
+21883,ar,other,one_hop,1,49,3.547,حرمان
+21883,ar,other,two_hop,1,50,23.676,بلاغ هروب; تعميم هروب; هروب
+21883,ar,other,two_hop,2,54,16.47,توافق; دعوى عمالية; شكوى عمالية; قضية عمالية
+21883,ar,other,two_hop,3,43,15.929,بدل الإنذار; فترة الإشعار; فترة الإنذار
+21905,ar,unpaid_wages,one_hop,1,22,3.339,الأجر
+21905,ar,unpaid_wages,one_hop,2,54,2.893,شكوى عمالية
+21905,ar,unpaid_wages,two_hop,1,54,21.225,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+21905,ar,unpaid_wages,two_hop,2,6,19.618,تكاليف الإقامة; رسوم الاستقدام
+21905,ar,unpaid_wages,two_hop,3,51,18.228,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+21952,ar,recruitment_fees,one_hop,1,50,7.355,بلاغ هروب; هروب
+21952,ar,recruitment_fees,one_hop,2,6,5.418,رسوم الإقامة
+21952,ar,recruitment_fees,two_hop,1,6,53.78,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة; رسوم الإقامة
+21952,ar,recruitment_fees,two_hop,2,9,29.725,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+21952,ar,recruitment_fees,two_hop,3,8,27.151,limited contract; mohre contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+22100,ar,unpaid_wages,one_hop,1,43,4.502,إشعار
+22100,ar,unpaid_wages,one_hop,2,42,2.71,الاستقالة
+22100,ar,unpaid_wages,two_hop,1,22,40.689,late salary; pending salary; unpaid salary; unpaid wages; الأجر; تأخير الراتب; رواتب متأخرة
+22100,ar,unpaid_wages,two_hop,2,54,24.296,complaint to mohre; labor complaint; tasheel; رفع قضية; شكوى عمالية; قضية عمالية
+22100,ar,unpaid_wages,two_hop,3,42,22.484,resign; resignation; الاستقالة
+22168,ar,gratuity,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+22168,ar,gratuity,one_hop,2,8,4.032,عقد غير محدد المدة
+22168,ar,gratuity,one_hop,3,42,2.71,الاستقالة
+22168,ar,gratuity,two_hop,1,51,71.015,21 days; end of service; end-of-service; final settlement; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+22168,ar,gratuity,two_hop,2,53,32.351,dues; entitlements; final settlement; التسوية النهائية; المستحقات; مستحقاتي
+22168,ar,gratuity,two_hop,3,29,24.548,annual leave; leave encashment; leave salary; unused leave; vacation
+22352,ar,unfair_termination,one_hop,1,53,2.779,مستحقاتي
+22352,ar,unfair_termination,two_hop,1,47,43.189,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+22352,ar,unfair_termination,two_hop,2,43,27.953,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+22352,ar,unfair_termination,two_hop,3,53,23.809,التسوية النهائية; المستحقات; سداد المستحقات; مستحقاتي
+22460,ar,unfair_termination,one_hop,1,9,3.809,فترة الاختبار
+22460,ar,unfair_termination,one_hop,2,47,2.615,الفصل التعسفي
+22460,ar,unfair_termination,two_hop,1,47,59.661,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+22460,ar,unfair_termination,two_hop,2,43,45.355,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+22460,ar,unfair_termination,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+22475,ar,gratuity,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+22475,ar,gratuity,two_hop,1,51,86.096,21 days; end of service; end-of-service; final settlement; gratuity; المكافأة; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+22475,ar,gratuity,two_hop,2,53,29.674,dues; entitlements; final settlement; التسوية النهائية; المستحقات; مستحقاتي
+22475,ar,gratuity,two_hop,3,29,22.425,annual leave; leave encashment; unused leave; vacation; رصيد الإجازات
+22688,ar,unpaid_wages,one_hop,1,25,5.013,اقتطاع
+22688,ar,unpaid_wages,two_hop,1,22,46.4,delayed salary; salary delay; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+22688,ar,unpaid_wages,two_hop,2,47,23.196,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+22688,ar,unpaid_wages,two_hop,3,53,21.779,المستحقات; مستحقاتي
+22891,ar,unfair_termination,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+22891,ar,unfair_termination,one_hop,2,47,2.615,الفصل التعسفي
+22891,ar,unfair_termination,one_hop,3,53,2.24,المستحقات
+22891,ar,unfair_termination,two_hop,1,47,51.216,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+22891,ar,unfair_termination,two_hop,2,43,36.169,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+22891,ar,unfair_termination,two_hop,3,51,32.829,مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+23006,ar,other,one_hop,1,40,5.418,إيقاف
+23006,ar,other,two_hop,1,42,29.115,resignation; استقالة; الاستقالة; انتهاء العقد
+23006,ar,other,two_hop,2,50,24.634,absconding; absconding case; absconding report; بلاغ هروب; هروب
+23006,ar,other,two_hop,3,54,14.958,labor court; توافق; دعوى عمالية; وزارة الموارد البشرية
+23117,ar,unfair_termination,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+23117,ar,unfair_termination,one_hop,2,47,3.914,فصل تعسفي
+23117,ar,unfair_termination,two_hop,1,47,60.044,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+23117,ar,unfair_termination,two_hop,2,43,36.957,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+23117,ar,unfair_termination,two_hop,3,8,16.821,تجديد العقد; عقد محدد المدة
+23206,ar,other,one_hop,1,8,4.032,عقد محدد المدة
+23206,ar,other,two_hop,1,8,28.917,تجديد العقد; عقد غير محدد المدة; عقد محدد المدة
+23206,ar,other,two_hop,2,42,20.237,mutual agreement; resign; resignation; استقالة; الاستقالة
+23206,ar,other,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+23327,ar,unfair_termination,one_hop,1,47,16.45,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; فصل تعسفي
+23327,ar,unfair_termination,two_hop,1,47,63.352,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+23327,ar,unfair_termination,two_hop,2,43,37.65,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+23327,ar,unfair_termination,two_hop,3,9,19.044,فترة الاختبار; فترة التجربة
+23338,ar,unpaid_wages,one_hop,1,8,6.768,عرض العمل; عرض عمل
+23338,ar,unpaid_wages,one_hop,2,53,2.24,المستحقات
+23338,ar,unpaid_wages,two_hop,1,22,31.552,late salary; unpaid wages; الأجر; تأخير الراتب; رواتب متأخرة
+23338,ar,unpaid_wages,two_hop,2,54,20.279,labor complaint; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+23338,ar,unpaid_wages,two_hop,3,8,20.132,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+23503,ar,other,one_hop,1,8,4.725,تجديد العقد
+23503,ar,other,one_hop,2,22,3.339,الأجر
+23503,ar,other,two_hop,1,8,40.736,تجديد العقد; عرض العمل; عقد غير محدد المدة; عقد محدد المدة
+23503,ar,other,two_hop,2,42,20.237,mutual agreement; resign; resignation; استقالة; الاستقالة
+23503,ar,other,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+23544,ar,unpaid_wages,two_hop,1,53,28.107,dues; entitlements; المستحقات; مستحقاتي
+23544,ar,unpaid_wages,two_hop,2,22,27.296,late salary; pending salary; unpaid wages; الأجر; رواتب متأخرة
+23544,ar,unpaid_wages,two_hop,3,54,27.189,complaint to mohre; labor complaint; tasheel; رفع قضية; شكوى عمالية; قضية عمالية
+23792,ar,unfair_termination,two_hop,1,47,58.562,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+23792,ar,unfair_termination,two_hop,2,43,39.978,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+23792,ar,unfair_termination,two_hop,3,51,16.031,مكافأة نهاية الخدمة; نهاية الخدمة
+24467,ar,other,one_hop,1,33,5.418,إجازة بدون راتب
+24467,ar,other,two_hop,1,53,25.176,14 days; dues; entitlements; final payment; المستحقات
+24467,ar,other,two_hop,2,54,24.901,المحكمة العمالية; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+24467,ar,other,two_hop,3,29,14.858,annual leave; leave salary; إجازة سنوية
+24594,ar,other,one_hop,1,54,5.013,توافق
+24594,ar,other,one_hop,2,49,3.547,حرمان
+24594,ar,other,one_hop,3,53,2.779,مستحقاتي
+24594,ar,other,two_hop,1,54,37.146,labor case; المحكمة العمالية; توافق; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+24594,ar,other,two_hop,2,43,25.712,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+24594,ar,other,two_hop,3,53,15.496,entitlements; المستحقات; مستحقاتي
+26465,ar,unpaid_wages,one_hop,1,53,5.02,المستحقات; مستحقاتي
+26465,ar,unpaid_wages,one_hop,2,51,2.528,نهاية الخدمة
+26465,ar,unpaid_wages,two_hop,1,22,38.068,delayed salary; salary delay; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+26465,ar,unpaid_wages,two_hop,2,53,21.779,المستحقات; مستحقاتي
+26465,ar,unpaid_wages,two_hop,3,8,16.911,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+2650,ar,court_enforcement,one_hop,1,53,2.779,مستحقاتي
+2650,ar,court_enforcement,one_hop,2,54,2.556,قضية عمالية
+2650,ar,court_enforcement,two_hop,1,54,20.042,labor case; دعوى عمالية; شكوى عمالية; قضية عمالية
+2650,ar,court_enforcement,two_hop,2,51,12.884,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+2650,ar,court_enforcement,two_hop,3,69,9.45,التظلم
+2679,ar,court_enforcement,one_hop,1,40,4.166,تحقيق
+2679,ar,court_enforcement,one_hop,2,47,2.615,الفصل التعسفي
+2679,ar,court_enforcement,one_hop,3,54,2.556,قضية عمالية
+2679,ar,court_enforcement,two_hop,1,54,31.683,شكوى عمالية; قضية عمالية
+2679,ar,court_enforcement,two_hop,2,53,17.838,المستحقات; مستحقاتي
+2679,ar,court_enforcement,two_hop,3,51,10.687,مكافأة نهاية الخدمة; نهاية الخدمة
+27481,ar,unfair_termination,two_hop,1,43,36.862,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+27481,ar,unfair_termination,two_hop,2,47,32.34,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+27481,ar,unfair_termination,two_hop,3,54,22.008,رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+27710,ar,unpaid_wages,one_hop,1,40,4.166,تحقيق
+27710,ar,unpaid_wages,one_hop,2,8,4.032,عقد محدد المدة
+27710,ar,unpaid_wages,one_hop,3,42,2.71,الاستقالة
+27710,ar,unpaid_wages,two_hop,1,22,19.799,not paid; unpaid salary; الأجر; رواتب متأخرة
+27710,ar,unpaid_wages,two_hop,2,54,14.781,complaint to mohre; رفع قضية; شكوى عمالية; قضية عمالية
+27710,ar,unpaid_wages,two_hop,3,19,11.53,أوفر تايم; ساعات إضافية
+27816,ar,other,one_hop,1,43,3.714,شهر الإنذار
+27816,ar,other,one_hop,2,22,3.339,الأجر
+27816,ar,other,one_hop,3,54,2.893,شكوى عمالية
+27816,ar,other,two_hop,1,43,40.662,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+27816,ar,other,two_hop,2,54,31.602,labor case; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+27816,ar,other,two_hop,3,65,11.124,التقادم; مرور سنة
+29081,ar,recruitment_fees,one_hop,1,8,3.221,عرض عمل
+29081,ar,recruitment_fees,two_hop,1,6,59.241,pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف التأشيرة
+29081,ar,recruitment_fees,two_hop,2,8,39.069,contract renewal; job offer; limited contract; mohre contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+29081,ar,recruitment_fees,two_hop,3,9,34.738,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+29887,ar,unpaid_wages,one_hop,1,53,5.02,المستحقات; مستحقاتي
+29887,ar,unpaid_wages,two_hop,1,53,24.957,المستحقات; خلال 14 يوما; مستحقاتي
+29887,ar,unpaid_wages,two_hop,2,8,23.353,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+29887,ar,unpaid_wages,two_hop,3,54,12.884,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+30077,ar,court_enforcement,two_hop,1,54,17.1,المحكمة العمالية; قضية عمالية
+30077,ar,court_enforcement,two_hop,2,59,8.331,مخالفة
+30077,ar,court_enforcement,two_hop,3,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+30214,ar,court_enforcement,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+30214,ar,court_enforcement,one_hop,2,22,4.166,رواتب متأخرة
+30214,ar,court_enforcement,one_hop,3,53,2.779,مستحقاتي
+30214,ar,court_enforcement,two_hop,1,53,29.206,dues; entitlements; final settlement; المستحقات; مستحقاتي
+30214,ar,court_enforcement,two_hop,2,51,24.565,end-of-service; final settlement; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+30214,ar,court_enforcement,two_hop,3,54,23.271,labor case; دعوى عمالية; شكوى عمالية; قضية عمالية
+31258,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+31258,ar,court_enforcement,two_hop,1,54,36.631,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+31258,ar,court_enforcement,two_hop,2,47,2.615,الفصل التعسفي
+31258,ar,court_enforcement,two_hop,3,53,2.24,المستحقات
+32447,ar,gratuity,one_hop,1,51,10.069,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+32447,ar,gratuity,two_hop,1,51,52.199,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+32447,ar,gratuity,two_hop,2,53,35.535,التسوية النهائية; المستحقات; مستحقاتي
+32447,ar,gratuity,two_hop,3,25,12.631,اقتطاع; خصم
+32530,ar,court_enforcement,one_hop,1,14,4.725,تهديد
+32530,ar,court_enforcement,two_hop,1,54,32.5,court case; labor case; labor court; labour case; دعوى عمالية; قضية عمالية
+32530,ar,court_enforcement,two_hop,2,69,10.837,grievance; التظلم
+32530,ar,court_enforcement,two_hop,3,22,8.822,not paid; pending salary
+33264,ar,other,two_hop,1,54,29.611,المحكمة العمالية; تسهيل; توافق; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+33264,ar,other,two_hop,2,53,28.423,14 days; dues; entitlements; final payment; المستحقات; خلال 14 يوما; مستحقاتي
+33264,ar,other,two_hop,3,42,9.832,resign; resignation; إنهاء العقد
+33573,ar,other,two_hop,1,8,20.368,تجديد العقد; عرض العمل; عقد غير محدد المدة; عقد محدد المدة
+33573,ar,other,two_hop,2,54,17.946,labor complaint; المحكمة العمالية; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+33573,ar,other,two_hop,3,50,17.093,absconding; الانقطاع عن العمل; بلاغ هروب; هروب
+34025,ar,unfair_termination,one_hop,1,43,4.502,مدة الإنذار
+34025,ar,unfair_termination,two_hop,1,47,59.661,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+34025,ar,unfair_termination,two_hop,2,43,36.957,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+34025,ar,unfair_termination,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+34056,ar,unfair_termination,one_hop,1,51,7.253,المكافأة; نهاية الخدمة
+34056,ar,unfair_termination,one_hop,2,40,5.418,إيقاف
+34056,ar,unfair_termination,one_hop,3,59,4.166,مخالفة
+34056,ar,unfair_termination,two_hop,1,47,29.725,unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+34056,ar,unfair_termination,two_hop,2,9,25.014,probation; probation period; فترة الاختبار; فترة التجربة
+34056,ar,unfair_termination,two_hop,3,53,16.456,14 days; dues; entitlements; المستحقات; مستحقاتي
+34153,ar,court_enforcement,one_hop,1,16,6.111,ممتلكات الشركة
+34153,ar,court_enforcement,one_hop,2,53,5.02,المستحقات; مستحقاتي
+34153,ar,court_enforcement,two_hop,1,53,12.279,المستحقات; مستحقاتي
+34153,ar,court_enforcement,two_hop,2,54,10.561,شكوى عمالية; قضية عمالية
+34153,ar,court_enforcement,two_hop,3,16,6.111,ممتلكات الشركة
+34173,ar,other,two_hop,1,50,40.076,absconding; بلاغ هروب; تعميم هروب; هروب
+34173,ar,other,two_hop,2,54,14.964,تسهيل; توافق; شكوى عمالية; قضية عمالية
+34173,ar,other,two_hop,3,42,12.736,bankruptcy; استقالة; الاستقالة
+34598,ar,unpaid_wages,one_hop,1,40,5.418,قضية جزائية
+34598,ar,unpaid_wages,one_hop,2,8,4.032,عقد غير محدد المدة
+34598,ar,unpaid_wages,two_hop,1,51,23.572,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+34598,ar,unpaid_wages,two_hop,2,54,22.835,تسهيل; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+34598,ar,unpaid_wages,two_hop,3,53,22.318,المستحقات; مستحقاتي
+34721,ar,recruitment_fees,one_hop,1,9,6.111,خلال التجربة
+34721,ar,recruitment_fees,one_hop,2,13,4.166,جواز السفر
+34721,ar,recruitment_fees,two_hop,1,6,65.717,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; رسوم الإقامة
+34721,ar,recruitment_fees,two_hop,2,9,42.174,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+34721,ar,recruitment_fees,two_hop,3,42,28.19,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+35562,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+35562,ar,court_enforcement,two_hop,1,54,39.301,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+35562,ar,court_enforcement,two_hop,2,53,22.717,المستحقات; حقوقي المالية; مستحقاتي
+35562,ar,court_enforcement,two_hop,3,42,6.111,إغلاق الشركة
+35974,ar,unfair_termination,two_hop,1,47,40.779,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+35974,ar,unfair_termination,two_hop,2,43,23.356,إشعار; بدل الإنذار; شهر الإنذار; فترة الإنذار
+35974,ar,unfair_termination,two_hop,3,9,19.044,فترة الاختبار; فترة التجربة
+3653,ar,court_enforcement,one_hop,1,46,5.418,عجز
+3653,ar,court_enforcement,two_hop,1,53,24.96,dues; المستحقات; مستحقاتي
+3653,ar,court_enforcement,two_hop,2,54,23.741,تسهيل; شكوى عمالية; قضية عمالية
+3653,ar,court_enforcement,two_hop,3,51,10.687,مكافأة نهاية الخدمة; نهاية الخدمة
+3731,ar,other,one_hop,1,45,3.278,ترك العمل
+3731,ar,other,two_hop,1,42,31.548,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+3731,ar,other,two_hop,2,43,26.406,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+3731,ar,other,two_hop,3,54,17.03,توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+37336,ar,unpaid_wages,one_hop,1,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+37336,ar,unpaid_wages,one_hop,2,22,4.166,رواتب متأخرة
+37336,ar,unpaid_wages,two_hop,1,22,57.524,delayed salary; late salary; salary delay; unpaid wages; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+37336,ar,unpaid_wages,two_hop,2,47,25.811,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+37336,ar,unpaid_wages,two_hop,3,53,22.148,dues; entitlements; المستحقات; مستحقاتي
+37341,ar,other,one_hop,1,8,3.221,عرض عمل
+37341,ar,other,two_hop,1,8,47.924,تجديد العقد; عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+37341,ar,other,two_hop,2,42,16.211,إنهاء العقد; استقالة; الاستقالة
+37341,ar,other,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+37736,ar,other,one_hop,1,53,2.24,المستحقات
+37736,ar,other,two_hop,1,54,13.444,file a case; دعوى عمالية; شكوى عمالية
+37736,ar,other,two_hop,2,8,10.314,عرض العمل; عرض عمل
+37736,ar,other,two_hop,3,42,9.698,mutual agreement; resign; resignation
+38801,ar,other,two_hop,1,50,32.903,بلاغ هروب; تعميم هروب; هروب
+38801,ar,other,two_hop,2,54,18.079,تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية
+38801,ar,other,two_hop,3,8,16.756,عرض العمل; عرض عمل
+38812,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+38812,ar,court_enforcement,two_hop,1,54,34.412,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+38812,ar,court_enforcement,two_hop,2,51,12.884,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+38812,ar,court_enforcement,two_hop,3,29,5.418,راتب الإجازة
+38944,ar,unpaid_wages,one_hop,1,8,6.111,لم أوقع العقد
+38944,ar,unpaid_wages,two_hop,1,54,25.871,labor complaint; تسهيل; دعوى عمالية; رفع قضية; قضية عمالية
+38944,ar,unpaid_wages,two_hop,2,8,20.132,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+38944,ar,unpaid_wages,two_hop,3,53,19.907,dues; entitlements; المستحقات; مستحقاتي
+39085,ar,recruitment_fees,one_hop,1,8,6.768,عرض العمل; عرض عمل
+39085,ar,recruitment_fees,two_hop,1,6,36.83,pay for the visa; recruitment fees; visa costs; تكاليف التأشيرة; رسوم الإقامة
+39085,ar,recruitment_fees,two_hop,2,8,25.165,job offer; limited contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+39085,ar,recruitment_fees,two_hop,3,9,12.774,probation; خلال التجربة; فترة الاختبار
+39437,ar,unpaid_wages,one_hop,1,25,9.92,خصم; خصومات
+39437,ar,unpaid_wages,one_hop,2,29,8.822,الإجازة السنوية; بدل الإجازة
+39437,ar,unpaid_wages,one_hop,3,53,5.02,المستحقات; مستحقاتي
+39437,ar,unpaid_wages,two_hop,1,25,29.396,deducted; deduction; استقطاع; اقتطاع; خصم; خصومات
+39437,ar,unpaid_wages,two_hop,2,53,27.668,dues; المستحقات; خلال 14 يوما; مستحقاتي
+39437,ar,unpaid_wages,two_hop,3,54,26.413,رفع قضية; شكوى عمالية; قضية عمالية
+39442,ar,other,two_hop,1,54,41.128,complaint to mohre; tasheel; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+39442,ar,other,two_hop,2,42,13.864,mutual agreement; resign; resignation; إنهاء العقد
+39442,ar,other,two_hop,3,53,10.578,المستحقات; مستحقاتي
+39710,ar,recruitment_fees,one_hop,1,49,3.547,حرمان
+39710,ar,recruitment_fees,two_hop,1,6,65.535,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة; رسوم الإقامة
+39710,ar,recruitment_fees,two_hop,2,9,35.694,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+39710,ar,recruitment_fees,two_hop,3,42,27.879,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+39735,ar,other,one_hop,1,54,3.116,وزارة الموارد البشرية
+39735,ar,other,one_hop,2,53,2.779,مستحقاتي
+39735,ar,other,two_hop,1,54,26.074,file a case; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+39735,ar,other,two_hop,2,42,11.378,إنهاء العقد; الاستقالة; انتهاء العقد
+39735,ar,other,two_hop,3,53,10.578,المستحقات; مستحقاتي
+39958,ar,other,one_hop,1,29,4.32,الإجازة السنوية
+39958,ar,other,one_hop,2,53,2.24,المستحقات
+39958,ar,other,two_hop,1,29,36.416,annual leave; leave salary; unused leave; إجازة سنوية; الإجازة السنوية; بدل الإجازة
+39958,ar,other,two_hop,2,13,22.249,air ticket; flight ticket; return ticket; تذكرة طيران
+39958,ar,other,two_hop,3,51,16.031,مكافأة نهاية الخدمة; نهاية الخدمة
+40129,ar,unfair_termination,two_hop,1,47,29.342,arbitrary dismissal; الفصل التعسفي; تعويض عن الفصل
+40129,ar,unfair_termination,two_hop,2,8,15.151,job offer; offer letter; عقد محدد المدة
+40129,ar,unfair_termination,two_hop,3,43,15.074,notice period; إشعار; بدل الإنذار; مدة الإنذار
+40189,ar,other,two_hop,1,54,28.456,labor case; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+40189,ar,other,two_hop,2,8,18.864,عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+40189,ar,other,two_hop,3,43,16.642,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+40481,ar,court_enforcement,one_hop,1,54,3.116,دعوى عمالية
+40481,ar,court_enforcement,two_hop,1,54,31.647,labor case; labor court; دعوى عمالية; قضية عمالية
+40481,ar,court_enforcement,two_hop,2,51,20.756,end-of-service; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+40481,ar,court_enforcement,two_hop,3,55,10.837,court fees; رسوم المحكمة
+40589,ar,other,one_hop,1,50,7.355,بلاغ هروب; هروب
+40589,ar,other,two_hop,1,50,54.969,بلاغ هروب; تعميم هروب; هروب
+40589,ar,other,two_hop,2,54,37.026,تسهيل; توافق; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+40589,ar,other,two_hop,3,49,21.349,ban; حرمان; نقل الكفالة
+40771,ar,court_enforcement,one_hop,1,55,6.111,رسوم المحكمة
+40771,ar,court_enforcement,one_hop,2,54,2.556,قضية عمالية
+40771,ar,court_enforcement,two_hop,1,54,23.755,labor case; labor court; دعوى عمالية; شكوى عمالية; قضية عمالية
+40771,ar,court_enforcement,two_hop,2,51,13.503,gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+40771,ar,court_enforcement,two_hop,3,22,12.987,not paid; pending salary; رواتب متأخرة
+40797,ar,unpaid_wages,two_hop,1,8,16.911,عرض العمل; عرض عمل; عقد محدد المدة; لم أوقع العقد
+40797,ar,unpaid_wages,two_hop,2,51,16.031,مكافأة نهاية الخدمة; نهاية الخدمة
+40797,ar,unpaid_wages,two_hop,3,22,15.009,الأجر; رواتب متأخرة
+41331,ar,unpaid_wages,one_hop,1,54,2.556,قضية عمالية
+41331,ar,unpaid_wages,two_hop,1,22,30.138,delayed salary; salary delay; wage protection; رواتب متأخرة
+41331,ar,unpaid_wages,two_hop,2,53,24.02,المستحقات; مستحقاتي
+41331,ar,unpaid_wages,two_hop,3,51,23.572,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+41772,ar,gratuity,one_hop,1,22,9.584,حماية الأجور; رواتب متأخرة
+41772,ar,gratuity,one_hop,2,54,6.876,رفع قضية; قضية عمالية
+41772,ar,gratuity,one_hop,3,53,5.02,المستحقات; مستحقاتي
+41772,ar,gratuity,two_hop,1,53,47.815,التسوية النهائية; المستحقات; مستحقاتي
+41772,ar,gratuity,two_hop,2,51,29.246,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+41772,ar,gratuity,two_hop,3,54,23.148,labour court; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+42107,ar,other,two_hop,1,8,20.035,job offer; عرض العمل; عرض عمل
+42107,ar,other,two_hop,2,54,14.494,labor case; توافق; دعوى عمالية; قضية عمالية
+42107,ar,other,two_hop,3,50,12.774,بلاغ هروب; تعميم هروب; هروب
+42138,ar,court_enforcement,two_hop,1,54,36.905,court case; labor case; labor court; labour case; شكوى عمالية; قضية عمالية
+42138,ar,court_enforcement,two_hop,2,53,17.769,dues; المستحقات; مستحقاتي
+42138,ar,court_enforcement,two_hop,3,51,10.687,مكافأة نهاية الخدمة; نهاية الخدمة
+42212,ar,court_enforcement,one_hop,1,53,2.24,المستحقات
+42212,ar,court_enforcement,two_hop,1,54,19.125,دعوى عمالية; شكوى عمالية; قضية عمالية
+42212,ar,court_enforcement,two_hop,2,53,14.52,المستحقات; مستحقاتي
+42212,ar,court_enforcement,two_hop,3,51,10.687,مكافأة نهاية الخدمة; نهاية الخدمة
+42633,ar,unpaid_wages,one_hop,1,22,5.418,تأخير الراتب
+42633,ar,unpaid_wages,one_hop,2,13,5.013,الهوية
+42633,ar,unpaid_wages,two_hop,1,22,43.487,delayed salary; salary delay; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+42633,ar,unpaid_wages,two_hop,2,54,30.558,tasheel; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+42633,ar,unpaid_wages,two_hop,3,53,17.23,dues; المستحقات; مستحقاتي
+43118,ar,other,one_hop,1,9,3.809,فترة التجربة
+43118,ar,other,one_hop,2,42,2.71,الاستقالة
+43118,ar,other,two_hop,1,42,42.416,mutual agreement; resign; resignation; إنهاء العقد; استقالة; الاستقالة
+43118,ar,other,two_hop,2,9,32.631,probation; probation period; فترة الاختبار; فترة التجربة
+43118,ar,other,two_hop,3,8,26.384,mohre contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+43622,ar,gratuity,one_hop,1,53,5.02,المستحقات; مستحقاتي
+43622,ar,gratuity,two_hop,1,53,52.834,التسوية النهائية; المستحقات; مستحقاتي
+43622,ar,gratuity,two_hop,2,51,23.902,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+43622,ar,gratuity,two_hop,3,54,22.925,labour court; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+43717,ar,other,one_hop,1,29,8.822,إجازة سنوية; الإجازة السنوية
+43717,ar,other,one_hop,2,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+43717,ar,other,one_hop,3,42,2.71,الاستقالة
+43717,ar,other,two_hop,1,29,62.245,annual leave; leave balance; leave salary; unused leave; vacation; إجازة سنوية; الإجازة السنوية; رصيد الإجازات
+43717,ar,other,two_hop,2,42,20.357,resign; resignation; استقالة; الاستقالة
+43717,ar,other,two_hop,3,51,19.552,end-of-service; final settlement; مكافأة نهاية الخدمة; نهاية الخدمة
+43869,ar,gratuity,one_hop,1,53,2.24,المستحقات
+43869,ar,gratuity,two_hop,1,53,45.473,entitlements; التسوية النهائية; المستحقات; مستحقاتي
+43869,ar,gratuity,two_hop,2,51,37.074,end-of-service; gratuity; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+43869,ar,gratuity,two_hop,3,54,19.634,court case; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+44286,ar,other,one_hop,1,42,6.625,استقالة; الاستقالة
+44286,ar,other,one_hop,2,8,4.032,عقد غير محدد المدة
+44286,ar,other,one_hop,3,9,3.809,فترة الاختبار
+44286,ar,other,two_hop,1,42,38.542,mutual agreement; resign; resignation; إنهاء العقد; استقالة; الاستقالة; انتهاء العقد
+44286,ar,other,two_hop,2,9,30.471,فترة الاختبار; فترة التجربة
+44286,ar,other,two_hop,3,43,26.501,notice period; إشعار; بدل الإنذار; فترة الإشعار; فترة الإنذار
+44426,ar,unpaid_wages,two_hop,1,54,27.378,تسهيل; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+44426,ar,unpaid_wages,two_hop,2,53,17.299,المستحقات; مستحقاتي
+44426,ar,unpaid_wages,two_hop,3,8,16.1,عرض العمل; عرض عمل; لم أوقع العقد
+44432,ar,gratuity,one_hop,1,53,5.02,المستحقات; مستحقاتي
+44432,ar,gratuity,one_hop,2,42,2.71,الاستقالة
+44432,ar,gratuity,two_hop,1,53,50.055,التسوية النهائية; المستحقات; مستحقاتي
+44432,ar,gratuity,two_hop,2,51,29.246,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+44432,ar,gratuity,two_hop,3,54,28.24,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+44710,ar,other,one_hop,1,29,5.013,رصيد الإجازات
+44710,ar,other,one_hop,2,43,3.809,فترة الإنذار
+44710,ar,other,one_hop,3,42,2.71,الاستقالة
+44710,ar,other,two_hop,1,43,40.662,notice period; بدل الإنذار; شهر الإنذار; فترة الإنذار; مدة الإنذار
+44710,ar,other,two_hop,2,42,29.756,resign; resignation; استقالة; الاستقالة
+44710,ar,other,two_hop,3,29,25.983,annual leave; leave salary; إجازة سنوية; الإجازة السنوية; رصيد الإجازات
+45074,ar,court_enforcement,one_hop,1,54,3.116,دعوى عمالية
+45074,ar,court_enforcement,two_hop,1,54,31.519,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+45074,ar,court_enforcement,two_hop,2,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+45074,ar,court_enforcement,two_hop,3,29,5.418,راتب الإجازة
+45175,ar,unpaid_wages,two_hop,1,54,23.395,labor complaint; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+45175,ar,unpaid_wages,two_hop,2,53,22.687,dues; entitlements; المستحقات; مستحقاتي
+45175,ar,unpaid_wages,two_hop,3,25,18.742,اقتطاع; خصم; خصومات
+45191,ar,court_enforcement,one_hop,1,53,7.659,المستحقات; حقوقي المالية
+45191,ar,court_enforcement,one_hop,2,54,2.556,قضية عمالية
+45191,ar,court_enforcement,two_hop,1,53,34.154,dues; entitlements; final settlement; المستحقات; حقوقي المالية; مستحقاتي
+45191,ar,court_enforcement,two_hop,2,54,28.853,تسهيل; شكوى عمالية; قضية عمالية
+45191,ar,court_enforcement,two_hop,3,22,18.811,unpaid salary; wage protection; wps; رواتب متأخرة
+45221,ar,unfair_termination,one_hop,1,47,11.031,الفصل التعسفي; بدل فصل تعسفي; فصل تعسفي
+45221,ar,unfair_termination,one_hop,2,53,5.02,المستحقات; مستحقاتي
+45221,ar,unfair_termination,one_hop,3,51,2.528,نهاية الخدمة
+45221,ar,unfair_termination,two_hop,1,47,81.889,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+45221,ar,unfair_termination,two_hop,2,43,44.384,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+45221,ar,unfair_termination,two_hop,3,51,31.923,المكافأة; مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+45471,ar,court_enforcement,two_hop,1,53,10.039,المستحقات; مستحقاتي
+45471,ar,court_enforcement,two_hop,2,16,6.111,ممتلكات الشركة
+45471,ar,court_enforcement,two_hop,3,54,5.449,شكوى عمالية; قضية عمالية
+45489,ar,court_enforcement,one_hop,1,54,5.449,شكوى عمالية; قضية عمالية
+45489,ar,court_enforcement,one_hop,2,53,5.02,المستحقات; مستحقاتي
+45489,ar,court_enforcement,two_hop,1,54,27.55,labor case; تسهيل; شكوى عمالية; قضية عمالية
+45489,ar,court_enforcement,two_hop,2,53,22.249,dues; المستحقات; مستحقاتي
+45489,ar,court_enforcement,two_hop,3,22,12.987,not paid; pending salary; رواتب متأخرة
+45765,ar,court_enforcement,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+45765,ar,court_enforcement,two_hop,1,53,32.384,dues; entitlements; final settlement; المستحقات; حقوقي المالية; مستحقاتي
+45765,ar,court_enforcement,two_hop,2,51,22.368,end-of-service; final settlement; مكافأة نهاية الخدمة; نهاية الخدمة
+45765,ar,court_enforcement,two_hop,3,54,20.378,labor case; دعوى عمالية; شكوى عمالية; قضية عمالية
+45867,ar,unpaid_wages,one_hop,1,54,6.876,رفع قضية; قضية عمالية
+45867,ar,unpaid_wages,two_hop,1,8,20.132,عرض العمل; عرض عمل; عقد محدد المدة; لم أوقع العقد
+45867,ar,unpaid_wages,two_hop,2,25,19.946,اقتطاع; خصم; خصومات
+45867,ar,unpaid_wages,two_hop,3,54,19.76,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+45933,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+45933,ar,court_enforcement,two_hop,1,54,15.673,شكوى عمالية; قضية عمالية
+45933,ar,court_enforcement,two_hop,2,53,7.26,المستحقات; مستحقاتي
+45933,ar,court_enforcement,two_hop,3,65,5.013,التقادم
+46259,ar,unpaid_wages,one_hop,1,19,6.111,ساعات إضافية
+46259,ar,unpaid_wages,one_hop,2,14,4.725,تهديد
+46259,ar,unpaid_wages,two_hop,1,22,27.584,late salary; not paid; unpaid salary; unpaid wages; رواتب متأخرة
+46259,ar,unpaid_wages,two_hop,2,53,22.687,dues; entitlements; المستحقات; مستحقاتي
+46259,ar,unpaid_wages,two_hop,3,25,21.045,استقطاع; اقتطاع; خصم; خصومات
+46502,ar,court_enforcement,two_hop,1,53,20.408,dues; المستحقات; حقوقي المالية; مستحقاتي
+46502,ar,court_enforcement,two_hop,2,54,19.125,دعوى عمالية; شكوى عمالية; قضية عمالية
+46502,ar,court_enforcement,two_hop,3,69,9.45,التظلم
+46843,ar,other,one_hop,1,8,4.032,عقد محدد المدة
+46843,ar,other,two_hop,1,8,34.931,job offer; تجديد العقد; عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+46843,ar,other,two_hop,2,42,19.033,mutual agreement; resign; resignation; استقالة; الاستقالة
+46843,ar,other,two_hop,3,43,16.642,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+47095,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+47095,ar,court_enforcement,two_hop,1,54,24.124,دعوى عمالية; قضية عمالية
+47095,ar,court_enforcement,two_hop,2,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+47095,ar,court_enforcement,two_hop,3,44,6.111,خطأ جسيم
+47113,ar,unfair_termination,one_hop,1,47,8.033,الفصل التعسفي; تعويض الفصل
+47113,ar,unfair_termination,one_hop,2,11,6.111,تعهيد
+47113,ar,unfair_termination,one_hop,3,42,4.166,إنهاء العقد
+47113,ar,unfair_termination,two_hop,1,47,70.692,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+47113,ar,unfair_termination,two_hop,2,43,48.289,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+47113,ar,unfair_termination,two_hop,3,51,16.031,مكافأة نهاية الخدمة; نهاية الخدمة
+47330,ar,other,two_hop,1,8,19.614,job offer; تجديد العقد; عرض العمل; عقد غير محدد المدة; عقد محدد المدة
+47330,ar,other,two_hop,2,53,15.308,14 days; dues; entitlements; final payment
+47330,ar,other,two_hop,3,51,10.687,end-of-service; gratuity
+47339,ar,other,one_hop,1,57,5.013,التفتيش
+47339,ar,other,one_hop,2,8,3.221,عرض عمل
+47339,ar,other,two_hop,1,13,32.893,accommodation; emirates id; passport; return ticket; الهوية
+47339,ar,other,two_hop,2,8,26.802,job offer; عرض العمل; عرض عمل
+47339,ar,other,two_hop,3,54,16.886,labour case; labour court; tasheel; دعوى عمالية
+47346,ar,court_enforcement,one_hop,1,54,3.116,دعوى عمالية
+47346,ar,court_enforcement,two_hop,1,54,13.107,المحكمة العمالية; دعوى عمالية; قضية عمالية
+47346,ar,court_enforcement,two_hop,2,50,3.547,هروب
+47348,ar,court_enforcement,two_hop,1,54,15.663,المحكمة العمالية; دعوى عمالية; قضية عمالية
+47348,ar,court_enforcement,two_hop,2,65,5.013,التقادم
+47348,ar,court_enforcement,two_hop,3,50,3.547,هروب
+47378,ar,gratuity,one_hop,1,50,7.355,بلاغ هروب; هروب
+47378,ar,gratuity,one_hop,2,53,5.02,المستحقات; مستحقاتي
+47378,ar,gratuity,one_hop,3,42,2.71,الاستقالة
+47378,ar,gratuity,two_hop,1,53,50.594,التسوية النهائية; المستحقات; مستحقاتي
+47378,ar,gratuity,two_hop,2,51,34.589,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+47378,ar,gratuity,two_hop,3,54,12.884,رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+47426,ar,other,one_hop,1,29,4.502,بدل الإجازة
+47426,ar,other,one_hop,2,51,2.528,نهاية الخدمة
+47426,ar,other,two_hop,1,29,34.294,annual leave; leave salary; إجازة سنوية; الإجازة السنوية; بدل الإجازة; رصيد الإجازات
+47426,ar,other,two_hop,2,54,20.145,توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+47426,ar,other,two_hop,3,42,19.503,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+47555,ar,court_enforcement,one_hop,1,54,3.116,دعوى عمالية
+47555,ar,court_enforcement,two_hop,1,54,8.228,دعوى عمالية; قضية عمالية
+47555,ar,court_enforcement,two_hop,2,16,6.111,ممتلكات الشركة
+47555,ar,court_enforcement,two_hop,3,53,5.02,المستحقات; مستحقاتي
+47799,ar,other,one_hop,1,13,9.738,شهادة الخبرة; شهادة خبرة
+47799,ar,other,two_hop,1,54,15.826,labor case; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+47799,ar,other,two_hop,2,8,14.832,عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+47799,ar,other,two_hop,3,43,14.381,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+48825,ar,court_enforcement,one_hop,1,53,5.02,المستحقات; مستحقاتي
+48825,ar,court_enforcement,one_hop,2,54,2.893,شكوى عمالية
+48825,ar,court_enforcement,two_hop,1,54,30.665,labor case; تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+48825,ar,court_enforcement,two_hop,2,53,19.539,المستحقات; مستحقاتي
+48825,ar,court_enforcement,two_hop,3,22,12.987,not paid; pending salary; رواتب متأخرة
+48849,ar,other,one_hop,1,50,12.774,بلاغ هروب; تعميم هروب; هروب
+48849,ar,other,one_hop,2,54,7.569,توافق; قضية عمالية
+48849,ar,other,one_hop,3,25,3.809,خصم
+48849,ar,other,two_hop,1,50,40.258,بلاغ هروب; تعميم هروب; هروب
+48849,ar,other,two_hop,2,49,24.896,ban; حرمان; نقل الكفالة
+48849,ar,other,two_hop,3,54,17.52,تسهيل; توافق; شكوى عمالية; قضية عمالية
+48914,ar,other,two_hop,1,54,35.62,file a case; labor case; labor complaint; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+48914,ar,other,two_hop,2,30,21.045,gave birth; maternity leave; pregnancy; pregnant
+48914,ar,other,two_hop,3,22,11.18,pending salary; الأجر
+48986,ar,court_enforcement,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+48986,ar,court_enforcement,one_hop,2,54,2.893,شكوى عمالية
+48986,ar,court_enforcement,one_hop,3,53,2.24,المستحقات
+48986,ar,court_enforcement,two_hop,1,22,31.442,not paid; pending salary; unpaid salary; wage protection; wps; رواتب متأخرة
+48986,ar,court_enforcement,two_hop,2,51,29.908,end-of-service; final settlement; gratuity; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+48986,ar,court_enforcement,two_hop,3,53,29.173,dues; entitlements; final settlement; المستحقات; مستحقاتي
+49186,ar,other,two_hop,1,13,23.592,emirates id; official documents; passport; الهوية
+49186,ar,other,two_hop,2,8,22.987,job offer; عرض العمل; عرض عمل
+49186,ar,other,two_hop,3,49,15.157,ban; حرمان; نقل الكفالة
+49482,ar,court_enforcement,one_hop,1,53,2.24,المستحقات
+49482,ar,court_enforcement,two_hop,1,54,20.155,labor case; شكوى عمالية; قضية عمالية
+49482,ar,court_enforcement,two_hop,2,53,20.009,dues; المستحقات; مستحقاتي
+49482,ar,court_enforcement,two_hop,3,51,10.687,مكافأة نهاية الخدمة; نهاية الخدمة
+49557,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+49557,ar,court_enforcement,two_hop,1,54,25.02,دعوى عمالية; شكوى عمالية; قضية عمالية
+49557,ar,court_enforcement,two_hop,2,69,9.45,التظلم
+49557,ar,court_enforcement,two_hop,3,59,8.331,مخالفة
+49574,ar,gratuity,one_hop,1,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+49574,ar,gratuity,one_hop,2,22,5.418,حماية الأجور
+49574,ar,gratuity,two_hop,1,51,42.13,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+49574,ar,gratuity,two_hop,2,53,37.776,التسوية النهائية; المستحقات; مستحقاتي
+49574,ar,gratuity,two_hop,3,22,15.002,حماية الأجور; رواتب متأخرة
+49577,ar,court_enforcement,one_hop,1,65,5.013,التقادم
+49577,ar,court_enforcement,one_hop,2,54,2.556,قضية عمالية
+49577,ar,court_enforcement,two_hop,1,54,7.668,قضية عمالية
+49577,ar,court_enforcement,two_hop,2,65,5.013,التقادم
+49577,ar,court_enforcement,two_hop,3,69,4.725,التظلم
+49677,ar,court_enforcement,two_hop,1,54,11.988,المحكمة العمالية; قضية عمالية
+49677,ar,court_enforcement,two_hop,2,65,5.013,التقادم
+49677,ar,court_enforcement,two_hop,3,69,4.725,التظلم
+49951,ar,court_enforcement,two_hop,1,54,11.988,المحكمة العمالية; قضية عمالية
+49951,ar,court_enforcement,two_hop,2,69,9.45,التظلم
+49951,ar,court_enforcement,two_hop,3,16,6.111,ممتلكات الشركة
+50178,ar,court_enforcement,one_hop,1,54,5.672,دعوى عمالية; قضية عمالية
+50178,ar,court_enforcement,one_hop,2,47,2.615,الفصل التعسفي
+50178,ar,court_enforcement,two_hop,1,54,29.909,دعوى عمالية; شكوى عمالية; قضية عمالية
+50178,ar,court_enforcement,two_hop,2,51,18.228,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+50178,ar,court_enforcement,two_hop,3,53,10.039,المستحقات; مستحقاتي
+50296,ar,unfair_termination,two_hop,1,47,34.045,unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+50296,ar,unfair_termination,two_hop,2,51,22.996,end-of-service; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+50296,ar,unfair_termination,two_hop,3,53,20.937,14 days; dues; entitlements; المستحقات; مستحقاتي
+50300,ar,other,one_hop,1,8,3.547,عرض العمل
+50300,ar,other,two_hop,1,8,28.692,عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+50300,ar,other,two_hop,2,54,25.515,تسهيل; توافق; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+50300,ar,other,two_hop,3,43,12.12,بدل الإنذار; فترة الإشعار; فترة الإنذار
+50302,ar,other,two_hop,1,43,35.38,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+50302,ar,other,two_hop,2,8,24.885,تجديد العقد; عقد غير محدد المدة; عقد محدد المدة
+50302,ar,other,two_hop,3,54,21.532,تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+50326,ar,court_enforcement,two_hop,1,54,18.22,المحكمة العمالية; دعوى عمالية; قضية عمالية
+50326,ar,court_enforcement,two_hop,2,69,9.45,التظلم
+50326,ar,court_enforcement,two_hop,3,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+50554,ar,other,one_hop,1,13,6.111,تذكرة طيران
+50554,ar,other,one_hop,2,42,3.914,استقالة
+50554,ar,other,two_hop,1,29,53.29,annual leave; leave salary; إجازة سنوية; الإجازة السنوية; راتب الإجازة
+50554,ar,other,two_hop,2,13,22.249,air ticket; flight ticket; return ticket; تذكرة طيران
+50554,ar,other,two_hop,3,42,19.033,mutual agreement; resign; resignation; استقالة; الاستقالة
+51049,ar,other,one_hop,1,13,4.166,جواز السفر
+51049,ar,other,two_hop,1,13,23.643,accommodation; passport; return ticket; جواز السفر
+51049,ar,other,two_hop,2,8,19.766,job offer; عرض العمل; عرض عمل
+51049,ar,other,two_hop,3,54,10.026,complaint to mohre; tasheel
+51091,ar,other,one_hop,1,59,5.013,غرامة
+51091,ar,other,one_hop,2,60,5.013,غرامة
+51091,ar,other,one_hop,3,9,3.809,فترة التجربة
+51091,ar,other,two_hop,1,43,34.782,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+51091,ar,other,two_hop,2,42,30.034,resignation; استقالة; الاستقالة; انتهاء العقد
+51091,ar,other,two_hop,3,54,17.03,توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+51246,ar,other,one_hop,1,8,6.768,عرض العمل; عرض عمل
+51246,ar,other,two_hop,1,8,43.406,تجديد العقد; عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+51246,ar,other,two_hop,2,54,27.986,تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+51246,ar,other,two_hop,3,42,9.923,الاستقالة; انتهاء العقد
+51472,ar,other,one_hop,1,53,5.02,المستحقات; مستحقاتي
+51472,ar,other,two_hop,1,54,46.789,labor case; تسهيل; توافق; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+51472,ar,other,two_hop,2,43,21.904,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+51472,ar,other,two_hop,3,53,17.769,dues; المستحقات; مستحقاتي
+51636,ar,unfair_termination,one_hop,1,29,8.822,إجازة سنوية; الإجازة السنوية
+51636,ar,unfair_termination,one_hop,2,51,6.111,مكافأة الخدمة
+51636,ar,unfair_termination,one_hop,3,43,3.714,شهر الإنذار
+51636,ar,unfair_termination,two_hop,1,47,51.605,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+51636,ar,unfair_termination,two_hop,2,43,35.476,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+51636,ar,unfair_termination,two_hop,3,51,30.014,مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+51652,ar,unpaid_wages,one_hop,1,48,6.111,المالك الجديد
+51652,ar,unpaid_wages,one_hop,2,22,4.166,رواتب متأخرة
+51652,ar,unpaid_wages,one_hop,3,53,2.779,مستحقاتي
+51652,ar,unpaid_wages,two_hop,1,22,34.303,delayed salary; salary delay; wage protection; رواتب متأخرة
+51652,ar,unpaid_wages,two_hop,2,54,19.537,رفع قضية; شكوى عمالية; قضية عمالية
+51652,ar,unpaid_wages,two_hop,3,51,18.228,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+51748,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+51748,ar,court_enforcement,two_hop,1,54,17.66,المحكمة العمالية; دعوى عمالية; قضية عمالية
+51748,ar,court_enforcement,two_hop,2,51,12.884,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+51748,ar,court_enforcement,two_hop,3,69,9.45,التظلم
+52275,ar,unpaid_wages,one_hop,1,53,5.02,المستحقات; مستحقاتي
+52275,ar,unpaid_wages,two_hop,1,53,33.124,dues; entitlements; المستحقات; خلال 14 يوما; مستحقاتي
+52275,ar,unpaid_wages,two_hop,2,22,32.378,late salary; unpaid wages; الأجر; تأخير الراتب; رواتب متأخرة
+52275,ar,unpaid_wages,two_hop,3,54,19.802,complaint to mohre; labor complaint; تسهيل; شكوى عمالية
+52312,ar,unpaid_wages,one_hop,1,25,6.111,استقطاع
+52312,ar,unpaid_wages,one_hop,2,53,5.02,المستحقات; مستحقاتي
+52312,ar,unpaid_wages,one_hop,3,6,4.502,تكاليف الإقامة
+52312,ar,unpaid_wages,two_hop,1,53,21.779,المستحقات; مستحقاتي
+52312,ar,unpaid_wages,two_hop,2,54,20.79,complaint to mohre; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+52312,ar,unpaid_wages,two_hop,3,8,20.132,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+52366,ar,recruitment_fees,one_hop,1,42,11.127,استقالة; الاستقالة; انتهاء العقد
+52366,ar,recruitment_fees,one_hop,2,6,4.502,تكاليف الإقامة
+52366,ar,recruitment_fees,two_hop,1,6,65.717,employment costs; recruitment costs; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة; رسوم الإقامة
+52366,ar,recruitment_fees,two_hop,2,9,43.129,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+52366,ar,recruitment_fees,two_hop,3,42,27.879,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+52438,ar,unpaid_wages,one_hop,1,13,6.111,جوازي
+52438,ar,unpaid_wages,one_hop,2,53,5.418,خلال 14 يوما
+52438,ar,unpaid_wages,one_hop,3,8,3.221,عرض عمل
+52438,ar,unpaid_wages,two_hop,1,53,34.187,14 days; dues; المستحقات; خلال 14 يوما; مستحقاتي
+52438,ar,unpaid_wages,two_hop,2,22,24.301,not paid; pending salary; unpaid salary; الأجر; رواتب متأخرة
+52438,ar,unpaid_wages,two_hop,3,54,20.502,تسهيل; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+52655,ar,unfair_termination,one_hop,1,43,4.502,إشعار
+52655,ar,unfair_termination,one_hop,2,42,4.166,إنهاء العقد
+52655,ar,unfair_termination,two_hop,1,47,60.044,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+52655,ar,unfair_termination,two_hop,2,43,41.459,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+52655,ar,unfair_termination,two_hop,3,42,22.417,إنهاء العقد; انتهاء العقد; عدم تجديد العقد
+5266,ar,other,one_hop,1,3,6.111,المناطق الحرة
+5266,ar,other,two_hop,1,8,19.882,تجديد العقد; عرض العمل; عقد غير محدد المدة; عقد محدد المدة
+5266,ar,other,two_hop,2,3,13.952,free zone; المناطق الحرة; منطقة حرة
+5266,ar,other,two_hop,3,43,11.331,بدل الإنذار; شهر الإنذار; فترة الإنذار
+52824,ar,unfair_termination,one_hop,1,17,5.418,ساعات العمل
+52824,ar,unfair_termination,two_hop,1,47,39.052,الفصل التعسفي; بدل فصل تعسفي; فصل تعسفي
+52824,ar,unfair_termination,two_hop,2,43,36.073,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+52824,ar,unfair_termination,two_hop,3,51,31.923,المكافأة; مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+52882,ar,other,one_hop,1,43,4.502,فترة الإشعار
+52882,ar,other,two_hop,1,43,39.944,notice period; serve notice; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+52882,ar,other,two_hop,2,54,34.385,labour case; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+52882,ar,other,two_hop,3,31,23.354,illness; medical certificate; medical leave; sick; sick leave
+53121,ar,other,one_hop,1,54,5.672,دعوى عمالية; قضية عمالية
+53121,ar,other,one_hop,2,49,3.547,حرمان
+53121,ar,other,one_hop,3,53,2.779,مستحقاتي
+53121,ar,other,two_hop,1,54,48.796,labor case; المحكمة العمالية; تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+53121,ar,other,two_hop,2,49,21.279,حرمان
+53121,ar,other,two_hop,3,53,20.548,dues; المستحقات; مستحقاتي
+53158,ar,other,one_hop,1,29,9.92,إجازة سنوية; راتب الإجازة
+53158,ar,other,one_hop,2,25,3.809,خصم
+53158,ar,other,two_hop,1,29,25.877,annual leave; leave salary; إجازة سنوية; الإجازة السنوية; راتب الإجازة
+53158,ar,other,two_hop,2,42,21.625,resign; resignation; استقالة; الاستقالة
+53158,ar,other,two_hop,3,43,17.999,notice period; شهر الإنذار; فترة الإنذار; مدة الإنذار
+53348,ar,other,one_hop,1,31,6.111,إجازة مرضية
+53348,ar,other,one_hop,2,43,3.714,شهر الإنذار
+53348,ar,other,one_hop,3,22,3.339,الأجر
+53348,ar,other,two_hop,1,43,69.275,notice period; serve notice; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+53348,ar,other,two_hop,2,31,29.465,illness; medical certificate; medical leave; sick; sick leave; إجازة مرضية
+53348,ar,other,two_hop,3,42,17.711,resign; resignation; استقالة; الاستقالة
+53789,ar,gratuity,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+53789,ar,gratuity,one_hop,2,53,5.02,المستحقات; مستحقاتي
+53789,ar,gratuity,two_hop,1,51,52.199,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+53789,ar,gratuity,two_hop,2,53,35.535,التسوية النهائية; المستحقات; مستحقاتي
+53789,ar,gratuity,two_hop,3,54,12.24,دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+53857,ar,other,two_hop,1,54,28.456,labor case; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+53857,ar,other,two_hop,2,49,16.751,حرمان; شهادة عدم ممانعة
+53857,ar,other,two_hop,3,43,14.381,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+54102,ar,other,one_hop,1,50,7.355,بلاغ هروب; هروب
+54102,ar,other,one_hop,2,8,3.547,عرض العمل
+54102,ar,other,two_hop,1,50,47.614,بلاغ هروب; تعميم هروب; هروب
+54102,ar,other,two_hop,2,54,27.427,تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+54102,ar,other,two_hop,3,8,23.849,عرض العمل; عرض عمل
+54295,ar,other,one_hop,1,8,4.032,عقد محدد المدة
+54295,ar,other,one_hop,2,43,3.714,شهر الإنذار
+54295,ar,other,one_hop,3,45,3.278,ترك العمل
+54295,ar,other,two_hop,1,43,45.857,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+54295,ar,other,two_hop,2,42,25.657,mutual agreement; resign; resignation; استقالة; الاستقالة
+54295,ar,other,two_hop,3,8,20.294,mohre contract; عقد غير محدد المدة; عقد محدد المدة
+54325,ar,court_enforcement,two_hop,1,54,18.22,المحكمة العمالية; دعوى عمالية; قضية عمالية
+54325,ar,court_enforcement,two_hop,2,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+54325,ar,court_enforcement,two_hop,3,29,5.418,راتب الإجازة
+54481,ar,court_enforcement,one_hop,1,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+54481,ar,court_enforcement,one_hop,2,29,5.418,راتب الإجازة
+54481,ar,court_enforcement,one_hop,3,43,3.714,شهر الإنذار
+54481,ar,court_enforcement,two_hop,1,54,27.913,دعوى عمالية; شكوى عمالية; قضية عمالية
+54481,ar,court_enforcement,two_hop,2,51,18.228,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+54481,ar,court_enforcement,two_hop,3,53,10.039,المستحقات; مستحقاتي
+55125,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+55125,ar,court_enforcement,two_hop,1,54,24.124,دعوى عمالية; قضية عمالية
+55125,ar,court_enforcement,two_hop,2,51,7.541,مستحقات نهاية الخدمة; نهاية الخدمة
+55125,ar,court_enforcement,two_hop,3,29,5.418,راتب الإجازة
+55660,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+55660,ar,court_enforcement,two_hop,1,54,38.089,labor case; labor court; labour court; دعوى عمالية; قضية عمالية
+55660,ar,court_enforcement,two_hop,2,53,13.657,dues; entitlements; مستحقاتي
+55660,ar,court_enforcement,two_hop,3,51,13.215,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+55923,ar,other,two_hop,1,42,31.147,resign; resignation; إنهاء العقد; استقالة; الاستقالة
+55923,ar,other,two_hop,2,54,18.302,تسهيل; توافق; دعوى عمالية; قضية عمالية; وزارة الموارد البشرية
+55923,ar,other,two_hop,3,9,11.427,فترة الاختبار; فترة التجربة
+55956,ar,recruitment_fees,two_hop,1,6,55.572,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة; رسوم الإقامة
+55956,ar,recruitment_fees,two_hop,2,9,23.063,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+55956,ar,recruitment_fees,two_hop,3,8,21.944,job offer; limited contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+56432,ar,unpaid_wages,one_hop,1,17,12.223,8 ساعات; ساعات عمل
+56432,ar,unpaid_wages,one_hop,2,19,5.418,أوفر تايم
+56432,ar,unpaid_wages,one_hop,3,6,4.502,تكاليف الإقامة
+56432,ar,unpaid_wages,two_hop,1,25,29.866,استقطاع; اقتطاع; خصم; خصومات
+56432,ar,unpaid_wages,two_hop,2,54,18.446,رفع قضية; شكوى عمالية; قضية عمالية
+56432,ar,unpaid_wages,two_hop,3,17,17.641,8 ساعات; ساعات العمل; ساعات عمل
+56511,ar,other,two_hop,1,54,33.51,file a case; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+56511,ar,other,two_hop,2,13,11.124,repatriation; return ticket
+56511,ar,other,two_hop,3,16,11.124,confidentiality; أسرار العمل
+56598,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+56598,ar,court_enforcement,two_hop,1,54,33.852,تسهيل; دعوى عمالية; شكوى عمالية; قضية عمالية
+56598,ar,court_enforcement,two_hop,2,53,7.26,المستحقات; مستحقاتي
+56598,ar,court_enforcement,two_hop,3,65,5.013,التقادم
+57204,ar,court_enforcement,one_hop,1,54,2.893,شكوى عمالية
+57204,ar,court_enforcement,one_hop,2,53,2.24,المستحقات
+57204,ar,court_enforcement,two_hop,1,54,35.695,دعوى عمالية; شكوى عمالية; قضية عمالية
+57204,ar,court_enforcement,two_hop,2,53,22.178,المستحقات; حقوقي المالية; مستحقاتي
+57204,ar,court_enforcement,two_hop,3,42,6.111,إغلاق الشركة
+57268,ar,unpaid_wages,one_hop,1,19,5.418,أوفر تايم
+57268,ar,unpaid_wages,two_hop,1,25,19.946,اقتطاع; خصم; خصومات
+57268,ar,unpaid_wages,two_hop,2,17,17.641,8 ساعات; ساعات العمل; ساعات عمل
+57268,ar,unpaid_wages,two_hop,3,22,17.088,الأجر; تأخير الراتب; رواتب متأخرة
+57961,ar,court_enforcement,one_hop,1,50,3.547,هروب
+57961,ar,court_enforcement,two_hop,1,54,15.797,labor case; المحكمة العمالية; قضية عمالية
+57961,ar,court_enforcement,two_hop,2,69,6.111,grievance
+57961,ar,court_enforcement,two_hop,3,53,5.421,dues
+58176,ar,unfair_termination,one_hop,1,47,6.935,الفصل التعسفي; تعويض عن الفصل
+58176,ar,unfair_termination,one_hop,2,43,3.809,بدل الإنذار
+58176,ar,unfair_termination,two_hop,1,47,77.627,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+58176,ar,unfair_termination,two_hop,2,43,40.073,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+58176,ar,unfair_termination,two_hop,3,9,15.236,فترة الاختبار; فترة التجربة
+58180,ar,other,one_hop,1,54,2.556,قضية عمالية
+58180,ar,other,two_hop,1,54,36.797,labor case; تسهيل; توافق; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+58180,ar,other,two_hop,2,43,33.235,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+58180,ar,other,two_hop,3,42,14.088,إنهاء العقد; الاستقالة; انتهاء العقد
+58213,ar,other,two_hop,1,54,31.27,court case; تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+58213,ar,other,two_hop,2,42,23.423,إنهاء العقد; استقالة; الاستقالة; انتهاء العقد
+58213,ar,other,two_hop,3,7,15.339,freelance; temporary work; دوام جزئي
+58307,ar,other,one_hop,1,29,4.502,إجازة سنوية
+58307,ar,other,two_hop,1,29,24.961,annual leave; leave salary; إجازة سنوية; الإجازة السنوية; بدل الإجازة
+58307,ar,other,two_hop,2,42,18.915,resign; resignation; استقالة; الاستقالة
+58307,ar,other,two_hop,3,54,12.884,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+58607,ar,court_enforcement,one_hop,1,13,6.111,تذكرة سفر
+58607,ar,court_enforcement,one_hop,2,42,4.502,انتهاء العقد
+58607,ar,court_enforcement,two_hop,1,54,15.623,labor case; شكوى عمالية; قضية عمالية
+58607,ar,court_enforcement,two_hop,2,53,13.15,dues; المستحقات; مستحقاتي
+58607,ar,court_enforcement,two_hop,3,51,12.884,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+58848,ar,passport_withheld,one_hop,1,13,4.725,شهادة خبرة
+58848,ar,passport_withheld,one_hop,2,42,3.914,استقالة
+58848,ar,passport_withheld,two_hop,1,13,38.768,emirates id; passport; جواز السفر; حجز الجواز; شهادة خبرة
+58848,ar,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+58848,ar,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+59001,ar,court_enforcement,one_hop,1,54,4.32,المحكمة العمالية
+59001,ar,court_enforcement,two_hop,1,54,17.996,المحكمة العمالية; دعوى عمالية; شكوى عمالية; قضية عمالية
+59001,ar,court_enforcement,two_hop,2,53,16.456,dues; entitlements; final settlement; المستحقات; مستحقاتي
+59001,ar,court_enforcement,two_hop,3,22,14.646,unpaid salary; wage protection; wps
+60385,ar,court_enforcement,two_hop,1,54,28.371,labor case; labor court; تسهيل; شكوى عمالية; قضية عمالية
+60385,ar,court_enforcement,two_hop,2,53,14.451,dues; المستحقات; مستحقاتي
+60385,ar,court_enforcement,two_hop,3,22,8.822,not paid; pending salary
+60398,ar,unfair_termination,one_hop,1,42,9.92,انتهاء العقد; عدم تجديد العقد
+60398,ar,unfair_termination,one_hop,2,8,8.757,تجديد العقد; عقد محدد المدة
+60398,ar,unfair_termination,two_hop,1,47,41.65,الفصل التعسفي; بدل فصل تعسفي; فصل تعسفي
+60398,ar,unfair_termination,two_hop,2,43,35.314,notice period; إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+60398,ar,unfair_termination,two_hop,3,42,25.127,إنهاء العقد; الاستقالة; انتهاء العقد; عدم تجديد العقد
+61010,ar,other,one_hop,1,43,3.714,شهر الإنذار
+61010,ar,other,two_hop,1,43,48.089,notice period; بدل الإنذار; شهر الإنذار; فترة الإنذار; مدة الإنذار
+61010,ar,other,two_hop,2,42,35.58,mutual agreement; resign; resignation; استقالة; الاستقالة; انتهاء العقد
+61010,ar,other,two_hop,3,8,18.997,mohre contract; عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+61274,ar,other,one_hop,1,8,6.768,عرض العمل; عرض عمل
+61274,ar,other,two_hop,1,8,35.945,عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+61274,ar,other,two_hop,2,43,12.12,بدل الإنذار; فترة الإشعار; فترة الإنذار
+61274,ar,other,two_hop,3,54,12.017,دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+61371,ar,other,one_hop,1,8,3.221,عرض عمل
+61371,ar,other,two_hop,1,49,20.513,ban; no objection; noc; حرمان
+61371,ar,other,two_hop,2,8,16.756,عرض العمل; عرض عمل
+61371,ar,other,two_hop,3,13,15.412,emirates id; passport; الهوية; جواز السفر
+61385,ar,other,one_hop,1,8,3.547,عرض العمل
+61385,ar,other,two_hop,1,8,29.603,job offer; تجديد العقد; عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+61385,ar,other,two_hop,2,54,13.626,تسهيل; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+61385,ar,other,two_hop,3,50,7.355,بلاغ هروب; هروب
+61801,ar,unfair_termination,one_hop,1,43,4.502,إشعار
+61801,ar,unfair_termination,one_hop,2,8,4.032,عقد محدد المدة
+61801,ar,unfair_termination,two_hop,1,47,40.574,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+61801,ar,unfair_termination,two_hop,2,43,37.65,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+61801,ar,unfair_termination,two_hop,3,42,20.962,إنهاء العقد; الاستقالة; انتهاء العقد; عدم تجديد العقد
+61916,ar,unpaid_wages,one_hop,1,42,6.111,إفلاس
+61916,ar,unpaid_wages,one_hop,2,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+61916,ar,unpaid_wages,one_hop,3,53,2.24,المستحقات
+61916,ar,unpaid_wages,two_hop,1,22,40.436,delayed salary; late salary; salary delay; unpaid wages; wage protection; الأجر; رواتب متأخرة
+61916,ar,unpaid_wages,two_hop,2,54,25.727,labor complaint; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+61916,ar,unpaid_wages,two_hop,3,51,23.572,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+62087,ar,other,one_hop,1,29,4.32,الإجازة السنوية
+62087,ar,other,one_hop,2,22,3.339,الأجر
+62087,ar,other,two_hop,1,29,63.392,annual leave; leave balance; leave salary; إجازة سنوية; الإجازة السنوية; بدل الإجازة; راتب الإجازة; رصيد الإجازات
+62087,ar,other,two_hop,2,13,22.249,air ticket; flight ticket; return ticket; تذكرة طيران
+62087,ar,other,two_hop,3,51,21.087,end-of-service; مكافأة نهاية الخدمة; نهاية الخدمة
+62176,ar,unpaid_wages,one_hop,1,22,5.418,تأخير الراتب
+62176,ar,unpaid_wages,two_hop,1,22,55.438,delayed salary; late salary; salary delay; unpaid wages; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+62176,ar,unpaid_wages,two_hop,2,54,26.931,labor complaint; رفع قضية; شكوى عمالية; قضية عمالية
+62176,ar,unpaid_wages,two_hop,3,53,19.907,dues; entitlements; المستحقات; مستحقاتي
+62199,ar,court_enforcement,two_hop,1,54,17.66,المحكمة العمالية; دعوى عمالية; قضية عمالية
+62199,ar,court_enforcement,two_hop,2,69,9.45,التظلم
+62199,ar,court_enforcement,two_hop,3,59,8.331,مخالفة
+62505,ar,passport_withheld,one_hop,1,13,10.277,جواز السفر; حجز الجواز
+62505,ar,passport_withheld,one_hop,2,26,6.111,لم يوفروا لي العمل
+62505,ar,passport_withheld,one_hop,3,8,3.221,عرض عمل
+62505,ar,passport_withheld,two_hop,1,13,43.781,emirates id; passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+62505,ar,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+62505,ar,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+62619,ar,other,one_hop,1,54,6.231,دعوى عمالية; وزارة الموارد البشرية
+62619,ar,other,one_hop,2,65,4.725,تنازل
+62619,ar,other,one_hop,3,53,2.779,مستحقاتي
+62619,ar,other,two_hop,1,54,53.762,court case; labor case; labor court; المحكمة العمالية; تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+62619,ar,other,two_hop,2,49,19.397,ban; حرمان; شهادة عدم ممانعة
+62619,ar,other,two_hop,3,53,18.707,dues; المستحقات; خلال 14 يوما; مستحقاتي
+63502,ar,unpaid_wages,one_hop,1,65,4.725,تنازل
+63502,ar,unpaid_wages,one_hop,2,22,4.166,رواتب متأخرة
+63502,ar,unpaid_wages,one_hop,3,42,2.71,الاستقالة
+63502,ar,unpaid_wages,two_hop,1,22,43.397,delayed salary; pending salary; salary delay; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+63502,ar,unpaid_wages,two_hop,2,42,20.421,resign; resignation; استقالة; الاستقالة
+63502,ar,unpaid_wages,two_hop,3,53,19.47,dues; المستحقات; مستحقاتي
+63680,ar,other,one_hop,1,54,7.212,المحكمة العمالية; شكوى عمالية
+63680,ar,other,two_hop,1,54,47.174,labor case; labor court; المحكمة العمالية; تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+63680,ar,other,two_hop,2,43,14.306,notice period; شهر الإنذار; فترة الإنذار
+63680,ar,other,two_hop,3,53,13.187,dues; entitlements; المستحقات; مستحقاتي
+63719,ar,other,one_hop,1,50,7.355,بلاغ هروب; هروب
+63719,ar,other,two_hop,1,50,43.805,بلاغ هروب; تعميم هروب; هروب
+63719,ar,other,two_hop,2,49,18.704,ban; حرمان; نقل الكفالة
+63719,ar,other,two_hop,3,54,15.187,تسهيل; توافق; دعوى عمالية; قضية عمالية
+64063,ar,other,one_hop,1,5,4.032,حدث
+64063,ar,other,one_hop,2,42,2.71,الاستقالة
+64063,ar,other,two_hop,1,42,32.963,resign; resignation; إنهاء العقد; استقالة; الاستقالة
+64063,ar,other,two_hop,2,43,23.376,notice period; بدل الإنذار; شهر الإنذار; فترة الإنذار
+64063,ar,other,two_hop,3,54,22.399,تسهيل; توافق; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+64234,ar,other,one_hop,1,49,3.547,حرمان
+64234,ar,other,one_hop,2,54,2.556,قضية عمالية
+64234,ar,other,two_hop,1,54,34.996,تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+64234,ar,other,two_hop,2,49,30.036,ban; حرمان; شهادة عدم ممانعة
+64234,ar,other,two_hop,3,42,16.462,إنهاء العقد; الاستقالة
+64614,ar,other,one_hop,1,3,6.111,خادمة
+64614,ar,other,two_hop,1,50,43.805,بلاغ هروب; تعميم هروب; هروب
+64614,ar,other,two_hop,2,54,21.839,file a case; تسهيل; توافق; شكوى عمالية; قضية عمالية
+64614,ar,other,two_hop,3,49,15.157,ban; حرمان; نقل الكفالة
+64615,ar,unpaid_wages,one_hop,1,45,3.278,ترك العمل
+64615,ar,unpaid_wages,two_hop,1,22,51.272,delayed salary; late salary; salary delay; unpaid wages; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+64615,ar,unpaid_wages,two_hop,2,54,25.068,labor complaint; tasheel; رفع قضية; شكوى عمالية; قضية عمالية
+64615,ar,unpaid_wages,two_hop,3,53,17.598,dues; entitlements; المستحقات; مستحقاتي
+64794,ar,passport_withheld,one_hop,1,8,6.768,عرض العمل; عرض عمل
+64794,ar,passport_withheld,one_hop,2,6,4.502,تكاليف الإقامة
+64794,ar,passport_withheld,one_hop,3,13,4.166,جواز السفر
+64794,ar,passport_withheld,two_hop,1,13,43.781,emirates id; passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+64794,ar,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+64794,ar,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+65065,ar,other,one_hop,1,49,3.547,حرمان
+65065,ar,other,one_hop,2,45,3.278,ترك العمل
+65065,ar,other,one_hop,3,42,2.71,الاستقالة
+65065,ar,other,two_hop,1,43,42.396,notice period; serve notice; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+65065,ar,other,two_hop,2,42,30.008,resign; resignation; إنهاء العقد; استقالة; الاستقالة
+65065,ar,other,two_hop,3,31,23.354,illness; medical certificate; medical leave; sick; sick leave
+65141,ar,other,one_hop,1,42,3.914,استقالة
+65141,ar,other,two_hop,1,42,21.38,استقالة; الاستقالة
+65141,ar,other,two_hop,2,9,15.236,فترة الاختبار; فترة التجربة
+65141,ar,other,two_hop,3,43,12.718,إشعار; شهر الإنذار; فترة الإشعار
+65207,ar,other,two_hop,1,50,23.676,بلاغ هروب; تعميم هروب; هروب
+65207,ar,other,two_hop,2,54,23.618,labor case; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+65207,ar,other,two_hop,3,22,7.841,pending salary; الأجر
+65634,ar,other,two_hop,1,54,16.981,المحكمة العمالية; شكوى عمالية; قضية عمالية
+65634,ar,other,two_hop,2,50,14.711,بلاغ هروب; هروب
+65634,ar,other,two_hop,3,13,12.345,emirates id; official documents; passport
+65925,ar,other,one_hop,1,54,3.116,دعوى عمالية
+65925,ar,other,two_hop,1,54,34.996,labor case; تسهيل; توافق; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+65925,ar,other,two_hop,2,43,14.381,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+65925,ar,other,two_hop,3,53,13.288,dues; المستحقات; مستحقاتي
+66935,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+66935,ar,court_enforcement,two_hop,1,54,14.544,المحكمة العمالية; قضية عمالية
+66935,ar,court_enforcement,two_hop,2,65,5.013,التقادم
+66935,ar,court_enforcement,two_hop,3,69,4.725,التظلم
+67276,ar,other,one_hop,1,8,3.547,عرض العمل
+67276,ar,other,two_hop,1,54,29.924,file a case; labour court; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+67276,ar,other,two_hop,2,42,19.568,resign; استقالة; الاستقالة; انتهاء العقد
+67276,ar,other,two_hop,3,8,17.567,عرض العمل; عرض عمل; عقد غير محدد المدة
+67288,ar,unpaid_wages,two_hop,1,54,22.756,labor complaint; تسهيل; رفع قضية; قضية عمالية
+67288,ar,unpaid_wages,two_hop,2,53,20.306,dues; entitlements; المستحقات; خلال 14 يوما; مستحقاتي
+67288,ar,unpaid_wages,two_hop,3,8,20.132,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+6807,ar,unfair_termination,two_hop,1,47,38.869,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+6807,ar,unfair_termination,two_hop,2,43,33.148,إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+6807,ar,unfair_termination,two_hop,3,42,20.625,إنهاء العقد; الاستقالة; عدم تجديد العقد
+68366,ar,court_enforcement,two_hop,1,54,14.544,المحكمة العمالية; قضية عمالية
+68366,ar,court_enforcement,two_hop,2,65,5.013,التقادم
+68366,ar,court_enforcement,two_hop,3,69,4.725,التظلم
+68968,ar,other,one_hop,1,3,4.502,منطقة حرة
+68968,ar,other,two_hop,1,13,22.745,accommodation; emirates id; official documents; passport
+68968,ar,other,two_hop,2,8,20.086,job offer; offer letter; عرض عمل
+68968,ar,other,two_hop,3,49,17.722,ban; حرمان; شهادة عدم ممانعة; نقل الكفالة
+69176,ar,recruitment_fees,two_hop,1,6,53.78,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف التأشيرة
+69176,ar,recruitment_fees,two_hop,2,9,30.236,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+69176,ar,recruitment_fees,two_hop,3,8,27.362,contract renewal; job offer; limited contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+69208,ar,unpaid_wages,one_hop,1,11,5.418,إعارة
+69208,ar,unpaid_wages,two_hop,1,22,27.386,late salary; unpaid wages; الأجر; تأخير الراتب; رواتب متأخرة
+69208,ar,unpaid_wages,two_hop,2,53,17.667,dues; entitlements; المستحقات; مستحقاتي
+69208,ar,unpaid_wages,two_hop,3,54,17.386,labor complaint; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية
+69211,ar,court_enforcement,two_hop,1,54,11.988,المحكمة العمالية; قضية عمالية
+69211,ar,court_enforcement,two_hop,2,65,5.013,التقادم
+69211,ar,court_enforcement,two_hop,3,69,4.725,التظلم
+69447,ar,unfair_termination,one_hop,1,53,2.24,المستحقات
+69447,ar,unfair_termination,two_hop,1,47,34.045,unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+69447,ar,unfair_termination,two_hop,2,51,24.052,المكافأة; مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+69447,ar,unfair_termination,two_hop,3,9,21.205,probation; probation period; فترة الاختبار; فترة التجربة
+70611,ar,unpaid_wages,one_hop,1,25,3.809,خصم
+70611,ar,unpaid_wages,one_hop,2,53,2.24,المستحقات
+70611,ar,unpaid_wages,two_hop,1,25,23.755,اقتطاع; خصم; خصومات
+70611,ar,unpaid_wages,two_hop,2,53,21.779,المستحقات; مستحقاتي
+70611,ar,unpaid_wages,two_hop,3,47,20.581,الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+70656,ar,court_enforcement,one_hop,1,54,4.32,المحكمة العمالية
+70656,ar,court_enforcement,two_hop,1,54,23.332,المحكمة العمالية; دعوى عمالية; قضية عمالية
+70656,ar,court_enforcement,two_hop,2,69,9.45,التظلم
+70656,ar,court_enforcement,two_hop,3,59,8.331,مخالفة
+71605,ar,court_enforcement,one_hop,1,54,2.556,قضية عمالية
+71605,ar,court_enforcement,two_hop,1,54,19.125,دعوى عمالية; شكوى عمالية; قضية عمالية
+71605,ar,court_enforcement,two_hop,2,53,15.059,المستحقات; مستحقاتي
+71605,ar,court_enforcement,two_hop,3,16,6.111,ممتلكات الشركة
+72137,ar,gratuity,one_hop,1,53,2.24,المستحقات
+72137,ar,gratuity,two_hop,1,53,42.795,التسوية النهائية; المستحقات; مستحقاتي
+72137,ar,gratuity,two_hop,2,51,34.259,end-of-service; gratuity; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+72137,ar,gratuity,two_hop,3,54,23.148,labour court; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+72160,ar,other,two_hop,1,54,22.701,labor case; دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+72160,ar,other,two_hop,2,29,16.545,annual leave; إجازة سنوية; الإجازة السنوية; بدل الإجازة
+72160,ar,other,two_hop,3,51,13.503,gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+72313,ar,court_enforcement,two_hop,1,54,21.458,شكوى عمالية; قضية عمالية
+72313,ar,court_enforcement,two_hop,2,53,17.299,المستحقات; مستحقاتي
+72313,ar,court_enforcement,two_hop,3,51,10.687,مكافأة نهاية الخدمة; نهاية الخدمة
+7232,ar,court_enforcement,one_hop,1,54,4.32,المحكمة العمالية
+7232,ar,court_enforcement,two_hop,1,54,10.685,labor case; المحكمة العمالية; قضية عمالية
+7232,ar,court_enforcement,two_hop,2,69,6.111,grievance
+7232,ar,court_enforcement,two_hop,3,53,5.421,dues
+72476,ar,gratuity,one_hop,1,53,2.779,مستحقاتي
+72476,ar,gratuity,two_hop,1,53,43.334,التسوية النهائية; المستحقات; مستحقاتي
+72476,ar,gratuity,two_hop,2,51,33.971,المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+72476,ar,gratuity,two_hop,3,54,18.892,دعوى عمالية; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+73351,ar,other,two_hop,1,13,22.745,accommodation; emirates id; passport; return ticket; جواز السفر
+73351,ar,other,two_hop,2,7,15.339,freelance; temporary work; دوام جزئي
+73351,ar,other,two_hop,3,8,9.989,عرض العمل; عرض عمل
+7364,ar,gratuity,one_hop,1,51,5.344,مكافأة نهاية الخدمة; نهاية الخدمة
+7364,ar,gratuity,one_hop,2,25,3.809,خصم
+7364,ar,gratuity,two_hop,1,51,59.74,المكافأة; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+7364,ar,gratuity,two_hop,2,53,30.516,التسوية النهائية; المستحقات; مستحقاتي
+7364,ar,gratuity,two_hop,3,22,18.341,الأجر; حماية الأجور; رواتب متأخرة
+7530,ar,unfair_termination,one_hop,1,48,6.111,دمج
+7530,ar,unfair_termination,one_hop,2,29,4.32,الإجازة السنوية
+7530,ar,unfair_termination,one_hop,3,43,3.809,فترة الإنذار
+7530,ar,unfair_termination,two_hop,1,47,60.954,الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+7530,ar,unfair_termination,two_hop,2,43,42.998,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+7530,ar,unfair_termination,two_hop,3,51,30.014,مكافأة الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+75351,ar,other,one_hop,1,29,5.013,رصيد الإجازات
+75351,ar,other,one_hop,2,51,2.528,نهاية الخدمة
+75351,ar,other,two_hop,1,29,62.397,annual leave; leave balance; unused leave; vacation; إجازة سنوية; الإجازة السنوية; بدل الإجازة; راتب الإجازة; رصيد الإجازات
+75351,ar,other,two_hop,2,42,28.993,contract termination; end of contract; mutual agreement; non-renewal; استقالة; الاستقالة
+75351,ar,other,two_hop,3,51,27.711,end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+75608,ar,court_enforcement,one_hop,1,54,3.116,دعوى عمالية
+75608,ar,court_enforcement,two_hop,1,54,27.69,دعوى عمالية; شكوى عمالية; قضية عمالية
+75608,ar,court_enforcement,two_hop,2,51,18.228,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+75608,ar,court_enforcement,two_hop,3,53,17.769,dues; المستحقات; مستحقاتي
+77223,ar,other,one_hop,1,49,3.547,حرمان
+77223,ar,other,two_hop,1,54,41.954,labor case; المحكمة العمالية; تسهيل; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+77223,ar,other,two_hop,2,8,24.074,تجديد العقد; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+77223,ar,other,two_hop,3,43,21.808,notice period; بدل الإنذار; شهر الإنذار; فترة الإنذار; مدة الإنذار
+77268,ar,other,one_hop,1,49,6.111,شهادة عدم ممانعة
+77268,ar,other,one_hop,2,11,5.418,إعارة
+77268,ar,other,one_hop,3,8,3.221,عرض عمل
+77268,ar,other,two_hop,1,42,27.052,إنهاء العقد; استقالة; الاستقالة
+77268,ar,other,two_hop,2,8,25.306,عرض العمل; عرض عمل; عقد غير محدد المدة; عقد محدد المدة
+77268,ar,other,two_hop,3,9,22.853,فترة الاختبار; فترة التجربة
+77485,ar,other,one_hop,1,42,7.212,الاستقالة; انتهاء العقد
+77485,ar,other,one_hop,2,7,5.418,دوام جزئي
+77485,ar,other,two_hop,1,42,39.795,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+77485,ar,other,two_hop,2,43,14.381,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+77485,ar,other,two_hop,3,9,11.427,فترة الاختبار; فترة التجربة
+80911,ar,unpaid_wages,one_hop,1,3,4.502,منطقة حرة
+80911,ar,unpaid_wages,one_hop,2,54,3.116,وزارة الموارد البشرية
+80911,ar,unpaid_wages,two_hop,1,8,23.353,عرض العمل; عرض عمل; عقد غير محدد المدة; لم أوقع العقد
+80911,ar,unpaid_wages,two_hop,2,53,14.918,المستحقات; خلال 14 يوما; مستحقاتي
+80911,ar,unpaid_wages,two_hop,3,54,13.626,تسهيل; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+80919,en,other,two_hop,1,29,53.754,annual leave; leave balance; leave salary; unused leave; vacation; إجازة سنوية; الإجازة السنوية
+80919,en,other,two_hop,2,9,26.178,14 days notice; probation; probation period; probationary period; فترة التجربة
+80919,en,other,two_hop,3,53,22.169,14 days; dues; entitlements; final settlement
+80936,en,court_enforcement,one_hop,1,13,5.013,medical insurance
+80936,en,court_enforcement,one_hop,2,29,3.221,annual leave
+80936,en,court_enforcement,one_hop,3,51,2.816,gratuity
+80936,en,court_enforcement,two_hop,1,54,25.121,labor case; labor court; شكوى عمالية; قضية عمالية
+80936,en,court_enforcement,two_hop,2,53,21.509,14 days; dues; المستحقات; مستحقاتي
+80936,en,court_enforcement,two_hop,3,22,13.324,not paid; pending salary
+80958,en,unfair_termination,one_hop,1,51,2.816,gratuity
+80958,en,unfair_termination,two_hop,1,47,44.141,arbitrary dismissal; compensation for termination; unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; فصل تعسفي
+80958,en,unfair_termination,two_hop,2,43,37.733,notice period; payment in lieu of notice; إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+80958,en,unfair_termination,two_hop,3,51,36.338,end of service; end-of-service; eos; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+81013,en,other,two_hop,1,50,20.129,بلاغ هروب; تعميم هروب; هروب
+81013,en,other,two_hop,2,54,19.101,file a case; توافق; شكوى عمالية; قضية عمالية
+81013,en,other,two_hop,3,42,16.998,resign; resignation
+81047,en,other,two_hop,1,29,33.988,annual leave; leave balance; leave salary; unused leave; vacation
+81047,en,other,two_hop,2,51,20.833,end-of-service; final settlement; gratuity
+81047,en,other,two_hop,3,42,16.624,resign; resignation
+81152,en,other,one_hop,1,7,5.418,temporary work
+81152,en,other,one_hop,2,54,3.809,labor case
+81152,en,other,one_hop,3,53,2.71,dues
+81152,en,other,two_hop,1,54,26.423,labor case; labor complaint; labor court; المحكمة العمالية; قضية عمالية
+81152,en,other,two_hop,2,50,19.764,absconder; absconding; absconding case; absconding report
+81152,en,other,two_hop,3,49,13.81,ban; noc; حرمان
+81190,en,other,two_hop,1,42,27.708,mutual agreement; resign; resignation
+81190,en,other,two_hop,2,8,17.49,job offer; mohre contract; عرض العمل; عرض عمل
+81190,en,other,two_hop,3,50,8.639,absconding; absconding report
+81223,en,recruitment_fees,one_hop,1,6,10.431,employment costs; visa cost
+81223,en,recruitment_fees,one_hop,2,9,7.173,probation; probationary period
+81223,en,recruitment_fees,two_hop,1,6,66.964,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة
+81223,en,recruitment_fees,two_hop,2,9,51.689,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+81223,en,recruitment_fees,two_hop,3,42,33.92,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+81291,en,other,one_hop,1,9,5.969,probation; probation period
+81291,en,other,two_hop,1,9,41.272,probation; probation period; فترة الاختبار; فترة التجربة
+81291,en,other,two_hop,2,53,36.412,14 days; dues; entitlements; final payment; final settlement
+81291,en,other,two_hop,3,42,27.655,mutual agreement; resign; resignation; استقالة; الاستقالة
+81345,en,recruitment_fees,one_hop,1,42,2.646,resignation
+81345,en,recruitment_fees,two_hop,1,6,85.93,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة
+81345,en,recruitment_fees,two_hop,2,9,45.027,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+81345,en,recruitment_fees,two_hop,3,42,33.856,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+81346,en,other,one_hop,1,17,3.809,working hours
+81346,en,other,two_hop,1,13,37.65,air ticket; emirates id; flight ticket; health insurance; passport; return ticket
+81346,en,other,two_hop,2,31,25.44,illness; medical certificate; sick; sick leave
+81346,en,other,two_hop,3,7,25.259,freelance; part-time; remote work; temporary work
+81372,en,other,two_hop,1,50,32.395,absconding; absconding report; بلاغ هروب; تعميم هروب; هروب
+81372,en,other,two_hop,2,54,17.163,labor case; توافق; شكوى عمالية; قضية عمالية
+81372,en,other,two_hop,3,43,14.381,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+81430,en,unfair_termination,one_hop,1,31,8.352,sick; sick leave
+81430,en,unfair_termination,one_hop,2,44,4.502,article 44
+81430,en,unfair_termination,two_hop,1,9,29.845,probation; probation period; probationary period; فترة الاختبار; فترة التجربة
+81430,en,unfair_termination,two_hop,2,53,21.765,14 days; dues; entitlements; المستحقات
+81430,en,unfair_termination,two_hop,3,54,19.555,file a case; mohre complaint; شكوى عمالية; وزارة الموارد البشرية
+81436,en,other,two_hop,1,13,24.813,accommodation; emirates id; passport; return ticket
+81436,en,other,two_hop,2,49,23.684,ban; no objection; noc
+81436,en,other,two_hop,3,7,15.339,freelance; remote work; temporary work
+81464,en,other,one_hop,1,29,7.135,annual leave; unused leave
+81464,en,other,one_hop,2,51,3.809,final settlement
+81464,en,other,one_hop,3,53,3.809,final settlement
+81464,en,other,two_hop,1,29,56.569,annual leave; leave balance; leave salary; unused leave; vacation
+81464,en,other,two_hop,2,53,24.88,14 days; dues; entitlements; final settlement
+81464,en,other,two_hop,3,42,20.603,resign; resignation; استقالة; الاستقالة
+81480,en,other,two_hop,1,8,24.678,limited contract; mohre contract; offer letter; عقد غير محدد المدة; عقد محدد المدة
+81480,en,other,two_hop,2,42,22.042,mutual agreement; resign; resignation
+81480,en,other,two_hop,3,9,19.111,probation; probation period; probationary period
+81481,en,other,two_hop,1,8,24.147,job offer; limited contract; mohre contract; عقد غير محدد المدة; عقد محدد المدة
+81481,en,other,two_hop,2,42,22.042,mutual agreement; resign; resignation
+81481,en,other,two_hop,3,9,19.111,probation; probation period; probationary period
+81514,en,other,one_hop,1,3,6.111,which law applies
+81514,en,other,two_hop,1,13,31.449,accommodation; air ticket; flight ticket; passport; return ticket
+81514,en,other,two_hop,2,51,14.496,end-of-service; final settlement; gratuity
+81514,en,other,two_hop,3,54,14.345,complaint to mohre; file a case; tasheel
+81544,en,other,one_hop,1,54,3.809,labor case
+81544,en,other,two_hop,1,50,32.03,absconder; absconding; absconding case; absconding report
+81544,en,other,two_hop,2,53,15.716,14 days; dues; entitlements; final settlement
+81544,en,other,two_hop,3,54,15.045,labor case; labor court
+81608,en,other,one_hop,1,8,4.32,limited contract
+81608,en,other,two_hop,1,42,37.177,mutual agreement; resign; resignation; إنهاء العقد; استقالة; الاستقالة
+81608,en,other,two_hop,2,43,22.713,notice period; بدل الإنذار; فترة الإشعار; فترة الإنذار
+81608,en,other,two_hop,3,8,19.982,job offer; limited contract; عقد غير محدد المدة
+81742,en,court_enforcement,one_hop,1,54,3.809,labor case
+81742,en,court_enforcement,two_hop,1,22,27.969,not paid; pending salary; unpaid salary; wage protection; wps
+81742,en,court_enforcement,two_hop,2,53,25.686,14 days; dues; entitlements; final settlement; المستحقات; مستحقاتي
+81742,en,court_enforcement,two_hop,3,54,17.117,labor case; labor court; شكوى عمالية
+81847,en,other,one_hop,1,10,4.032,non-compete
+81847,en,other,one_hop,2,3,3.339,free zone
+81847,en,other,one_hop,3,9,2.853,probation
+81847,en,other,two_hop,1,10,30.591,competitor; non-compete; non-competition
+81847,en,other,two_hop,2,42,23.694,contract expired; resign; resignation; استقالة; الاستقالة
+81847,en,other,two_hop,3,16,15.849,confidentiality; secrets
+81905,en,other,two_hop,1,50,22.004,absconder; absconding; absconding report
+81905,en,other,two_hop,2,53,21.071,14 days; dues; entitlements; final settlement
+81905,en,other,two_hop,3,13,14.314,air ticket; emirates id; passport
+81922,en,recruitment_fees,one_hop,1,8,4.32,limited contract
+81922,en,recruitment_fees,one_hop,2,9,2.853,probation
+81922,en,recruitment_fees,two_hop,1,6,76.009,employment costs; pay for the visa; recruitment costs; visa cost; visa costs; visa fees; تكاليف التأشيرة
+81922,en,recruitment_fees,two_hop,2,9,50.996,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+81922,en,recruitment_fees,two_hop,3,8,32.889,contract renewal; job offer; limited contract; mohre contract; offer letter; عرض العمل; عقد غير محدد المدة
+81924,en,other,one_hop,1,9,6.111,14 days notice
+81924,en,other,one_hop,2,53,3.809,14 days
+81924,en,other,one_hop,3,42,2.646,resignation
+81924,en,other,two_hop,1,42,43.232,mutual agreement; non-renewal; resign; resignation; الاستقالة
+81924,en,other,two_hop,2,53,40.221,14 days; dues; entitlements; final payment; final settlement
+81924,en,other,two_hop,3,29,27.594,annual leave; leave balance; leave salary; unused leave; إجازة سنوية; الإجازة السنوية
+82142,en,other,one_hop,1,49,6.455,ban; noc
+82142,en,other,one_hop,2,59,4.032,fine
+82142,en,other,two_hop,1,49,28.975,ban; no objection; noc
+82142,en,other,two_hop,2,7,18.924,freelance; part-time; temporary work
+82142,en,other,two_hop,3,13,18.702,emirates id; passport
+82195,en,other,one_hop,1,53,6.111,final payment
+82195,en,other,one_hop,2,9,5.969,probation; probation period
+82195,en,other,one_hop,3,42,2.646,resignation
+82195,en,other,two_hop,1,42,43.328,mutual agreement; non-renewal; resign; resignation; الاستقالة; انتهاء العقد
+82195,en,other,two_hop,2,9,32.147,14 days notice; probation; probation period; probationary period; فترة التجربة
+82195,en,other,two_hop,3,53,25.636,14 days; dues; entitlements; final payment; final settlement
+82361,en,court_enforcement,one_hop,1,54,3.809,labor case
+82361,en,court_enforcement,two_hop,1,54,32.867,labor case; labor court; labour court; شكوى عمالية; قضية عمالية
+82361,en,court_enforcement,two_hop,2,53,20.446,dues; entitlements; المستحقات; مستحقاتي
+82361,en,court_enforcement,two_hop,3,51,18.846,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+82362,en,other,one_hop,1,59,4.032,fine
+82362,en,other,one_hop,2,49,2.646,ban
+82362,en,other,two_hop,1,49,17.038,ban; noc
+82362,en,other,two_hop,2,54,16.622,court case; labor case; labor complaint
+82362,en,other,two_hop,3,50,13.652,absconding; absconding case; absconding report
+82364,en,other,two_hop,1,13,36.083,air ticket; emirates id; passport
+82364,en,other,two_hop,2,42,11.778,bankruptcy; resign; resignation
+82364,en,other,two_hop,3,54,10.026,complaint to mohre; tasheel
+82387,en,unfair_termination,two_hop,1,43,44.592,notice period; payment in lieu of notice; إشعار; بدل الإنذار; فترة الإشعار; فترة الإنذار; مدة الإنذار
+82387,en,unfair_termination,two_hop,2,47,41.455,arbitrary dismissal; unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض الفصل; تعويض عن الفصل; فصل تعسفي
+82387,en,unfair_termination,two_hop,3,29,37.46,annual leave; leave balance; leave salary; vacation
+82392,en,other,one_hop,1,8,3.278,job offer
+82392,en,other,two_hop,1,54,19.547,labor case; labor complaint; labor court
+82392,en,other,two_hop,2,53,18.393,14 days; dues; entitlements; final settlement
+82392,en,other,two_hop,3,50,18.377,absconder; absconding; absconding report
+82411,en,court_enforcement,one_hop,1,54,3.809,labor case
+82411,en,court_enforcement,two_hop,1,54,33.096,labor case; labor court; تسهيل; شكوى عمالية; قضية عمالية
+82411,en,court_enforcement,two_hop,2,51,10.687,end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+82411,en,court_enforcement,two_hop,3,53,7.191,dues; المستحقات
+82568,en,other,one_hop,1,8,4.32,limited contract
+82568,en,other,one_hop,2,29,3.914,leave salary
+82568,en,other,one_hop,3,51,2.816,gratuity
+82568,en,other,two_hop,1,29,29.822,annual leave; leave balance; leave salary; unused leave
+82568,en,other,two_hop,2,51,22.368,end-of-service; final settlement; gratuity
+82568,en,other,two_hop,3,42,21.989,mutual agreement; resign; resignation; استقالة; الاستقالة
+82670,en,recruitment_fees,one_hop,1,13,9.178,holding my passport; passport
+82670,en,recruitment_fees,one_hop,2,49,2.646,ban
+82670,en,recruitment_fees,two_hop,1,6,77.801,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف التأشيرة; رسوم الإقامة
+82670,en,recruitment_fees,two_hop,2,9,38.916,probation; probation period; probationary period; فترة الاختبار
+82670,en,recruitment_fees,two_hop,3,8,29.611,contract renewal; limited contract; mohre contract; offer letter; عرض العمل; عقد غير محدد المدة
+82733,en,other,two_hop,1,54,22.932,court case; file a case; labor court; labour case; دعوى عمالية; قضية عمالية
+82733,en,other,two_hop,2,50,17.279,absconding; absconding case; absconding report
+82733,en,other,two_hop,3,55,9.45,court fees
+82823,en,court_enforcement,one_hop,1,54,3.714,labor court
+82823,en,court_enforcement,two_hop,1,54,38.978,court case; labor case; labor court; labour case; شكوى عمالية; قضية عمالية
+82823,en,court_enforcement,two_hop,2,53,15.46,dues; المستحقات; مستحقاتي
+82823,en,court_enforcement,two_hop,3,13,10.026,medical insurance; الهوية
+82887,en,other,one_hop,1,43,2.261,notice period
+82887,en,other,two_hop,1,42,51.46,mutual agreement; resign; resignation; استقالة; الاستقالة
+82887,en,other,two_hop,2,8,35.194,job offer; mohre contract; offer letter; renew my contract; عرض العمل; عرض عمل; عقد غير محدد المدة
+82887,en,other,two_hop,3,43,17.377,notice period; فترة الإنذار
+82890,en,recruitment_fees,one_hop,1,8,8.485,limited contract; mohre contract
+82890,en,recruitment_fees,one_hop,2,6,7.946,visa cost; visa costs
+82890,en,recruitment_fees,one_hop,3,42,2.646,resignation
+82890,en,recruitment_fees,two_hop,1,6,81.61,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة; رسوم الإقامة
+82890,en,recruitment_fees,two_hop,2,9,45.84,probation; probation period; probationary period; فترة الاختبار
+82890,en,recruitment_fees,two_hop,3,42,36.566,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+83298,en,unpaid_wages,one_hop,1,9,8.965,probation; resign during probation
+83298,en,unpaid_wages,one_hop,2,42,5.666,resign; resignation
+83298,en,unpaid_wages,one_hop,3,53,2.71,dues
+83298,en,unpaid_wages,two_hop,1,51,41.513,end of service; end of service benefits; end-of-service; eos; eosb; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+83298,en,unpaid_wages,two_hop,2,22,39.521,late salary; not paid; unpaid salary; unpaid wages; رواتب متأخرة
+83298,en,unpaid_wages,two_hop,3,42,33.992,contract termination; resign; resignation; استقالة; الاستقالة
+83567,en,other,one_hop,1,8,5.418,fixed-term contract
+83567,en,other,one_hop,2,29,3.221,annual leave
+83567,en,other,two_hop,1,29,63.705,annual leave; leave balance; leave salary; unused leave; vacation; إجازة سنوية
+83567,en,other,two_hop,2,13,22.249,air ticket; flight ticket; return ticket; تذكرة طيران
+83567,en,other,two_hop,3,42,21.561,resign; resignation; استقالة; الاستقالة
+83847,en,other,one_hop,1,8,3.278,job offer
+83847,en,other,two_hop,1,8,20.2,job offer; offer letter
+83847,en,other,two_hop,2,49,17.229,ban; no objection; noc
+83847,en,other,two_hop,3,13,10.4,accommodation; emirates id; passport
+83936,en,other,one_hop,1,59,4.032,fine
+83936,en,other,one_hop,2,50,3.627,absconding
+83936,en,other,one_hop,3,8,3.278,job offer
+83936,en,other,two_hop,1,13,39.227,air ticket; emirates id; official documents; passport
+83936,en,other,two_hop,2,50,17.279,absconding; absconding case; absconding report
+83936,en,other,two_hop,3,54,13.77,labour case; labour court; tasheel
+83952,en,passport_withheld,one_hop,1,8,4.32,limited contract
+83952,en,passport_withheld,one_hop,2,13,3.067,passport
+83952,en,passport_withheld,two_hop,1,13,43.781,emirates id; passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+83952,en,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+83952,en,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+83987,en,unpaid_wages,one_hop,1,22,4.32,not paid
+83987,en,unpaid_wages,two_hop,1,22,37.797,delayed salary; not paid; salary delay; wage protection; الأجر; رواتب متأخرة
+83987,en,unpaid_wages,two_hop,2,51,28.915,مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+83987,en,unpaid_wages,two_hop,3,54,15.217,رفع قضية; شكوى عمالية; قضية عمالية
+84183,en,recruitment_fees,one_hop,1,9,5.969,probation; probation period
+84183,en,recruitment_fees,one_hop,2,6,3.627,visa costs
+84183,en,recruitment_fees,one_hop,3,42,3.02,resign
+84183,en,recruitment_fees,two_hop,1,6,72.383,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة
+84183,en,recruitment_fees,two_hop,2,9,50.996,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+84183,en,recruitment_fees,two_hop,3,42,33.856,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+84313,en,unpaid_wages,one_hop,1,43,7.68,garden leave; notice period
+84313,en,unpaid_wages,two_hop,1,22,49.525,delayed salary; late salary; not paid; pending salary; salary delay; unpaid salary; unpaid wages; wage protection
+84313,en,unpaid_wages,two_hop,2,51,38.41,end of service; end of service benefits; end-of-service; eos; eosb; final settlement
+84313,en,unpaid_wages,two_hop,3,53,33.784,14 days; dues; entitlements; final settlement; المستحقات; مستحقاتي
+84374,en,gratuity,one_hop,1,13,5.013,air ticket
+84374,en,gratuity,one_hop,2,51,2.816,gratuity
+84374,en,gratuity,one_hop,3,43,2.261,notice period
+84374,en,gratuity,two_hop,1,51,73.212,21 days; end of service; end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+84374,en,gratuity,two_hop,2,29,28.462,annual leave; leave encashment; leave salary; unused leave; vacation
+84374,en,gratuity,two_hop,3,53,24.522,dues; entitlements; final settlement; المستحقات; مستحقاتي
+84473,en,other,two_hop,1,13,43.528,air ticket; emirates id; flight ticket; health insurance; medical insurance; passport; return ticket
+84473,en,other,two_hop,2,31,25.44,illness; medical certificate; sick; sick leave
+84473,en,other,two_hop,3,29,21.406,annual leave; leave salary; unused leave
+84520,en,unfair_termination,one_hop,1,9,5.969,probation; probation period
+84520,en,unfair_termination,two_hop,1,9,33.654,probation; probation period; probationary period; فترة الاختبار; فترة التجربة
+84520,en,unfair_termination,two_hop,2,29,27.104,annual leave; leave balance; leave salary; unused leave; vacation
+84520,en,unfair_termination,two_hop,3,47,21.292,unfair dismissal; الفصل التعسفي; تعويض عن الفصل
+84589,en,gratuity,one_hop,1,33,4.725,unpaid leave
+84589,en,gratuity,one_hop,2,29,3.914,leave salary
+84589,en,gratuity,one_hop,3,51,2.816,gratuity
+84589,en,gratuity,two_hop,1,51,73.212,21 days; end of service; end-of-service; final settlement; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+84589,en,gratuity,two_hop,2,53,27.301,dues; entitlements; final settlement; المستحقات; مستحقاتي
+84589,en,gratuity,two_hop,3,29,25.241,annual leave; leave encashment; leave salary; unused leave; vacation
+84674,en,other,one_hop,1,59,4.032,fine
+84674,en,other,one_hop,2,13,3.167,emirates id
+84674,en,other,one_hop,3,42,2.646,resignation
+84674,en,other,two_hop,1,54,31.318,complaint to mohre; labor case; labor court; labour case; labour court; tasheel
+84674,en,other,two_hop,2,42,17.069,contract expired; resign; resignation
+84674,en,other,two_hop,3,8,13.644,job offer; offer letter
+84712,en,other,one_hop,1,3,3.339,free zone
+84712,en,other,two_hop,1,7,28.845,freelance; part-time; remote work; temporary work
+84712,en,other,two_hop,2,49,27.032,ban; no objection; noc
+84712,en,other,two_hop,3,3,16.694,free zone
+84834,en,other,one_hop,1,54,5.013,tasheel
+84834,en,other,one_hop,2,13,3.067,passport
+84834,en,other,two_hop,1,13,31.047,accommodation; emirates id; passport; return ticket
+84834,en,other,two_hop,2,54,23.103,file a case; labour case; labour court; tasheel
+84834,en,other,two_hop,3,59,16.511,fine; violation
+84892,en,other,two_hop,1,54,15.833,labor case; labor complaint; labor court
+84892,en,other,two_hop,2,49,15.555,ban; noc
+84892,en,other,two_hop,3,43,9.045,notice period
+84974,en,other,two_hop,1,43,30.949,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+84974,en,other,two_hop,2,54,23.482,labor case; labor complaint; labor court; دعوى عمالية; شكوى عمالية; قضية عمالية
+84974,en,other,two_hop,3,42,18.01,mutual agreement; resign; resignation
+85028,en,unpaid_wages,two_hop,1,22,40.507,late salary; not paid; unpaid salary; unpaid wages; الأجر; تأخير الراتب; رواتب متأخرة
+85028,en,unpaid_wages,two_hop,2,51,27.093,end-of-service; final settlement; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+85028,en,unpaid_wages,two_hop,3,53,26.864,dues; entitlements; final settlement; المستحقات; مستحقاتي
+85106,en,unfair_termination,one_hop,1,43,2.261,notice period
+85106,en,unfair_termination,two_hop,1,47,39.422,arbitrary dismissal; compensation for termination; unfair dismissal; wrongful termination; الفصل التعسفي
+85106,en,unfair_termination,two_hop,2,51,35.432,21 days; end of service; end-of-service; eos; gratuity
+85106,en,unfair_termination,two_hop,3,29,34.239,annual leave; leave balance; leave salary; unused leave; vacation
+85148,en,unfair_termination,two_hop,1,51,45.501,21 days; end of service; end-of-service; eos; gratuity; المكافأة; نهاية الخدمة
+85148,en,unfair_termination,two_hop,2,29,41.374,annual leave; leave balance; leave salary; unused leave; vacation
+85148,en,unfair_termination,two_hop,3,47,27.88,arbitrary dismissal; compensation for termination; unfair dismissal
+85262,en,gratuity,one_hop,1,9,5.969,probation; probation period
+85262,en,gratuity,one_hop,2,51,2.816,gratuity
+85262,en,gratuity,one_hop,3,43,2.261,notice period
+85262,en,gratuity,two_hop,1,51,80.465,21 days; end of service; end-of-service; final settlement; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+85262,en,gratuity,two_hop,2,29,28.462,annual leave; leave encashment; leave salary; unused leave; vacation
+85262,en,gratuity,two_hop,3,53,24.959,dues; entitlements; final settlement; المستحقات; مستحقاتي
+85323,en,court_enforcement,one_hop,1,53,6.519,dues; final settlement
+85323,en,court_enforcement,one_hop,2,22,3.809,unpaid salary
+85323,en,court_enforcement,one_hop,3,51,3.809,final settlement
+85323,en,court_enforcement,two_hop,1,53,34.624,dues; entitlements; final settlement; المستحقات; حقوقي المالية; مستحقاتي
+85323,en,court_enforcement,two_hop,2,54,31.709,labor case; labor court; labour court; شكوى عمالية; قضية عمالية
+85323,en,court_enforcement,two_hop,3,22,20.605,not paid; pending salary; unpaid salary; رواتب متأخرة
+85437,en,passport_withheld,one_hop,1,13,3.067,passport
+85437,en,passport_withheld,two_hop,1,13,40.614,passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+85437,en,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+85437,en,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+85541,en,other,one_hop,1,31,8.352,sick; sick leave
+85541,en,other,two_hop,1,31,52.575,illness; medical certificate; medical leave; sick; sick leave
+85541,en,other,two_hop,2,29,51.38,annual leave; leave balance; leave salary; unused leave; إجازة سنوية; الإجازة السنوية; رصيد الإجازات
+85541,en,other,two_hop,3,51,20.833,end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+85672,en,unpaid_wages,two_hop,1,22,56.336,delayed salary; late salary; not paid; salary delay; unpaid salary; unpaid wages; wage protection; الأجر; رواتب متأخرة
+85672,en,unpaid_wages,two_hop,2,51,28.959,end of service; end-of-service; eosb; final settlement; gratuity; مستحقات نهاية الخدمة; نهاية الخدمة
+85672,en,unpaid_wages,two_hop,3,54,24.296,complaint to mohre; labor complaint; رفع قضية; شكوى عمالية; قضية عمالية
+85704,en,other,one_hop,1,49,3.809,noc
+85704,en,other,two_hop,1,13,30.947,accommodation; emirates id; passport; return ticket
+85704,en,other,two_hop,2,7,15.339,freelance; temporary work
+85704,en,other,two_hop,3,49,14.072,ban; noc
+85864,en,other,two_hop,1,13,22.734,emirates id; health insurance; passport
+85864,en,other,two_hop,2,50,22.004,absconder; absconding; absconding report
+85864,en,other,two_hop,3,53,15.683,14 days; dues; entitlements; final settlement
+85994,en,unpaid_wages,one_hop,1,42,3.02,resign
+85994,en,unpaid_wages,two_hop,1,22,53.69,delayed salary; late salary; not paid; pending salary; salary delay; unpaid salary; unpaid wages; wage protection; رواتب متأخرة
+85994,en,unpaid_wages,two_hop,2,53,34.252,14 days; dues; entitlements; final settlement; المستحقات; خلال 14 يوما; مستحقاتي
+85994,en,unpaid_wages,two_hop,3,51,29.002,end of service; end-of-service; eosb; final settlement; مكافأة نهاية الخدمة; نهاية الخدمة
+86234,en,other,one_hop,1,42,10.613,company closed; non-renewal
+86234,en,other,one_hop,2,3,3.339,free zone
+86234,en,other,one_hop,3,51,2.528,end-of-service
+86234,en,other,two_hop,1,42,22.391,company closed; contract expired; non-renewal; resign; resignation
+86234,en,other,two_hop,2,54,21.986,labor complaint; labor court; labour case; labour court; tasheel
+86234,en,other,two_hop,3,53,19.972,dues; entitlements; final settlement
+86509,en,unpaid_wages,one_hop,1,22,4.32,not paid
+86509,en,unpaid_wages,one_hop,2,8,3.278,job offer
+86509,en,unpaid_wages,two_hop,1,22,53.69,delayed salary; late salary; not paid; pending salary; salary delay; unpaid salary; unpaid wages; wage protection; رواتب متأخرة
+86509,en,unpaid_wages,two_hop,2,51,48.766,end of service; end of service benefits; end-of-service; eos; eosb; final settlement; gratuity; مستحقات نهاية الخدمة; نهاية الخدمة
+86509,en,unpaid_wages,two_hop,3,53,29.202,14 days; dues; entitlements; final settlement
+86511,ar,other,two_hop,1,54,29.883,تسهيل; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+86511,ar,other,two_hop,2,42,20.713,إنهاء العقد; استقالة; الاستقالة; انتهاء العقد
+86511,ar,other,two_hop,3,43,19.642,بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+86528,en,other,one_hop,1,51,7.541,end-of-service; eos
+86528,en,other,one_hop,2,43,2.261,notice period
+86528,en,other,two_hop,1,53,23.883,14 days; dues; entitlements; final settlement; مستحقاتي
+86528,en,other,two_hop,2,54,23.867,labor case; labor court; تسهيل; توافق; وزارة الموارد البشرية
+86528,en,other,two_hop,3,50,14.751,absconder; absconding; absconding report
+86550,en,other,one_hop,1,8,3.278,job offer
+86550,en,other,two_hop,1,49,25.358,ban; no objection; noc
+86550,en,other,two_hop,2,13,21.646,accommodation; emirates id; passport; return ticket
+86550,en,other,two_hop,3,8,9.778,job offer; عرض عمل
+86793,en,passport_withheld,one_hop,1,13,3.067,passport
+86793,en,passport_withheld,two_hop,1,13,43.781,emirates id; passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+86793,en,passport_withheld,two_hop,2,8,21.396,job offer; limited contract; offer letter; عرض العمل; عرض عمل
+86793,en,passport_withheld,two_hop,3,6,8.129,visa costs; تكاليف الإقامة
+87045,en,other,two_hop,1,42,44.969,contract termination; end of contract; mutual agreement; non-renewal; resign; resignation
+87045,en,other,two_hop,2,53,21.038,dues; entitlements; final settlement
+87045,en,other,two_hop,3,51,20.833,end-of-service; final settlement; gratuity
+87195,en,other,two_hop,1,30,21.045,gave birth; maternity leave; pregnancy; pregnant
+87195,en,other,two_hop,2,53,13.486,dues; entitlements
+87195,en,other,two_hop,3,13,12.345,emirates id; official documents; passport
+8728,ar,unpaid_wages,one_hop,1,3,4.502,منطقة حرة
+8728,ar,unpaid_wages,one_hop,2,54,2.893,شكوى عمالية
+8728,ar,unpaid_wages,two_hop,1,22,50.019,delayed salary; late salary; salary delay; unpaid wages; wage protection; الأجر; تأخير الراتب; رواتب متأخرة
+8728,ar,unpaid_wages,two_hop,2,54,23.171,labor complaint; رفع قضية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+8728,ar,unpaid_wages,two_hop,3,53,19.907,dues; entitlements; المستحقات; مستحقاتي
+87530,en,passport_withheld,one_hop,1,8,3.809,offer letter
+87530,en,passport_withheld,one_hop,2,13,3.067,passport
+87530,en,passport_withheld,two_hop,1,13,43.781,emirates id; passport; جواز السفر; حجز الجواز; شهادة الخبرة; شهادة خبرة
+87530,en,passport_withheld,two_hop,2,8,18.117,limited contract; offer letter; عرض العمل; عرض عمل
+87530,en,passport_withheld,two_hop,3,54,10.589,file a case; labor court; قضية عمالية
+87777,en,other,one_hop,1,8,3.809,offer letter
+87777,en,other,two_hop,1,42,30.984,non-renewal; resign; resignation; الاستقالة; انتهاء العقد
+87777,en,other,two_hop,2,54,20.289,file a case; labour case; توافق; دعوى عمالية; وزارة الموارد البشرية
+87777,en,other,two_hop,3,8,11.783,mohre contract; offer letter
+87851,en,unfair_termination,one_hop,1,29,4.166,vacation
+87851,en,unfair_termination,one_hop,2,17,3.809,working hours
+87851,en,unfair_termination,two_hop,1,29,42.655,annual leave; leave balance; leave salary; unused leave; vacation; بدل الإجازة
+87851,en,unfair_termination,two_hop,2,51,38.248,21 days; end of service; end-of-service; eos; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+87851,en,unfair_termination,two_hop,3,47,36.548,arbitrary dismissal; unfair dismissal; الفصل التعسفي; تعويض عن الفصل
+88017,en,court_enforcement,two_hop,1,22,14.646,unpaid salary; wage protection; wps
+88017,en,court_enforcement,two_hop,2,53,14.617,dues; entitlements; final settlement
+88017,en,court_enforcement,two_hop,3,69,10.837,grievance; التظلم
+88026,en,other,one_hop,1,32,6.111,parental leave
+88026,en,other,two_hop,1,31,61.311,illness; medical certificate; medical leave; sick; sick leave
+88026,en,other,two_hop,2,30,28.95,maternity leave; pregnancy; pregnant
+88026,en,other,two_hop,3,13,26.403,air ticket; emirates id; flight ticket; health insurance; passport; return ticket
+88054,en,other,one_hop,1,29,7.135,annual leave; leave salary
+88054,en,other,one_hop,2,13,5.013,air ticket
+88054,en,other,two_hop,1,29,42.707,annual leave; leave balance; leave salary; unused leave
+88054,en,other,two_hop,2,31,37.957,illness; medical certificate; sick; sick leave
+88054,en,other,two_hop,3,13,21.39,air ticket; emirates id; health insurance; passport; تذكرة طيران
+88092,en,other,two_hop,1,13,39.35,air ticket; emirates id; passport
+88092,en,other,two_hop,2,7,19.841,freelance; remote work; temporary work
+88092,en,other,two_hop,3,54,18.272,court case; labour case; labour court; tasheel
+88381,en,other,one_hop,1,42,6.111,bankruptcy
+88381,en,other,two_hop,1,13,33.016,air ticket; emirates id; passport
+88381,en,other,two_hop,2,50,14.609,absconding; بلاغ هروب; هروب
+88381,en,other,two_hop,3,53,11.874,dues; entitlements; final settlement
+88401,en,other,one_hop,1,9,5.969,probation; probation period
+88401,en,other,two_hop,1,42,40.247,resign; resignation; استقالة; الاستقالة
+88401,en,other,two_hop,2,53,29.892,14 days; dues; entitlements; final payment
+88401,en,other,two_hop,3,9,27.685,probation; probation period; فترة الاختبار
+88429,en,unfair_termination,one_hop,1,8,3.809,offer letter
+88429,en,unfair_termination,one_hop,2,53,3.809,14 days
+88429,en,unfair_termination,one_hop,3,9,2.853,probation
+88429,en,unfair_termination,two_hop,1,9,30.027,probation; probation period; فترة الاختبار; فترة التجربة
+88429,en,unfair_termination,two_hop,2,47,24.183,arbitrary dismissal; compensation for termination; unfair dismissal; الفصل التعسفي
+88429,en,unfair_termination,two_hop,3,53,21.732,14 days; dues; entitlements; المستحقات
+88431,en,recruitment_fees,one_hop,1,8,5.418,contract renewal
+88431,en,recruitment_fees,one_hop,2,6,3.627,visa costs
+88431,en,recruitment_fees,one_hop,3,42,3.02,resign
+88431,en,recruitment_fees,two_hop,1,6,81.428,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف الإقامة; تكاليف التأشيرة
+88431,en,recruitment_fees,two_hop,2,9,43.823,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+88431,en,recruitment_fees,two_hop,3,42,33.856,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+88680,en,other,one_hop,1,44,4.502,article 44
+88680,en,other,one_hop,2,29,3.221,annual leave
+88680,en,other,one_hop,3,49,2.646,ban
+88680,en,other,two_hop,1,50,36.124,absconding; absconding report; بلاغ هروب; تعميم هروب; هروب
+88680,en,other,two_hop,2,43,30.235,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+88680,en,other,two_hop,3,54,30.001,labor case; labor court; توافق; دعوى عمالية; شكوى عمالية; قضية عمالية; وزارة الموارد البشرية
+88754,en,court_enforcement,two_hop,1,53,28.465,14 days; dues; entitlements; final settlement; المستحقات; مستحقاتي
+88754,en,court_enforcement,two_hop,2,22,27.969,not paid; pending salary; unpaid salary; wage protection; wps
+88754,en,court_enforcement,two_hop,3,54,19.673,labor case; labor court; شكوى عمالية; قضية عمالية
+88802,en,other,one_hop,1,8,3.809,offer letter
+88802,en,other,one_hop,2,42,3.02,resign
+88802,en,other,two_hop,1,42,45.889,mutual agreement; resign; resignation; استقالة; الاستقالة; انتهاء العقد
+88802,en,other,two_hop,2,53,17.295,14 days; dues; entitlements
+88802,en,other,two_hop,3,8,12.006,mohre contract; offer letter; عقد غير محدد المدة
+88856,en,other,one_hop,1,30,4.502,maternity leave
+88856,en,other,two_hop,1,29,41.018,annual leave; leave balance; leave salary; unused leave; vacation
+88856,en,other,two_hop,2,17,34.592,48 hours; 8 hours; 9 hours; hours per day; working hours
+88856,en,other,two_hop,3,13,34.483,air ticket; emirates id; flight ticket; health insurance; passport; return ticket
+88871,en,other,two_hop,1,42,33.701,contract termination; end of contract; mutual agreement; non-renewal; resign; resignation; الاستقالة
+88871,en,other,two_hop,2,50,19.764,absconder; absconding; absconding case; absconding report
+88871,en,other,two_hop,3,8,18.742,contract renewal; job offer; عرض العمل; عرض عمل
+88875,ar,other,one_hop,1,45,3.278,ترك العمل
+88875,ar,other,two_hop,1,29,26.06,annual leave; leave balance; unused leave; إجازة سنوية; راتب الإجازة
+88875,ar,other,two_hop,2,9,17.396,probation; probation period; فترة الاختبار; فترة التجربة
+88875,ar,other,two_hop,3,45,16.391,ترك العمل
+88932,en,unpaid_wages,one_hop,1,6,3.627,visa costs
+88932,en,unpaid_wages,one_hop,2,42,2.646,resignation
+88932,en,unpaid_wages,one_hop,3,43,2.261,notice period
+88932,en,unpaid_wages,two_hop,1,22,53.536,delayed salary; late salary; not paid; pending salary; salary delay; unpaid salary; unpaid wages; wage protection; رواتب متأخرة
+88932,en,unpaid_wages,two_hop,2,51,27.966,end of service; end of service benefits; end-of-service; eos; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+88932,en,unpaid_wages,two_hop,3,42,24.722,contract termination; resign; resignation; الاستقالة
+89321,en,other,one_hop,1,29,3.914,leave salary
+89321,en,other,one_hop,2,42,3.02,resign
+89321,en,other,one_hop,3,43,2.261,notice period
+89321,en,other,two_hop,1,31,31.706,illness; medical certificate; medical leave; sick; sick leave
+89321,en,other,two_hop,2,42,28.395,resign; resignation; الاستقالة
+89321,en,other,two_hop,3,29,22.938,annual leave; leave balance; leave salary; unused leave; vacation
+89326,en,gratuity,one_hop,1,29,3.914,leave salary
+89326,en,gratuity,one_hop,2,51,2.816,gratuity
+89326,en,gratuity,two_hop,1,51,67.868,21 days; end of service; end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+89326,en,gratuity,two_hop,2,53,29.978,dues; entitlements; final settlement; المستحقات; مستحقاتي
+89326,en,gratuity,two_hop,3,29,28.462,annual leave; leave encashment; leave salary; unused leave; vacation
+89563,en,other,one_hop,1,49,3.809,noc
+89563,en,other,one_hop,2,42,2.646,resignation
+89563,en,other,two_hop,1,50,25.918,absconding; absconding case; absconding report
+89563,en,other,two_hop,2,53,18.393,14 days; dues; entitlements; final settlement
+89563,en,other,two_hop,3,51,11.968,end-of-service; final settlement; gratuity
+89720,en,other,one_hop,1,53,6.519,14 days; dues
+89720,en,other,one_hop,2,9,5.969,probation; probation period
+89720,en,other,one_hop,3,50,3.627,absconding
+89720,en,other,two_hop,1,50,30.643,absconder; absconding; absconding case; absconding report
+89720,en,other,two_hop,2,53,21.071,14 days; dues; entitlements; final settlement
+89720,en,other,two_hop,3,51,17.024,end-of-service; final settlement; gratuity
+89731,en,gratuity,one_hop,1,51,5.418,eosb
+89731,en,gratuity,two_hop,1,51,63.218,21 days; end of service; end-of-service; eosb; final settlement; gratuity; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+89731,en,gratuity,two_hop,2,53,36.933,dues; entitlements; final settlement; التسوية النهائية; المستحقات; مستحقاتي
+89731,en,gratuity,two_hop,3,22,18.341,الأجر; حماية الأجور; رواتب متأخرة
+89790,en,other,one_hop,1,50,3.627,absconding
+89790,en,other,two_hop,1,50,30.643,absconder; absconding; absconding case; absconding report
+89790,en,other,two_hop,2,9,11.938,probation; probation period
+89790,en,other,two_hop,3,53,11.907,14 days; dues; entitlements
+89910,en,other,one_hop,1,8,6.111,renew my contract
+89910,en,other,one_hop,2,50,3.627,absconding
+89910,en,other,one_hop,3,51,2.816,gratuity
+89910,en,other,two_hop,1,42,45.927,contract termination; end of contract; mutual agreement; non-renewal; resign; resignation; استقالة; الاستقالة
+89910,en,other,two_hop,2,8,26.381,contract renewal; job offer; limited contract; renew my contract; عرض عمل; عقد غير محدد المدة
+89910,en,other,two_hop,3,53,26.021,14 days; dues; entitlements; final settlement; المستحقات
+90097,en,recruitment_fees,one_hop,1,6,7.946,visa cost; visa costs
+90097,en,recruitment_fees,one_hop,2,8,3.809,offer letter
+90097,en,recruitment_fees,one_hop,3,3,3.339,free zone
+90097,en,recruitment_fees,two_hop,1,6,86.846,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف التأشيرة; رسوم الإقامة
+90097,en,recruitment_fees,two_hop,2,9,42.725,probation; probation period; probationary period; فترة الاختبار
+90097,en,recruitment_fees,two_hop,3,8,32.889,contract renewal; job offer; limited contract; mohre contract; offer letter; عرض العمل; عقد غير محدد المدة
+90212,en,court_enforcement,one_hop,1,54,3.809,labor case
+90212,en,court_enforcement,one_hop,2,49,2.646,ban
+90212,en,court_enforcement,two_hop,1,54,29.99,court case; labor case; labor court; labour case; المحكمة العمالية; قضية عمالية
+90212,en,court_enforcement,two_hop,2,53,10.371,dues; المستحقات
+90212,en,court_enforcement,two_hop,3,69,6.111,grievance
+90261,en,other,one_hop,1,57,6.111,inspection
+90261,en,other,two_hop,1,54,19.036,file a case; labour case; دعوى عمالية; قضية عمالية
+90261,en,other,two_hop,2,10,18.495,competitor; non-compete; non-competition
+90261,en,other,two_hop,3,59,12.479,fine; violation
+90262,en,court_enforcement,one_hop,1,54,3.809,labor case
+90262,en,court_enforcement,two_hop,1,54,51.226,court case; labor case; labor court; labour case; شكوى عمالية; قضية عمالية
+90262,en,court_enforcement,two_hop,2,22,12.631,not paid; pending salary; unpaid salary
+90262,en,court_enforcement,two_hop,3,53,10.44,dues; المستحقات; مستحقاتي
+90349,en,other,one_hop,1,43,2.261,notice period
+90349,en,other,two_hop,1,42,47.147,mutual agreement; non-renewal; resign; resignation; استقالة; الاستقالة
+90349,en,other,two_hop,2,43,31.882,garden leave; notice period; serve notice
+90349,en,other,two_hop,3,31,23.354,illness; medical certificate; medical leave; sick; sick leave
+90361,en,other,two_hop,1,13,33.658,accommodation; air ticket; emirates id; health insurance; passport; return ticket
+90361,en,other,two_hop,2,49,30.84,ban; no objection; noc
+90361,en,other,two_hop,3,7,18.924,freelance; part-time; remote work
+90502,en,other,two_hop,1,54,25.302,file a case; labour case; labour court; tasheel; شكوى عمالية
+90502,en,other,two_hop,2,51,16.288,end of service; end-of-service; final settlement; gratuity
+90502,en,other,two_hop,3,42,15.905,contract expired; non-renewal; resignation
+90522,en,other,one_hop,1,43,2.261,notice period
+90522,en,other,two_hop,1,54,25.101,labor case; labor court; labour case; labour court; tasheel
+90522,en,other,two_hop,2,53,22.682,14 days; dues; entitlements
+90522,en,other,two_hop,3,42,17.069,contract expired; resign; resignation
+90666,en,unfair_termination,one_hop,1,25,4.032,deducted
+90666,en,unfair_termination,one_hop,2,53,2.71,dues
+90666,en,unfair_termination,one_hop,3,43,2.261,notice period
+90666,en,unfair_termination,two_hop,1,51,24.745,end of service; end-of-service; eos; gratuity; المكافأة; نهاية الخدمة
+90666,en,unfair_termination,two_hop,2,53,23.344,14 days; dues; entitlements; المستحقات
+90666,en,unfair_termination,two_hop,3,47,22.867,arbitrary dismissal; unfair dismissal; wrongful termination
+90711,en,other,one_hop,1,43,2.261,notice period
+90711,en,other,two_hop,1,42,39.041,mutual agreement; resign; resignation
+90711,en,other,two_hop,2,53,21.104,14 days; dues; entitlements
+90711,en,other,two_hop,3,29,20.277,annual leave; leave salary; إجازة سنوية; راتب الإجازة
+90792,en,other,one_hop,1,42,2.646,resignation
+90792,en,other,two_hop,1,42,41.793,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+90792,en,other,two_hop,2,53,27.215,14 days; dues; entitlements; final payment
+90792,en,other,two_hop,3,54,14.958,labor court; توافق; دعوى عمالية; وزارة الموارد البشرية
+90823,en,other,two_hop,1,13,37.048,air ticket; emirates id; health insurance; passport
+90823,en,other,two_hop,2,8,9.778,job offer; عرض عمل
+90823,en,other,two_hop,3,3,6.678,free zone
+90825,en,other,one_hop,1,45,6.111,left the job
+90825,en,other,one_hop,2,10,4.032,non-compete
+90825,en,other,one_hop,3,40,3.914,investigation
+90825,en,other,two_hop,1,50,28.363,absconding; absconding case; absconding report; بلاغ هروب; هروب
+90825,en,other,two_hop,2,49,18.647,ban; نقل الكفالة
+90825,en,other,two_hop,3,54,15.012,court case; labor case; شكوى عمالية
+90870,en,other,one_hop,1,40,3.914,investigation
+90870,en,other,one_hop,2,49,2.646,ban
+90870,en,other,two_hop,1,49,20.846,ban; noc
+90870,en,other,two_hop,2,50,19.764,absconder; absconding; absconding case; absconding report
+90870,en,other,two_hop,3,54,15.833,labor case; labor complaint; labor court
+90883,en,other,one_hop,1,29,4.166,vacation
+90883,en,other,two_hop,1,50,22.292,absconding; absconding case; absconding report
+90883,en,other,two_hop,2,53,17.295,14 days; dues; entitlements
+90883,en,other,two_hop,3,13,12.112,air ticket; health insurance; passport
+90908,en,unpaid_wages,one_hop,1,13,6.111,experience letter
+90908,en,unpaid_wages,two_hop,1,22,49.371,delayed salary; late salary; not paid; pending salary; salary delay; unpaid salary; unpaid wages; wage protection; رواتب متأخرة
+90908,en,unpaid_wages,two_hop,2,53,30.41,dues; entitlements; final settlement; المستحقات; خلال 14 يوما; مستحقاتي
+90908,en,unpaid_wages,two_hop,3,43,22.795,garden leave; notice period; بدل الإنذار
+90914,en,other,two_hop,1,13,36.183,air ticket; emirates id; passport
+90914,en,other,two_hop,2,49,14.392,ban; noc
+90914,en,other,two_hop,3,54,13.77,labour case; labour court; tasheel
+90984,en,other,one_hop,1,51,6.625,final settlement; gratuity
+90984,en,other,one_hop,2,42,5.666,resign; resignation
+90984,en,other,one_hop,3,53,3.809,final settlement
+90984,en,other,two_hop,1,42,20.464,bankruptcy; resign; resignation
+90984,en,other,two_hop,2,8,14.174,job offer; offer letter
+90984,en,other,two_hop,3,51,10.433,final settlement; gratuity
+91067,en,court_enforcement,one_hop,1,69,6.111,grievance
+91067,en,court_enforcement,one_hop,2,59,2.816,violation
+91067,en,court_enforcement,one_hop,3,53,2.71,dues
+91067,en,court_enforcement,two_hop,1,22,23.467,not paid; pending salary; unpaid salary; wage protection; wps
+91067,en,court_enforcement,two_hop,2,53,17.327,dues; entitlements; final settlement
+91067,en,court_enforcement,two_hop,3,54,10.685,labor case; المحكمة العمالية; قضية عمالية
+91080,en,other,two_hop,1,54,33.317,court case; labor case; labor court; labour case; labour court; tasheel
+91080,en,other,two_hop,2,53,13.486,dues; entitlements
+91080,en,other,two_hop,3,22,13.324,pending salary; unpaid salary; unpaid wages
+91092,en,other,one_hop,1,7,4.502,part-time
+91092,en,other,one_hop,2,8,3.809,offer letter
+91092,en,other,one_hop,3,53,2.677,entitlements
+91092,en,other,two_hop,1,29,37.209,annual leave; leave balance; leave salary; unused leave; vacation
+91092,en,other,two_hop,2,31,25.44,illness; medical certificate; sick; sick leave
+91092,en,other,two_hop,3,30,24.448,maternity leave; pregnancy; pregnant
+91096,en,gratuity,one_hop,1,51,2.816,gratuity
+91096,en,gratuity,two_hop,1,51,78.556,21 days; end of service; end-of-service; final settlement; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+91096,en,gratuity,two_hop,2,29,28.462,annual leave; leave encashment; leave salary; unused leave; vacation
+91096,en,gratuity,two_hop,3,53,19.939,dues; entitlements; final settlement
+91201,en,gratuity,one_hop,1,50,8.639,absconding; absconding case
+91201,en,gratuity,one_hop,2,51,2.816,gratuity
+91201,en,gratuity,two_hop,1,51,80.465,21 days; end of service; end-of-service; final settlement; gratuity; المكافأة; مكافأة نهاية الخدمة; نهاية الخدمة
+91201,en,gratuity,two_hop,2,53,35.397,dues; entitlements; final settlement; التسوية النهائية; المستحقات; مستحقاتي
+91201,en,gratuity,two_hop,3,29,28.462,annual leave; leave encashment; leave salary; unused leave; vacation
+91212,en,other,two_hop,1,13,29.81,emirates id; health insurance; official documents; passport
+91212,en,other,two_hop,2,31,25.44,illness; medical certificate; sick; sick leave
+91212,en,other,two_hop,3,8,16.865,job offer; offer letter; عرض عمل
+91243,en,other,two_hop,1,13,36.669,air ticket; emirates id; flight ticket; health insurance; passport; return ticket
+91243,en,other,two_hop,2,31,25.44,illness; medical certificate; sick; sick leave
+91243,en,other,two_hop,3,29,21.406,annual leave; leave salary; unused leave
+91272,en,other,one_hop,1,13,4.032,health insurance
+91272,en,other,two_hop,1,13,67.104,accommodation; air ticket; emirates id; flight ticket; health insurance; medical insurance; passport; return ticket
+91272,en,other,two_hop,2,31,29.472,illness; medical certificate; sick; sick leave
+91272,en,other,two_hop,3,7,18.924,part-time; remote work
+91338,en,other,one_hop,1,13,5.013,medical insurance
+91338,en,other,one_hop,2,7,4.502,part-time
+91338,en,other,two_hop,1,31,77.861,illness; medical certificate; medical leave; sick; sick leave
+91338,en,other,two_hop,2,30,49.995,gave birth; maternity leave; pregnancy; pregnant
+91338,en,other,two_hop,3,13,28.356,emirates id; health insurance; medical insurance; passport
+91450,en,other,one_hop,1,59,4.032,fine
+91450,en,other,two_hop,1,54,31.844,court case; file a case; labor court; labour court; توافق; دعوى عمالية; وزارة الموارد البشرية
+91450,en,other,two_hop,2,42,21.19,resign; resignation; الاستقالة; انتهاء العقد
+91450,en,other,two_hop,3,59,16.511,fine; violation
+91621,en,other,two_hop,1,8,16.922,job offer; offer letter
+91621,en,other,two_hop,2,13,16.634,accommodation; emirates id; passport
+91621,en,other,two_hop,3,49,14.392,ban; noc
+91654,en,other,two_hop,1,49,27.812,ban; no objection; noc
+91654,en,other,two_hop,2,50,13.652,absconding; absconding case; absconding report
+91654,en,other,two_hop,3,54,12.813,court case; labor case; labor complaint
+91664,en,other,one_hop,1,50,3.627,absconding
+91664,en,other,two_hop,1,50,45.54,absconding; absconding case; absconding report; بلاغ هروب; هروب
+91664,en,other,two_hop,2,31,23.354,illness; medical certificate; medical leave; sick; sick leave
+91664,en,other,two_hop,3,43,20.418,notice period; serve notice; شهر الإنذار; فترة الإنذار
+91737,en,gratuity,one_hop,1,17,5.418,12 hours
+91737,en,gratuity,one_hop,2,5,4.725,minor
+91737,en,gratuity,one_hop,3,40,3.914,investigation
+91737,en,gratuity,two_hop,1,51,65.671,21 days; end of service; end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+91737,en,gratuity,two_hop,2,53,35.029,dues; entitlements; final settlement; التسوية النهائية; المستحقات; مستحقاتي
+91737,en,gratuity,two_hop,3,29,28.462,annual leave; leave encashment; leave salary; unused leave; vacation
+91783,en,unfair_termination,one_hop,1,47,6.111,compensation for termination
+91783,en,unfair_termination,two_hop,1,47,44.964,compensation for termination; unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+91783,en,unfair_termination,two_hop,2,43,33.883,notice period; إشعار; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+91783,en,unfair_termination,two_hop,3,51,28.915,21 days; end-of-service; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+91862,en,other,one_hop,1,29,3.221,annual leave
+91862,en,other,two_hop,1,29,51.374,annual leave; leave balance; leave salary; unused leave; vacation
+91862,en,other,two_hop,2,17,34.592,48 hours; 8 hours; 9 hours; hours per day; working hours
+91862,en,other,two_hop,3,13,34.483,air ticket; emirates id; flight ticket; health insurance; passport; return ticket
+92376,en,other,one_hop,1,13,5.013,medical insurance
+92376,en,other,one_hop,2,25,4.032,deducted
+92376,en,other,one_hop,3,31,4.032,sick
+92376,en,other,two_hop,1,30,35.978,gave birth; maternity leave; pregnancy; pregnant
+92376,en,other,two_hop,2,54,18.128,labor case; labor complaint; شكوى عمالية; وزارة الموارد البشرية
+92376,en,other,two_hop,3,31,16.549,medical certificate; sick; sick leave
+92545,en,other,one_hop,1,54,4.32,file a case
+92545,en,other,two_hop,1,54,27.789,complaint to mohre; file a case; tasheel; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+92545,en,other,two_hop,2,8,16.871,job offer; عرض العمل; عرض عمل
+92545,en,other,two_hop,3,5,8.757,minor; حدث
+92673,en,unpaid_wages,two_hop,1,22,41.942,delayed salary; not paid; pending salary; salary delay; unpaid salary; wage protection; الأجر; رواتب متأخرة
+92673,en,unpaid_wages,two_hop,2,51,30.206,end of service; end-of-service; eosb; مستحقات نهاية الخدمة; مكافأة نهاية الخدمة; نهاية الخدمة
+92673,en,unpaid_wages,two_hop,3,53,19.199,14 days; dues; المستحقات; مستحقاتي
+92722,en,other,one_hop,1,31,8.352,sick; sick leave
+92722,en,other,two_hop,1,31,65.497,illness; medical certificate; medical leave; sick; sick leave
+92722,en,other,two_hop,2,29,46.618,annual leave; leave balance; leave salary; unused leave; vacation; إجازة سنوية; الإجازة السنوية
+92722,en,other,two_hop,3,53,21.071,14 days; dues; entitlements; final settlement
+92799,en,other,two_hop,1,50,14.751,absconder; absconding; absconding report
+92799,en,other,two_hop,2,53,14.584,14 days; dues; entitlements
+92799,en,other,two_hop,3,13,12.112,air ticket; health insurance; passport
+92800,en,court_enforcement,two_hop,1,54,31.247,labor case; labor court; labour case; قضية عمالية
+92800,en,court_enforcement,two_hop,2,13,8.18,emirates id; medical insurance
+92800,en,court_enforcement,two_hop,3,53,7.661,dues; المستحقات
+92871,en,other,one_hop,1,9,5.969,probation; probation period
+92871,en,other,one_hop,2,42,3.02,resign
+92871,en,other,one_hop,3,43,2.261,notice period
+92871,en,other,two_hop,1,42,61.628,mutual agreement; resign; resignation; استقالة; الاستقالة; انتهاء العقد
+92871,en,other,two_hop,2,9,21.716,probation; probation period; فترة الاختبار
+92871,en,other,two_hop,3,53,20.696,14 days; dues; entitlements; final payment
+92908,en,other,one_hop,1,42,3.02,resign
+92908,en,other,two_hop,1,42,45.033,contract termination; end of contract; mutual agreement; non-renewal; resign; resignation; الاستقالة
+92908,en,other,two_hop,2,51,26.176,end-of-service; final settlement; gratuity
+92908,en,other,two_hop,3,8,24.797,contract renewal; job offer; renew my contract; عرض العمل; عرض عمل
+92912,en,unfair_termination,one_hop,1,51,2.528,end-of-service
+92912,en,unfair_termination,two_hop,1,47,31.318,arbitrary dismissal; unfair dismissal; wrongful termination; الفصل التعسفي; تعويض عن الفصل; فصل تعسفي
+92912,en,unfair_termination,two_hop,2,29,30.325,annual leave; leave balance; leave salary; vacation
+92912,en,unfair_termination,two_hop,3,42,19.099,contract termination; إنهاء العقد; انتهاء العقد; عدم تجديد العقد
+92978,en,other,one_hop,1,8,3.278,job offer
+92978,en,other,two_hop,1,13,18.479,accommodation; emirates id; passport; return ticket
+92978,en,other,two_hop,2,49,18.201,ban; noc
+92978,en,other,two_hop,3,59,17.727,fine; violation
+93020,en,other,one_hop,1,40,3.914,investigation
+93020,en,other,one_hop,2,13,3.167,emirates id
+93020,en,other,two_hop,1,13,43.382,air ticket; emirates id; health insurance; passport
+93020,en,other,two_hop,2,49,16.066,ban; no objection; noc
+93020,en,other,two_hop,3,50,9.738,absconder; absconding
+93196,en,other,one_hop,1,49,8.129,no objection; noc
+93196,en,other,one_hop,2,3,3.339,free zone
+93196,en,other,two_hop,1,49,37.295,ban; no objection; noc
+93196,en,other,two_hop,2,7,28.845,freelance; part-time; remote work; temporary work
+93196,en,other,two_hop,3,54,18.272,court case; labour case; labour court; tasheel
+93209,en,other,two_hop,1,13,39.992,accommodation; air ticket; emirates id; health insurance; passport; return ticket
+93209,en,other,two_hop,2,17,32.289,12 hours; 8 hours; hours per day; working hours
+93209,en,other,two_hop,3,7,19.841,freelance; part-time; remote work; temporary work
+93298,en,other,one_hop,1,29,4.166,vacation
+93298,en,other,two_hop,1,42,25.31,resign; resignation
+93298,en,other,two_hop,2,51,17.024,end-of-service; final settlement; gratuity
+93298,en,other,two_hop,3,49,16.066,ban; no objection; noc
+93302,en,other,two_hop,1,42,41.258,mutual agreement; resign; resignation; استقالة; الاستقالة
+93302,en,other,two_hop,2,29,21.406,annual leave; leave salary; unused leave
+93302,en,other,two_hop,3,53,18.393,14 days; dues; entitlements; final settlement
+93309,en,recruitment_fees,two_hop,1,6,66.271,employment costs; recruitment costs; recruitment fees; visa cost; visa costs; visa fees
+93309,en,recruitment_fees,two_hop,2,9,47.187,probation; probation period; probationary period; خلال التجربة
+93309,en,recruitment_fees,two_hop,3,13,30.006,accommodation; holding my passport; passport; جواز السفر
+93318,en,unpaid_wages,one_hop,1,59,4.032,fine
+93318,en,unpaid_wages,two_hop,1,22,34.592,delayed salary; not paid; pending salary; salary delay; unpaid salary; wage protection
+93318,en,unpaid_wages,two_hop,2,25,28.298,deducted; deduction; اقتطاع; خصم; خصومات
+93318,en,unpaid_wages,two_hop,3,51,26.144,end of service; end of service benefits; end-of-service; eos; final settlement
+93416,en,unpaid_wages,one_hop,1,51,9.333,end of service; eos
+93416,en,unpaid_wages,one_hop,2,25,8.352,deducted; deduction
+93416,en,unpaid_wages,one_hop,3,42,5.013,contract termination
+93416,en,unpaid_wages,two_hop,1,22,39.858,late salary; not paid; pending salary; unpaid salary; unpaid wages; رواتب متأخرة
+93416,en,unpaid_wages,two_hop,2,51,38.623,end of service; end-of-service; eos; eosb; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+93416,en,unpaid_wages,two_hop,3,53,33.82,14 days; dues; entitlements; final settlement; المستحقات; مستحقاتي
+93580,en,unfair_termination,two_hop,1,47,34.721,arbitrary dismissal; unfair dismissal; الفصل التعسفي; بدل فصل تعسفي; تعويض عن الفصل; فصل تعسفي
+93580,en,unfair_termination,two_hop,2,43,32.401,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+93580,en,unfair_termination,two_hop,3,29,31.606,annual leave; leave balance; leave salary; unused leave; vacation; بدل الإجازة
+93665,en,other,one_hop,1,54,4.502,labor complaint
+93665,en,other,two_hop,1,49,17.038,ban; noc
+93665,en,other,two_hop,2,54,16.622,court case; labor case; labor complaint
+93665,en,other,two_hop,3,8,9.778,job offer; عرض عمل
+93669,en,other,one_hop,1,59,4.032,fine
+93669,en,other,two_hop,1,59,14.912,fine; violation
+93669,en,other,two_hop,2,42,13.978,resign; resignation
+93669,en,other,two_hop,3,53,11.907,14 days; dues; entitlements
+93690,en,court_enforcement,one_hop,1,54,3.809,labor case
+93690,en,court_enforcement,one_hop,2,53,2.71,dues
+93690,en,court_enforcement,two_hop,1,54,45.325,court case; labor case; labor court; labour case; دعوى عمالية; قضية عمالية
+93690,en,court_enforcement,two_hop,2,51,10.356,gratuity; مستحقات نهاية الخدمة; نهاية الخدمة
+93690,en,court_enforcement,two_hop,3,29,8.639,annual leave; راتب الإجازة
+93754,en,other,one_hop,1,54,4.502,court case
+93754,en,other,one_hop,2,59,2.816,violation
+93754,en,other,two_hop,1,7,27.928,freelance; part-time; temporary work
+93754,en,other,two_hop,2,13,22.834,emirates id; health insurance; passport
+93754,en,other,two_hop,3,54,21.986,court case; labor court; labour case; labour court; tasheel
+93840,en,other,one_hop,1,3,3.339,free zone
+93840,en,other,two_hop,1,7,27.928,freelance; part-time; temporary work
+93840,en,other,two_hop,2,49,25.358,ban; no objection; noc
+93840,en,other,two_hop,3,13,18.346,air ticket; emirates id; health insurance; passport
+93857,en,recruitment_fees,one_hop,1,6,6.111,pay for the visa
+93857,en,recruitment_fees,one_hop,2,8,3.278,job offer
+93857,en,recruitment_fees,two_hop,1,6,69.855,employment costs; pay for the visa; recruitment costs; recruitment fees; visa cost; visa costs; visa fees; تكاليف التأشيرة
+93857,en,recruitment_fees,two_hop,2,9,48.143,probation; probation period; probationary period; خلال التجربة; فترة الاختبار
+93857,en,recruitment_fees,two_hop,3,8,24.404,contract renewal; job offer; limited contract; offer letter; عرض العمل; عقد غير محدد المدة
+93936,en,other,two_hop,1,49,29.166,ban; no objection; noc
+93936,en,other,two_hop,2,7,23.426,freelance; part-time; temporary work
+93936,en,other,two_hop,3,42,12.344,mutual agreement; resign; resignation
+93979,en,other,two_hop,1,42,21.793,company closed; mutual agreement; non-renewal; resignation
+93979,en,other,two_hop,2,54,16.344,file a case; labor case; labor complaint; labor court
+93979,en,other,two_hop,3,8,13.016,fixed-term contract; job offer; limited contract
+94089,en,other,one_hop,1,42,3.02,resign
+94089,en,other,two_hop,1,42,60.398,contract termination; end of contract; mutual agreement; non-renewal; resign; resignation; الاستقالة
+94089,en,other,two_hop,2,8,25.741,contract renewal; job offer; mohre contract; renew my contract; عرض العمل; عرض عمل
+94089,en,other,two_hop,3,43,17.377,notice period; فترة الإنذار
+94097,en,other,two_hop,1,13,32.893,air ticket; emirates id; official documents; passport
+94097,en,other,two_hop,2,49,19.683,ban; noc
+94097,en,other,two_hop,3,8,9.778,job offer; عرض عمل
+94132,en,other,two_hop,1,30,14.933,maternity leave; pregnancy; pregnant
+94132,en,other,two_hop,2,50,13.652,absconding; absconding case; absconding report
+94132,en,other,two_hop,3,65,11.124,التقادم; مرور سنة
+94194,en,other,one_hop,1,42,3.02,resign
+94194,en,other,one_hop,2,43,2.261,notice period
+94194,en,other,two_hop,1,42,36.342,mutual agreement; resign; resignation; استقالة; الاستقالة
+94194,en,other,two_hop,2,8,34.542,job offer; mohre contract; renew my contract; تجديد العقد; عقد غير محدد المدة; عقد محدد المدة
+94194,en,other,two_hop,3,9,15.747,probation; probation period; فترة الاختبار
+94196,en,other,one_hop,1,31,8.352,sick; sick leave
+94196,en,other,one_hop,2,19,5.013,overtime
+94196,en,other,two_hop,1,31,61.332,illness; medical certificate; medical leave; sick; sick leave
+94196,en,other,two_hop,2,13,31.294,air ticket; flight ticket; health insurance; medical insurance; return ticket; تذكرة طيران
+94196,en,other,two_hop,3,43,20.418,notice period; serve notice; شهر الإنذار; فترة الإنذار
+94265,en,court_enforcement,one_hop,1,22,4.502,pending salary
+94265,en,court_enforcement,two_hop,1,53,24.186,dues; entitlements; final settlement; المستحقات; مستحقاتي
+94265,en,court_enforcement,two_hop,2,54,22.565,labor case; labor court; شكوى عمالية; قضية عمالية
+94265,en,court_enforcement,two_hop,3,22,19.148,pending salary; unpaid salary; wage protection; wps
+94678,en,other,one_hop,1,13,9.178,accommodation; return ticket
+94678,en,other,two_hop,1,13,21.746,accommodation; emirates id; passport; return ticket
+94678,en,other,two_hop,2,8,16.545,job offer; عرض العمل; عرض عمل
+94678,en,other,two_hop,3,49,15.555,ban; noc
+94758,en,other,one_hop,1,50,8.639,absconding; absconding case
+94758,en,other,two_hop,1,50,39.571,absconding; absconding case; absconding report
+94758,en,other,two_hop,2,54,22.065,labor case; labor court; labour case; شكوى عمالية; وزارة الموارد البشرية
+94758,en,other,two_hop,3,53,16.926,14 days; dues; entitlements; المستحقات; مستحقاتي
+94807,en,other,two_hop,1,30,21.045,gave birth; maternity leave; pregnancy; pregnant
+94807,en,other,two_hop,2,59,20.543,fine; violation
+94807,en,other,two_hop,3,54,15.746,file a case; labor complaint; labour court; شكوى عمالية
+94938,en,other,one_hop,1,49,2.646,ban
+94938,en,other,two_hop,1,13,24.936,emirates id; passport
+94938,en,other,two_hop,2,49,19.683,ban; noc
+94938,en,other,two_hop,3,11,6.111,work for another company
+94956,en,other,two_hop,1,42,21.19,resign; resignation; الاستقالة; انتهاء العقد
+94956,en,other,two_hop,2,53,20.696,14 days; dues; entitlements; final payment
+94956,en,other,two_hop,3,54,18.457,file a case; توافق; دعوى عمالية; شكوى عمالية; وزارة الموارد البشرية
+95435,en,other,one_hop,1,21,10.837,rest day; weekly rest
+95435,en,other,one_hop,2,29,7.723,annual leave; leave balance
+95435,en,other,one_hop,3,72,5.418,executive regulations
+95435,en,other,two_hop,1,29,63.348,annual leave; leave balance; leave salary; unused leave; إجازة سنوية
+95435,en,other,two_hop,2,53,23.278,dues; entitlements; final settlement; المستحقات
+95435,en,other,two_hop,3,51,22.625,end of service; end-of-service; final settlement; gratuity; مكافأة نهاية الخدمة; نهاية الخدمة
+95437,en,other,one_hop,1,10,4.032,non-compete
+95437,en,other,one_hop,2,8,3.809,offer letter
+95437,en,other,one_hop,3,3,3.339,free zone
+95437,en,other,two_hop,1,10,35.604,competitor; non-compete; non-competition
+95437,en,other,two_hop,2,8,21.04,job offer; offer letter; renew my contract; عقد غير محدد المدة
+95437,en,other,two_hop,3,42,20.603,resign; resignation; استقالة; الاستقالة
+95613,en,other,one_hop,1,9,2.853,probation
+95613,en,other,two_hop,1,17,38.4,48 hours; 8 hours; 9 hours; hours per day; working hours
+95613,en,other,two_hop,2,30,35.062,gave birth; maternity leave; pregnancy; pregnant
+95613,en,other,two_hop,3,31,29.606,illness; medical certificate; sick; sick leave
+95787,en,other,one_hop,1,30,16.032,gave birth; maternity leave; pregnant
+95787,en,other,two_hop,1,30,40.48,gave birth; maternity leave; pregnancy; pregnant
+95787,en,other,two_hop,2,43,21.904,notice period; بدل الإنذار; شهر الإنذار; فترة الإشعار; فترة الإنذار
+95787,en,other,two_hop,3,17,19.658,12 hours; 8 hours; hours per day; working hours
+96055,en,other,one_hop,1,29,4.166,vacation
+96055,en,other,two_hop,1,42,41.948,contract termination; end of contract; mutual agreement; non-renewal; resign; resignation
+96055,en,other,two_hop,2,53,21.038,dues; entitlements; final settlement
+96055,en,other,two_hop,3,51,20.833,end-of-service; final settlement; gratuity
+96058,en,other,one_hop,1,39,5.013,warning letter
+96058,en,other,two_hop,1,42,33.106,resign; resignation; استقالة; الاستقالة; انتهاء العقد
+96058,en,other,two_hop,2,29,18.185,annual leave; leave salary; unused leave
+96058,en,other,two_hop,3,8,12.161,limited contract; offer letter; عقد غير محدد المدة
+96063,en,other,two_hop,1,42,28.416,contract expired; contract termination; end of contract; mutual agreement; non-renewal; resignation
+96063,en,other,two_hop,2,54,21.293,labor case; labor court; labour case; labour court; tasheel
+96063,en,other,two_hop,3,13,15.635,emirates id; passport
+96204,en,other,one_hop,1,54,4.725,labour case
+96204,en,other,two_hop,1,54,35.707,court case; labor case; labor complaint; labour case; توافق; دعوى عمالية; وزارة الموارد البشرية
+96204,en,other,two_hop,2,31,17.242,illness; medical certificate; sick; sick leave
+96204,en,other,two_hop,3,19,11.124,overtime; overtime pay
+96589,en,other,one_hop,1,10,4.032,non-compete
+96589,en,other,two_hop,1,42,42.805,mutual agreement; resign; resignation; استقالة; الاستقالة; انتهاء العقد
+96589,en,other,two_hop,2,10,35.604,competitor; non-compete; non-competition
+96589,en,other,two_hop,3,9,14.098,probation; probation period; probationary period; فترة الاختبار
+96679,en,other,one_hop,1,43,2.261,notice period
+96679,en,other,two_hop,1,42,34.763,mutual agreement; resign; resignation; الاستقالة
+96679,en,other,two_hop,2,53,31.024,14 days; dues; entitlements; final payment
+96679,en,other,two_hop,3,51,18.271,end-of-service; gratuity
+96699,en,other,one_hop,1,29,7.723,annual leave; leave balance
+96699,en,other,one_hop,2,25,4.032,deducted
+96699,en,other,two_hop,1,29,60.889,annual leave; leave balance; leave salary; unused leave; vacation; الإجازة السنوية
+96699,en,other,two_hop,2,13,24.217,air ticket; flight ticket; passport; return ticket
+96699,en,other,two_hop,3,31,21.274,illness; medical certificate; sick; sick leave
+98352,en,court_enforcement,one_hop,1,13,6.234,emirates id; passport
+98352,en,court_enforcement,one_hop,2,22,4.502,pending salary
+98352,en,court_enforcement,one_hop,3,53,2.71,dues
+98352,en,court_enforcement,two_hop,1,22,31.778,not paid; pending salary; unpaid salary; wage protection; wps
+98352,en,court_enforcement,two_hop,2,53,22.784,dues; entitlements; final settlement; مستحقاتي
+98352,en,court_enforcement,two_hop,3,54,21.633,labor case; labor court; labour court; قضية عمالية
+98602,en,other,two_hop,1,42,30.984,non-renewal; resign; resignation; الاستقالة; انتهاء العقد
+98602,en,other,two_hop,2,54,18.767,labor case; labor court; توافق; دعوى عمالية; وزارة الموارد البشرية
+98602,en,other,two_hop,3,53,14.617,14 days; dues; entitlements
+98655,en,other,one_hop,1,13,4.166,accommodation
+98655,en,other,one_hop,2,8,3.809,offer letter
+98655,en,other,one_hop,3,43,2.261,notice period
+98655,en,other,two_hop,1,53,31.504,14 days; dues; entitlements; final payment
+98655,en,other,two_hop,2,13,27.758,accommodation; air ticket; emirates id; official documents; passport
+98655,en,other,two_hop,3,42,21.126,non-renewal; resign; resignation
+99192,en,other,two_hop,1,13,28.003,emirates id; passport
+99192,en,other,two_hop,2,54,14.345,complaint to mohre; file a case; tasheel
+99192,en,other,two_hop,3,49,11.746,ban; noc
+99208,en,unfair_termination,one_hop,1,8,3.809,offer letter
+99208,en,unfair_termination,two_hop,1,47,26.322,unfair dismissal; wrongful termination; الفصل التعسفي; تعويض عن الفصل
+99208,en,unfair_termination,two_hop,2,29,23.19,annual leave; leave balance; leave salary; vacation
+99208,en,unfair_termination,two_hop,3,8,19.847,mohre contract; offer letter; عقد محدد المدة
