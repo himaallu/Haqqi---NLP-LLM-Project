@@ -25,7 +25,10 @@ import os
 import sys
 from datetime import datetime, timezone
 
-import anthropic
+try:
+    import anthropic
+except ImportError:  # label_app.py imports OUT from here and must run without it
+    anthropic = None
 import pandas as pd
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
@@ -75,7 +78,7 @@ def system_prompt() -> str:
         return INSTRUCTIONS.format(guide=f.read())
 
 
-def suggest(client: anthropic.Anthropic, system: str, text: str) -> tuple[dict, str]:
+def suggest(client: "anthropic.Anthropic", system: str, text: str) -> tuple[dict, str]:
     """Ask Claude for labels for one question. Returns (labels, model that answered)."""
     response = client.beta.messages.create(
         model=MODEL,
@@ -144,6 +147,8 @@ def main():
         print("\n--- system ---\n" + system + "\n--- user ---\n<question>\n" + todo.iloc[0]["text_masked"] + "\n</question>")
         return
 
+    if anthropic is None:
+        raise SystemExit("The anthropic package is missing: pip install anthropic")
     has_profile = os.path.isdir(os.path.expanduser("~/.config/anthropic"))  # from `ant auth login`
     if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN") or has_profile):
         raise SystemExit("No API credentials: run  export ANTHROPIC_API_KEY=...  in this terminal first.")
