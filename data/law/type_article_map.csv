@@ -1,8 +1,21 @@
 ﻿problem_type,article,note
-unpaid_wages,,one row per correct article; add rows for more
-passport_withheld,,
-gratuity,,
-unfair_termination,,
-recruitment_fees,,
-court_enforcement,,
-other,,leave empty if no fixed articles (not scored)
+unpaid_wages,19,Overtime pay and compensation for work on the contractual weekly rest day. All article numbers in this file refer to Federal Decree-Law 33/2021 as amended.
+unpaid_wages,22,Contractual wage and payment when due; covers delayed or unpaid wages and contractual wage components.
+unpaid_wages,25,Permitted grounds and limits for deductions or withholding from wages; applies when the shortfall is a deduction.
+unpaid_wages,26,Employer must enable the worker to perform work; otherwise the agreed wage remains payable.
+unpaid_wages,53,Wages and other final dues must be paid within 14 days after the contract ends; applies to final settlement.
+passport_withheld,13,Clause 2 prohibits retaining the worker's official documents; includes passports and Emirates ID.
+gratuity,51,Full-time end-of-service benefits; calculation and eligibility for foreign workers and applicable pension legislation for nationals.
+gratuity,52,End-of-service benefits for foreign workers in work patterns other than full-time; detailed calculation is delegated to the implementing regulation.
+gratuity,53,Deadline for paying gratuity and other final dues after contract end; not the calculation formula.
+unfair_termination,9,Probationary termination notice and notice compensation; applies only during probation.
+unfair_termination,42,Statutory grounds on which an employment contract ends.
+unfair_termination,43,Termination for a legitimate reason with written notice; notice period and compensation for failure to give notice.
+unfair_termination,44,Specified grounds and procedural conditions for employer dismissal without notice; absence of notice alone does not establish illegality.
+unfair_termination,47,Retaliatory dismissal for a serious Ministry complaint or a substantiated lawsuit; court-assessed compensation is capped at three months' wage. Not a general automatic award for every disputed dismissal.
+recruitment_fees,6,Clause 4 prohibits the employer charging recruitment or employment costs to the worker directly or indirectly; includes visa/hiring cost recovery in that context.
+recruitment_fees,9,Clauses 3-4 address reimbursement by a new employer in specified probation moves; not a general obligation for the worker to repay visa costs.
+court_enforcement,54,"Individual labour-dispute procedure and enforceable MOHRE decisions; use the text amended by Federal Decree-Law 9/2024. Detailed court execution, service, attachment and appeal rules also require the applicable procedural law."
+court_enforcement,55,"Judicial-fee exemption for qualifying worker/beneficiary claims not exceeding AED 100000, including litigation and execution; not a blanket exemption for every claim or every deposit."
+court_enforcement,65,Clause 7 gives worker/family entitlements priority against the employer's assets subject to the stated prior-ranking claims; does not by itself make LLC partners personally liable.
+other,,
