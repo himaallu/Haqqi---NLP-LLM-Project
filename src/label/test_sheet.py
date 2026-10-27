@@ -4,6 +4,7 @@ Label the 91 RQ1 test questions in Excel instead of the Streamlit app.
 Run from the repo root:
     python src/label/test_sheet.py export   # writes data/labelled/test_to_label.xlsx
     python src/label/test_sheet.py import   # reads it back into data/labelled/test_labels.csv
+    python src/label/test_sheet.py import data/labelled/test_labels_filled.xlsx   # another filled sheet
 
 Export: the test questions in the same fixed mixed order as `label_app.py --test`,
 masked text only (no lawyers' answers, no LLM suggestions, no URL), with dropdowns
@@ -94,9 +95,10 @@ def export():
     print(f"Wrote {SHEET}: {len(qs)} questions ({qs['lang'].value_counts().to_dict()})")
 
 
-def import_sheet():
-    wb = load_workbook(SHEET, read_only=True)
-    rows = list(wb["label"].values)
+def import_sheet(path: str = SHEET):
+    # first sheet; it only needs question_id and the FILL columns
+    wb = load_workbook(path, read_only=True)
+    rows = list(wb.worksheets[0].values)
     sheet = pd.DataFrame(rows[1:], columns=rows[0]).fillna("").astype(str)
     sheet = sheet.apply(lambda c: c.str.strip())
     sheet["question_id"] = sheet["question_id"].str.removesuffix(".0")
@@ -119,9 +121,13 @@ def import_sheet():
     out.reindex(columns=LABEL_COLS).to_csv(LABELS, index=False, encoding="utf-8-sig")
     print(f"Saved {len(out)} labels to {LABELS}")
     if len(bad):
-        print(f"Skipped {len(bad)} rows without a valid problem_type and asker: n =",
-              ", ".join(bad["n"]))
+        print(f"Skipped {len(bad)} rows without a valid problem_type and asker: question_id =",
+              ", ".join(bad["question_id"]))
 
 
 if __name__ == "__main__":
-    {"export": export, "import": import_sheet}[sys.argv[1] if len(sys.argv) > 1 else "export"]()
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "export"
+    if cmd == "import":
+        import_sheet(*sys.argv[2:3])
+    else:
+        export()
