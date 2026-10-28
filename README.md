@@ -8,6 +8,8 @@ MAAI 902 (NLP & LLMs), Assessment 2. A pipeline that reads a worker's message in
 2. Open the notebook in Colab, choose a GPU runtime (A100 or L4 on Colab Pro), add a Hugging Face read token as the Colab secret `HF_TOKEN` (needed for the gated Jais 2 model) and *Run all*.
 3. Cells marked **⚡ GPU cell** run the LLMs (Qwen3-8B, Jais 2 8B) with transformers in bfloat16, or 4-bit on smaller GPUs. Their outputs are cached in `MyDrive/haqqi/results/cache/`, so after a disconnect just run them again. All other cells run on CPU.
 
+The executed run with all outputs (A100, 28 Oct 2026) is `notebooks/Haqqi_MAAI902_results.ipynb`; the numbers are summarised in `results/final_results.md` and the charts are in `results/figures/`.
+
 ## Setup
 
 ```bash
