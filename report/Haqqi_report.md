@@ -17,7 +17,7 @@ Session: [Session, e.g. Autumn 2026]
 
 Code (GitHub): https://github.com/himaallu/Haqqi---NLP-LLM-Project
 
-Code (Google Colab): https://colab.research.google.com/github/himaallu/Haqqi---NLP-LLM-Project/blob/main/notebooks/Haqqi_MAAI902.ipynb
+Code (Google Colab): https://colab.research.google.com/drive/1CSCJ0YYtAQ1CecSFQpAiW5Jgqw20khWS?usp=sharing
 
 Executed notebook with all outputs: `notebooks/Haqqi_MAAI902_results.ipynb`
 :::
