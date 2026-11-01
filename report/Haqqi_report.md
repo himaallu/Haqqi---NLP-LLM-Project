@@ -1,5 +1,5 @@
 ::: {custom-style="Title page"}
-![](report/assets/uowd_logo.jpg){width=4.5cm}
+![](report/assets/uowd_logo.jpg){width=2.5cm}
 
 **University of Wollongong in Dubai**
 
@@ -16,8 +16,6 @@ Student ID: 1789513
 Instructor: Dr. Pallavi Ranjan
 
 Session: Autumn 2026
-
-Date: 1 November 2026
 
 Code: https://github.com/himaallu/Haqqi---NLP-LLM-Project
 
