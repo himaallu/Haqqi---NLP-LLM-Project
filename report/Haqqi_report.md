@@ -1,4 +1,6 @@
 ::: {custom-style="Title page"}
+![](report/assets/uowd_logo.jpg){width=4.5cm}
+
 **University of Wollongong in Dubai**
 
 MAAI902 Natural Language Processing and Large Language Models
@@ -11,7 +13,7 @@ Student: Himasri Allu
 
 Student ID: 1789513
 
-Instructor: [Instructor name]
+Instructor: Dr. Pallavi Ranjan
 
 Session: Autumn 2026
 
